@@ -9,7 +9,6 @@ Fosshost C.I.C. is a Community Interest Company, registered in England and Wales
 LICENSE: TBD
 #+END_QUOTE
 
-#+OPTIONS: toc:nil
 #+TOC: headlines 2
 
 * OUR POLICY

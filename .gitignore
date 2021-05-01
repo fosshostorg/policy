@@ -3,8 +3,13 @@
 
 # Packaging
 
-# Backup files
+# Backup etc files
 *~
+.#*
+#*
 
 # Undo-tree save-files
 *.~undo-tree
+
+# semaphor for pre/post commit hook
+.commit
