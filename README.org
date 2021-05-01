@@ -94,7 +94,7 @@ and that help to identify and distinguish the interests we serve.
 
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 *** ITEMS
-    1. FOSS ("FLOSS", "Free Software", "Open Source Software" "Open Source", "Free and Open Source Software")
+**** FOSS ("FLOSS", "Free Software", "Open Source Software" "Open Source", "Free and Open Source Software")
        1. will usually refer to a product or a combination of products ("program"), and
 	  1. includes the program source and other materials in any form or forms ("sources and binaries"), and
 	     1. being duly described ("documented"), and
@@ -129,7 +129,7 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 		2. by other conduct, communication or other specific and recognized act ("support"), does
 	     2. further FOSS development ("FOSS community member"), or
 	     3. does more than more than one of these ("FOSS Community").
-    2. FOSS Hosting and Service ("hosting")
+**** FOSS Hosting and Service ("hosting")
        1. Our purpose and function ("mission") is to provide this, meaning
        2. our records as a registered and accountable organization ("records", "Fosshost records"),
        3. shall relate to that business, and including
@@ -168,7 +168,7 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 	   4. any other public body, such as
 	      1. applicable law enforcement,
 	      2. where and as may be prudent and advisable.
-    3. Empower and Support ("provide")
+**** Empower and Support ("provide")
        1. Our mission is to offer hosting to FOSS projects and communities, ("tenants", "applicants"), and
        2. we act at our own discretion, for example including
 	  1. making any offer of hosting, and
