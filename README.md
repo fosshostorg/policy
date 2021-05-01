@@ -1,20 +1,20 @@
 
 # Table of Contents
 
-1.  [OUR POLICY](#org9a9dbae)
-    1.  [Our Expectations Evolution Policy](#org4640504)
-        1.  [SUMMARY](#org40ede5e)
-        2.  [ITEMS](#org512e078)
-    2.  [Our Values and Ethics Policy](#org837a36e)
-        1.  [SUMMARY](#org596006d)
-        2.  [ITEMS](#orgdeb0b71)
-    3.  [Our Community Policy](#org69af4aa)
-        1.  [SUMMARY](#orgaf4e1dc)
-        2.  [ITEMS](#orgbf49586)
-    4.  [Our Teamwork Policy](#org4b715a9)
-    5.  [Our Sponsorship and Contribution Policy](#org6500934)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org9adeb73)
-    7.  [Our Continuation and Termination of Authority Policy](#org51781b1)
+1.  [OUR POLICY](#org69e419f)
+    1.  [Our Expectations Evolution Policy](#orgcc23791)
+        1.  [SUMMARY](#orgfd3379d)
+        2.  [ITEMS](#org290a358)
+    2.  [Our Values and Ethics Policy](#org2cda08b)
+        1.  [SUMMARY](#org3a69d38)
+        2.  [ITEMS](#org6026731)
+    3.  [Our Community Policy](#org807e00c)
+        1.  [SUMMARY](#orgc005929)
+        2.  [ITEMS](#orgc1e3065)
+    4.  [Our Teamwork Policy](#org23e53a9)
+    5.  [Our Sponsorship and Contribution Policy](#orga8db39f)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgb88832e)
+    7.  [Our Continuation and Termination of Authority Policy](#org8e3f489)
 
 > Copyright © 2021 Fosshost CIC and [contributors](https://docs.fosshost.org/en/home/team).
 > 
@@ -25,17 +25,17 @@
 
 # Table of Contents
 
-1.  [OUR POLICY](#org9a9dbae)
-    1.  [Our Expectations Evolution Policy](#org4640504)
-    2.  [Our Values and Ethics Policy](#org837a36e)
-    3.  [Our Community Policy](#org69af4aa)
-    4.  [Our Teamwork Policy](#org4b715a9)
-    5.  [Our Sponsorship and Contribution Policy](#org6500934)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org9adeb73)
-    7.  [Our Continuation and Termination of Authority Policy](#org51781b1)
+1.  [OUR POLICY](#org69e419f)
+    1.  [Our Expectations Evolution Policy](#orgcc23791)
+    2.  [Our Values and Ethics Policy](#org2cda08b)
+    3.  [Our Community Policy](#org807e00c)
+    4.  [Our Teamwork Policy](#org23e53a9)
+    5.  [Our Sponsorship and Contribution Policy](#orga8db39f)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgb88832e)
+    7.  [Our Continuation and Termination of Authority Policy](#org8e3f489)
 
 
-<a id="org9a9dbae"></a>
+<a id="org69e419f"></a>
 
 # OUR POLICY
 
@@ -51,14 +51,14 @@ acting on our behalf expect whereas our policies (this document or
 documents) make expressly and specifically describe and allow.
 
 
-<a id="org4640504"></a>
+<a id="orgcc23791"></a>
 
 ## Our Expectations Evolution Policy
 
 > A practice to properly police Fosshost's polices.
 
 
-<a id="org40ede5e"></a>
+<a id="orgfd3379d"></a>
 
 ### SUMMARY
 
@@ -67,7 +67,7 @@ The ITEMS following create a basis for directors to create and update policy, fo
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org512e078"></a>
+<a id="org290a358"></a>
 
 ### ITEMS
 
@@ -90,14 +90,14 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="org837a36e"></a>
+<a id="org2cda08b"></a>
 
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
 
-<a id="org596006d"></a>
+<a id="org3a69d38"></a>
 
 ### SUMMARY
 
@@ -106,7 +106,7 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgdeb0b71"></a>
+<a id="org6026731"></a>
 
 ### ITEMS
 
@@ -123,14 +123,14 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 10. we will show our same values to all people and communities.
 
 
-<a id="org69af4aa"></a>
+<a id="org807e00c"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
 
-<a id="orgaf4e1dc"></a>
+<a id="orgc005929"></a>
 
 ### SUMMARY
 
@@ -148,7 +148,7 @@ and that help to identify and distinguish the interests we serve.
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgbf49586"></a>
+<a id="orgc1e3065"></a>
 
 ### ITEMS
 
@@ -261,22 +261,22 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
             3.  our duty to serve the public good.
 
 
-<a id="org4b715a9"></a>
+<a id="org23e53a9"></a>
 
 ## Our Teamwork Policy
 
 
-<a id="org6500934"></a>
+<a id="orga8db39f"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="org9adeb73"></a>
+<a id="orgb88832e"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org51781b1"></a>
+<a id="org8e3f489"></a>
 
 ## Our Continuation and Termination of Authority Policy
 
