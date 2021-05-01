@@ -2,7 +2,7 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
 
 #+BEGIN_QUOTE
-Copyright © 2021 Fosshost CIC and [[https://docs.fosshost.org/en/home/team][contributors]]
+Copyright © 2021 Fosshost CIC and [[https://docs.fosshost.org/en/home/team][contributors]].
 
 Fosshost C.I.C. is a Community Interest Company, registered in England and Wales. Company Reg No: 13356530. Registered Office Address: 7 Bell Yard, London, England, WC2A 2JR, Great Britain.
 
@@ -129,7 +129,7 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 		2. by other conduct, communication or other specific and recognized act ("support"), does
 	     2. further FOSS development ("FOSS community member"), or
 	     3. does more than more than one of these ("FOSS Community").
-    2. FOSS Hosting and Service
+    2. FOSS Hosting and Service ("hosting")
        1. Our purpose and function ("mission") is to provide this, meaning
        2. our records as a registered and accountable organization ("records", "Fosshost records"),
        3. shall relate to that business, and including
@@ -168,6 +168,23 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 	   4. any other public body, such as
 	      1. applicable law enforcement,
 	      2. where and as may be prudent and advisable.
+    3. Empower and Support ("provide")
+       1. Our mission is to offer hosting to FOSS projects and communities, ("tenants", "applicants"), and
+       2. we act at our own discretion, for example including
+	  1. making any offer of hosting, and
+	  2. providing such hosting, and
+	  3. deciding to retract or withdraw or otherwise terminate such hosting or any offer of hosting, and
+	  4. to do any and all of these according to our own policy and judgment, and
+       3. we do so without guarantees other than those specified herein, but
+       4. always after due diligence including (but not limited to) consideration of:
+	  1. our ability to access and verify the relationship between the tenant/prospect and the community, and
+	  2. our estimation of the value or potential value provided to the community, and
+	  3. our consideration of such estimation relative to others that we host or may in the future host, and
+	  4. any specific concern or concerns we may have, for example such as
+	     1. the likelihood a tenant/prospect has and/or will comply our policies and other stated expectations,
+	     2. the general intentions and/or conduct of tenant/prospect as perceived by Fosshost,
+	     3. any specific technical or organizational risk we find tenant/prospect poses to us or the community,
+	     4. any other specific concerns we may at our sole digression find and duly deliberate and record.
 
 ** Our Teamwork Policy
 ** Our Sponsorship and Contribution Policy
