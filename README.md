@@ -1,42 +1,42 @@
 
 # Table of Contents
 
-1.  [OUR POLICY](#orge349900)
-    1.  [Our Expectations Evolution Policy](#org312fe4c)
-        1.  [SUMMARY](#org433353f)
-        2.  [ITEMS](#org8a7bb7e)
-        3.  [](#orgcd02cf8)
-    2.  [Our Values and Ethics Policy](#org569b97b)
-        1.  [SUMMARY](#orgd599333)
-        2.  [ITEMS](#orge0d0c7a)
-    3.  [Our Community Policy](#orgb66a126)
-        1.  [SUMMARY](#orgba44403)
-        2.  [ITEMS](#orge9b2e20)
-    4.  [Our Teamwork Policy](#orga0d2f44)
-    5.  [Our Sponsorship and Contribution Policy](#org6f42998)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org9c02d24)
-    7.  [Our Continuation and Termination of Authority Policy](#orgdce0126)
+1.  [OUR POLICY](#org3e58c20)
+    1.  [Our Expectations Evolution Policy](#orga2ed23e)
+        1.  [SUMMARY](#org9c12f66)
+        2.  [ITEMS](#org53f84ce)
+        3.  [](#orgd1e18ef)
+    2.  [Our Values and Ethics Policy](#orgb20d459)
+        1.  [SUMMARY](#orge9c36c4)
+        2.  [ITEMS](#org599ce58)
+    3.  [Our Community Policy](#org64a6ee3)
+        1.  [SUMMARY](#orgef3d723)
+        2.  [ITEMS](#orgd3e8234)
+    4.  [Our Teamwork Policy](#org3254b7b)
+    5.  [Our Sponsorship and Contribution Policy](#orge594a66)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgd3ccf17)
+    7.  [Our Continuation and Termination of Authority Policy](#org08d6873)
 
 > Copyright © 2021 Fosshost CIC and [contributors](https://docs.fosshost.org/en/home/team).
 > 
 > Fosshost C.I.C. is a Community Interest Company, registered in England and Wales. Company Reg No: 13356530. Registered Office Address: 7 Bell Yard, London, England, WC2A 2JR, Great Britain.
 > 
-> LICENSE: TBD
+> Permission is granted to copy, distribute and/or modify Wikipedia's text under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
 # Table of Contents
 
-1.  [OUR POLICY](#orge349900)
-    1.  [Our Expectations Evolution Policy](#org312fe4c)
-    2.  [Our Values and Ethics Policy](#org569b97b)
-    3.  [Our Community Policy](#orgb66a126)
-    4.  [Our Teamwork Policy](#orga0d2f44)
-    5.  [Our Sponsorship and Contribution Policy](#org6f42998)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org9c02d24)
-    7.  [Our Continuation and Termination of Authority Policy](#orgdce0126)
+1.  [OUR POLICY](#org3e58c20)
+    1.  [Our Expectations Evolution Policy](#orga2ed23e)
+    2.  [Our Values and Ethics Policy](#orgb20d459)
+    3.  [Our Community Policy](#org64a6ee3)
+    4.  [Our Teamwork Policy](#org3254b7b)
+    5.  [Our Sponsorship and Contribution Policy](#orge594a66)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgd3ccf17)
+    7.  [Our Continuation and Termination of Authority Policy](#org08d6873)
 
 
-<a id="orge349900"></a>
+<a id="org3e58c20"></a>
 
 # OUR POLICY
 
@@ -52,14 +52,14 @@ acting on our behalf expect whereas our policies (this document or
 documents) make expressly and specifically describe and allow.
 
 
-<a id="org312fe4c"></a>
+<a id="orga2ed23e"></a>
 
 ## Our Expectations Evolution Policy
 
 > A practice to properly police Fosshost's polices.
 
 
-<a id="org433353f"></a>
+<a id="org9c12f66"></a>
 
 ### SUMMARY
 
@@ -68,7 +68,7 @@ The ITEMS following create a basis for directors to create and update policy, fo
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org8a7bb7e"></a>
+<a id="org53f84ce"></a>
 
 ### ITEMS
 
@@ -91,21 +91,21 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="orgcd02cf8"></a>
+<a id="orgd1e18ef"></a>
 
 ### TODO 
 
 1.  DONE relate to articles, cannot superseed save for process for amended
 
 
-<a id="org569b97b"></a>
+<a id="orgb20d459"></a>
 
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
 
-<a id="orgd599333"></a>
+<a id="orge9c36c4"></a>
 
 ### SUMMARY
 
@@ -114,7 +114,7 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orge0d0c7a"></a>
+<a id="org599ce58"></a>
 
 ### ITEMS
 
@@ -131,14 +131,14 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 10. we will show our same values to all people and communities.
 
 
-<a id="orgb66a126"></a>
+<a id="org64a6ee3"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
 
-<a id="orgba44403"></a>
+<a id="orgef3d723"></a>
 
 ### SUMMARY
 
@@ -156,7 +156,7 @@ and that help to identify and distinguish the interests we serve.
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orge9b2e20"></a>
+<a id="orgd3e8234"></a>
 
 ### ITEMS
 
@@ -253,22 +253,22 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
             4.  any other specific concerns we may at our sole digression find and duly deliberate and record.
 
 
-<a id="orga0d2f44"></a>
+<a id="org3254b7b"></a>
 
 ## Our Teamwork Policy
 
 
-<a id="org6f42998"></a>
+<a id="orge594a66"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="org9c02d24"></a>
+<a id="orgd3ccf17"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="orgdce0126"></a>
+<a id="org08d6873"></a>
 
 ## Our Continuation and Termination of Authority Policy
 
