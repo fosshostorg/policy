@@ -54,9 +54,6 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 16. And where in conflict, our articles are considered before and superior to our policies including this one,
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
-*** TODO
-**** DONE relate to articles, cannot superseed save for process for amended
-     CLOSED: [2021-04-28 Wed 01:04]
 ** Our Values and Ethics Policy
 #+BEGIN_QUOTE
 A statement of our values and accountability.
