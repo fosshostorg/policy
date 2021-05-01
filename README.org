@@ -170,7 +170,7 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 	   4. any other public body, such as
 	      1. applicable law enforcement,
 	      2. where and as may be prudent and advisable.
-    3. Empower and Support ("provide")
+    3. Empower and Support every Free and Open Source Software project ("provide")
        1. Our mission is to offer hosting to FOSS projects and communities, ("tenants", "applicants"), and
        2. we act at our own discretion, for example including
 	  1. making any offer of hosting, and
@@ -187,6 +187,16 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 	     2. the general intentions and/or conduct of tenant/prospect as perceived by Fosshost,
 	     3. any specific technical or organizational risk we find tenant/prospect poses to us or the community,
 	     4. any other specific concerns we may at our sole digression find and duly deliberate and record.
+    4. To go further, together ("cooperate", "colaborate"), meaning
+       1. we use and provide only FOSS software as part of our service, and while
+       2. we may at our digression use other commercial/non-FOSS software, nevertheless
+       3. we work to remove any non-FOSS software from our operating practices, and
+       4. will at no time endorse, promote, sell, or resell commercial/non-FOSS software, and especially
+       5. that will do not and will not endorse specifically any provider of commercial software on that basis.
+    5. Our work never stops ("ongoing"), meaning
+       1. our commitment to the community is not limited in or by duration, however
+       2. we may at times reach limits based on resources such as technical or of labor, or
+       3. by our digression including our policies and/or our legal and ethical obligations.
 
 ** Our Teamwork Policy
 ** Our Sponsorship and Contribution Policy
