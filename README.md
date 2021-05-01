@@ -1,21 +1,21 @@
 
 # Table of Contents
 
-1.  [OUR POLICY](#org11c0a93)
-    1.  [Our Expectations Evolution Policy](#org32e5d02)
-        1.  [SUMMARY](#org851db8f)
-        2.  [ITEMS](#org7f76a4e)
-        3.  [](#org2a3f759)
-    2.  [Our Values and Ethics Policy](#orgbdabeb4)
-        1.  [SUMMARY](#orga3fa526)
-        2.  [ITEMS](#orgc235084)
-    3.  [Our Community Policy](#orgd06cefb)
-        1.  [SUMMARY](#orgfa77d5d)
-        2.  [ITEMS](#org4276371)
-    4.  [Our Teamwork Policy](#org628506a)
-    5.  [Our Sponsorship and Contribution Policy](#org3dbd52b)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgc40e089)
-    7.  [Our Continuation and Termination of Authority Policy](#org6e47035)
+1.  [OUR POLICY](#org2509a4d)
+    1.  [Our Expectations Evolution Policy](#org170dc9b)
+        1.  [SUMMARY](#org2bb2b75)
+        2.  [ITEMS](#orgd89dddf)
+        3.  [](#org45fa827)
+    2.  [Our Values and Ethics Policy](#org7a0dc93)
+        1.  [SUMMARY](#org2c6388b)
+        2.  [ITEMS](#orgf5b81f9)
+    3.  [Our Community Policy](#orgf14a22c)
+        1.  [SUMMARY](#org411d958)
+        2.  [ITEMS](#org2964c59)
+    4.  [Our Teamwork Policy](#org457648c)
+    5.  [Our Sponsorship and Contribution Policy](#org48d2337)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org57f2a6a)
+    7.  [Our Continuation and Termination of Authority Policy](#org70f38ae)
 
 > Copyright © 2021 Fosshost CIC and [contributors](https://docs.fosshost.org/en/home/team).
 > 
@@ -26,17 +26,17 @@
 
 # Table of Contents
 
-1.  [OUR POLICY](#org11c0a93)
-    1.  [Our Expectations Evolution Policy](#org32e5d02)
-    2.  [Our Values and Ethics Policy](#orgbdabeb4)
-    3.  [Our Community Policy](#orgd06cefb)
-    4.  [Our Teamwork Policy](#org628506a)
-    5.  [Our Sponsorship and Contribution Policy](#org3dbd52b)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgc40e089)
-    7.  [Our Continuation and Termination of Authority Policy](#org6e47035)
+1.  [OUR POLICY](#org2509a4d)
+    1.  [Our Expectations Evolution Policy](#org170dc9b)
+    2.  [Our Values and Ethics Policy](#org7a0dc93)
+    3.  [Our Community Policy](#orgf14a22c)
+    4.  [Our Teamwork Policy](#org457648c)
+    5.  [Our Sponsorship and Contribution Policy](#org48d2337)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org57f2a6a)
+    7.  [Our Continuation and Termination of Authority Policy](#org70f38ae)
 
 
-<a id="org11c0a93"></a>
+<a id="org2509a4d"></a>
 
 # OUR POLICY
 
@@ -52,14 +52,14 @@ acting on our behalf expect whereas our policies (this document or
 documents) make expressly and specifically describe and allow.
 
 
-<a id="org32e5d02"></a>
+<a id="org170dc9b"></a>
 
 ## Our Expectations Evolution Policy
 
 > A practice to properly police Fosshost's polices.
 
 
-<a id="org851db8f"></a>
+<a id="org2bb2b75"></a>
 
 ### SUMMARY
 
@@ -68,7 +68,7 @@ The ITEMS following create a basis for directors to create and update policy, fo
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org7f76a4e"></a>
+<a id="orgd89dddf"></a>
 
 ### ITEMS
 
@@ -91,21 +91,21 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="org2a3f759"></a>
+<a id="org45fa827"></a>
 
 ### TODO 
 
 1.  DONE relate to articles, cannot superseed save for process for amended
 
 
-<a id="orgbdabeb4"></a>
+<a id="org7a0dc93"></a>
 
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
 
-<a id="orga3fa526"></a>
+<a id="org2c6388b"></a>
 
 ### SUMMARY
 
@@ -114,7 +114,7 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgc235084"></a>
+<a id="orgf5b81f9"></a>
 
 ### ITEMS
 
@@ -131,14 +131,14 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 10. we will show our same values to all people and communities.
 
 
-<a id="orgd06cefb"></a>
+<a id="orgf14a22c"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
 
-<a id="orgfa77d5d"></a>
+<a id="org411d958"></a>
 
 ### SUMMARY
 
@@ -156,7 +156,7 @@ and that help to identify and distinguish the interests we serve.
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org4276371"></a>
+<a id="org2964c59"></a>
 
 ### ITEMS
 
@@ -255,30 +255,36 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
     1.  we use and provide only FOSS software as part of our service, and while
     2.  we may at our digression use other commercial/non-FOSS software, nevertheless
     3.  we work to remove any non-FOSS software from our operating practices, and
-    4.  will at no time endorse, promote, sell, or resell commercial/non-FOSS software, and especially
-    5.  that will do not and will not endorse specifically any provider of commercial software on that basis.
+    4.  we will at no time endorse, promote, sell, or resell commercial/non-FOSS software, and especially that
+    5.  we will do not and will not endorse specifically any provider of commercial software on that basis.
 5.  Our work never stops ("ongoing"), meaning
     1.  our commitment to the community is not limited in or by duration, however
     2.  we may at times reach limits based on resources such as technical or of labor, or
-    3.  by our digression including our policies and/or our legal and ethical obligations.
+    3.  be otherwise limited, for example
+        1.  by at and by our digression including our policies, and/or
+        2.  by our legal and ethical obligations, and/or otherwise
+        3.  by our general obligation to promote and preserve
+            1.  our organization, and/or the
+            2.  FOSS community, and/or
+            3.  our duty to serve the public good.
 
 
-<a id="org628506a"></a>
+<a id="org457648c"></a>
 
 ## Our Teamwork Policy
 
 
-<a id="org3dbd52b"></a>
+<a id="org48d2337"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="orgc40e089"></a>
+<a id="org57f2a6a"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org6e47035"></a>
+<a id="org70f38ae"></a>
 
 ## Our Continuation and Termination of Authority Policy
 
