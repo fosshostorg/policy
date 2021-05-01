@@ -1,0 +1,21 @@
+#!/bin/env sh
+# Copyright 2021 Fosshost CIC and contributers
+#
+# build alternate formats and add them to each commit
+# this script is intended for use a git post-commit hook
+# you must also add the pre-commit hook
+#
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# ref: https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit
+
+if [ -e .commit ]
+    then
+    /bin/env emacs -batch -l build.el
+    rm .commit
+    git add README.md
+    git add README.txt
+    # git add README.pdf  # ugly, uncomment when pretty
+    git commit --amend -C HEAD --no-verify
+fi
+exit

@@ -1,41 +1,41 @@
 
 # Table of Contents
 
-1.  [OUR POLICY](#orgb8dc4b0)
-    1.  [Our Expectations Evolution Policy](#orgb2d01f9)
-        1.  [SUMMARY](#org894a68b)
-        2.  [ITEMS](#org511d8c4)
-    2.  [Our Values and Ethics Policy](#orgce0c688)
-        1.  [SUMMARY](#org15e9b7e)
-        2.  [ITEMS](#orgbe6c3b0)
-    3.  [Our Community Policy](#org3b919e8)
-        1.  [SUMMARY](#orgff90ab4)
-        2.  [ITEMS](#orgfc8fff9)
-    4.  [Our Teamwork Policy](#org58fa276)
-    5.  [Our Sponsorship and Contribution Policy](#org369a1af)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgd423ca3)
-    7.  [Our Continuation and Termination of Authority Policy](#org11b3df7)
+1.  [OUR POLICY](#org9a9dbae)
+    1.  [Our Expectations Evolution Policy](#org4640504)
+        1.  [SUMMARY](#org40ede5e)
+        2.  [ITEMS](#org512e078)
+    2.  [Our Values and Ethics Policy](#org837a36e)
+        1.  [SUMMARY](#org596006d)
+        2.  [ITEMS](#orgdeb0b71)
+    3.  [Our Community Policy](#org69af4aa)
+        1.  [SUMMARY](#orgaf4e1dc)
+        2.  [ITEMS](#orgbf49586)
+    4.  [Our Teamwork Policy](#org4b715a9)
+    5.  [Our Sponsorship and Contribution Policy](#org6500934)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org9adeb73)
+    7.  [Our Continuation and Termination of Authority Policy](#org51781b1)
 
 > Copyright © 2021 Fosshost CIC and [contributors](https://docs.fosshost.org/en/home/team).
 > 
 > Fosshost C.I.C. is a Community Interest Company, registered in England and Wales. Company Reg No: 13356530. Registered Office Address: 7 Bell Yard, London, England, WC2A 2JR, Great Britain.
 > 
-> Permission is granted to copy, distribute and/or modify Wikipedia's text under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
+> Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
 # Table of Contents
 
-1.  [OUR POLICY](#orgb8dc4b0)
-    1.  [Our Expectations Evolution Policy](#orgb2d01f9)
-    2.  [Our Values and Ethics Policy](#orgce0c688)
-    3.  [Our Community Policy](#org3b919e8)
-    4.  [Our Teamwork Policy](#org58fa276)
-    5.  [Our Sponsorship and Contribution Policy](#org369a1af)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgd423ca3)
-    7.  [Our Continuation and Termination of Authority Policy](#org11b3df7)
+1.  [OUR POLICY](#org9a9dbae)
+    1.  [Our Expectations Evolution Policy](#org4640504)
+    2.  [Our Values and Ethics Policy](#org837a36e)
+    3.  [Our Community Policy](#org69af4aa)
+    4.  [Our Teamwork Policy](#org4b715a9)
+    5.  [Our Sponsorship and Contribution Policy](#org6500934)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org9adeb73)
+    7.  [Our Continuation and Termination of Authority Policy](#org51781b1)
 
 
-<a id="orgb8dc4b0"></a>
+<a id="org9a9dbae"></a>
 
 # OUR POLICY
 
@@ -51,14 +51,14 @@ acting on our behalf expect whereas our policies (this document or
 documents) make expressly and specifically describe and allow.
 
 
-<a id="orgb2d01f9"></a>
+<a id="org4640504"></a>
 
 ## Our Expectations Evolution Policy
 
 > A practice to properly police Fosshost's polices.
 
 
-<a id="org894a68b"></a>
+<a id="org40ede5e"></a>
 
 ### SUMMARY
 
@@ -67,7 +67,7 @@ The ITEMS following create a basis for directors to create and update policy, fo
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org511d8c4"></a>
+<a id="org512e078"></a>
 
 ### ITEMS
 
@@ -90,14 +90,14 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="orgce0c688"></a>
+<a id="org837a36e"></a>
 
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
 
-<a id="org15e9b7e"></a>
+<a id="org596006d"></a>
 
 ### SUMMARY
 
@@ -106,7 +106,7 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgbe6c3b0"></a>
+<a id="orgdeb0b71"></a>
 
 ### ITEMS
 
@@ -123,14 +123,14 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 10. we will show our same values to all people and communities.
 
 
-<a id="org3b919e8"></a>
+<a id="org69af4aa"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
 
-<a id="orgff90ab4"></a>
+<a id="orgaf4e1dc"></a>
 
 ### SUMMARY
 
@@ -148,7 +148,7 @@ and that help to identify and distinguish the interests we serve.
 NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgfc8fff9"></a>
+<a id="orgbf49586"></a>
 
 ### ITEMS
 
@@ -261,22 +261,22 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
             3.  our duty to serve the public good.
 
 
-<a id="org58fa276"></a>
+<a id="org4b715a9"></a>
 
 ## Our Teamwork Policy
 
 
-<a id="org369a1af"></a>
+<a id="org6500934"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="orgd423ca3"></a>
+<a id="org9adeb73"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org11b3df7"></a>
+<a id="org51781b1"></a>
 
 ## Our Continuation and Termination of Authority Policy
 
