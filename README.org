@@ -2,7 +2,11 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-bigblow.setup
 
 #+BEGIN_QUOTE
+Copyright © 2021 Fosshost CIC and [[https://docs.fosshost.org/en/home/team][contributors]]
+
 Fosshost C.I.C. is a Community Interest Company, registered in England and Wales. Company Reg No: 13356530. Registered Office Address: 7 Bell Yard, London, England, WC2A 2JR, Great Britain.
+
+LICENSE: TBD
 #+END_QUOTE
 
 * OUR POLICY
