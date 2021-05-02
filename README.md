@@ -1,22 +1,56 @@
+[Fosshost](https://fosshost.org) is a not-for-profit "cloud" provider.  We offer hosting at no
+cost to the Free and Open Source Software projects we support.
+Projects must apply for our services, as well as meeting eligibility
+criteria, for example bearing a FOSS license.  As of May 1st, 2021 we
+host more than 130 FOSS projects.
+
+Our team is entirely volunteers, who donate their labor.  We partner
+with other organizations (our Sponsors and Partners) who provide us
+with servers, rack-space, bandwidth, etc.  We use these resources to
+create/provide our tenants (the projects we host), with access to
+technology infrastructure and services, for example virtual private
+servers (VPS).  We don't provide remuneration/compensation to our
+Sponsors/Partners nor to our team.
+
+As a UK registered CIC, Fosshost we're required to operate under our
+articles, filed with the office of the UK CIC regulator.  We are also
+subject to oversight by that administration, for example to
+demonstrate our assets/expenditures directly benefit our community.
+
+This document represents our initial efforts in documenting our
+internal practices.  It has a number of goals:
+
+-   declare the interests we serve and how we benefit our community
+-   describe our operating practices and allow scrutiny
+-   allow us measure our results and evolve our methods so we grow
+-   ensure we act consistency and within legal and ethical bounds
+    
+    Notwithstanding our articles as filed with the office of the
+    regulator of the UK CIC, which our policy must be consistent with
+    and subject/secondary to, these and no other documents govern our
+    organization including our members, agents, and/or assignees when
+    acting on our behalf expect whereas our policies (this document or
+    documents) make expressly and specifically describe and allow.
+
+This document does not become effective until approved by our
+directors.  When that occurs we'll update this.
+
 
 # Table of Contents
 
-1.  [OUR POLICY](#org198cf3b)
-    1.  [Our Expectations Evolution Policy](#orga183a89)
-        1.  [SUMMARY](#org470fa30)
-        2.  [ITEMS](#org12a1fee)
-    2.  [Our Values and Ethics Policy](#org51c59ae)
-        1.  [SUMMARY](#orgcbf173c)
-        2.  [ITEMS](#org9d55f05)
-    3.  [Our Community Policy](#org3540777)
-        1.  [SUMMARY](#org24c090e)
-        2.  [ITEMS](#org8921f5f)
-    4.  [Our Teamwork Policy](#org48a06df)
-        1.  [SUMMARY](#orgfb64c32)
-        2.  [ITEMS](#org6592750)
-    5.  [Our Sponsorship and Contribution Policy](#org0e0efe7)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org1641a30)
-    7.  [Our Continuation and Termination of Authority Policy](#org9a94866)
+1.  [OUR POLICY](#orgf8bd98b)
+    1.  [Our Expectations Evolution Policy](#orgb1c846c)
+    2.  [Our Values and Ethics Policy](#orgd131bab)
+    3.  [Our Community Policy](#org5fbbc3b)
+    4.  [Our Teamwork Policy](#org127a006)
+    5.  [Our Sponsorship and Contribution Policy](#orgbc0b8e8)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org54401e7)
+    7.  [Our Continuation and Termination of Authority Policy](#org7b29e1a)
+
+
+<a id="orgf8bd98b"></a>
+
+# OUR POLICY
 
 > Copyright © 2021 Fosshost CIC and [contributors](https://docs.fosshost.org/en/home/team).
 > 
@@ -25,42 +59,12 @@
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-# Table of Contents
-
-1.  [OUR POLICY](#org198cf3b)
-    1.  [Our Expectations Evolution Policy](#orga183a89)
-    2.  [Our Values and Ethics Policy](#org51c59ae)
-    3.  [Our Community Policy](#org3540777)
-    4.  [Our Teamwork Policy](#org48a06df)
-    5.  [Our Sponsorship and Contribution Policy](#org0e0efe7)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org1641a30)
-    7.  [Our Continuation and Termination of Authority Policy](#org9a94866)
-
-
-<a id="org198cf3b"></a>
-
-# OUR POLICY
-
-These are the policies (Our Policy, Our Policies, policy, etc.) of
-Fosshost CIC ("Fosshost", "we", "our", "our volunteers", "our
-directors", "our agents and assignees", etc.).
-
-Notwithstanding our articles as filed with the office of the
-regulator of the UK CIC, which our policy must be consistent with
-and subject/secondary to, these and no other documents govern our
-organization including our members, agents, and/or assignees when
-acting on our behalf expect whereas our policies (this document or
-documents) make expressly and specifically describe and allow.
-
-
-<a id="orga183a89"></a>
+<a id="orgb1c846c"></a>
 
 ## Our Expectations Evolution Policy
 
 > A practice to properly police Fosshost's polices.
 
-
-<a id="org470fa30"></a>
 
 ### SUMMARY
 
@@ -68,8 +72,6 @@ The ITEMS following create a basis for directors to create and update policy, fo
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="org12a1fee"></a>
 
 ### ITEMS
 
@@ -92,14 +94,12 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="org51c59ae"></a>
+<a id="orgd131bab"></a>
 
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
-
-<a id="orgcbf173c"></a>
 
 ### SUMMARY
 
@@ -107,8 +107,6 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="org9d55f05"></a>
 
 ### ITEMS
 
@@ -125,14 +123,12 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 10. we will show our same values to all people and communities.
 
 
-<a id="org3540777"></a>
+<a id="org5fbbc3b"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
-
-<a id="org24c090e"></a>
 
 ### SUMMARY
 
@@ -149,8 +145,6 @@ and that help to identify and distinguish the interests we serve.
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="org8921f5f"></a>
 
 ### ITEMS
 
@@ -264,14 +258,12 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="org48a06df"></a>
+<a id="org127a006"></a>
 
 ## Our Teamwork Policy
 
 > Clear expectations make the dream work.
 
-
-<a id="orgfb64c32"></a>
 
 ### SUMMARY
 
@@ -280,24 +272,22 @@ The ITEMS following define teamwork as expectations regarding collaboration.
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org6592750"></a>
-
 ### ITEMS
 
 1.  TBD/WIP
 
 
-<a id="org0e0efe7"></a>
+<a id="orgbc0b8e8"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="org1641a30"></a>
+<a id="org54401e7"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org9a94866"></a>
+<a id="org7b29e1a"></a>
 
 ## Our Continuation and Termination of Authority Policy
 

@@ -4,63 +4,31 @@
 	      ___________________________________________
 
 
-Table of Contents
-_________________
+[Fosshost] is a not-for-profit "cloud" provider.  We offer hosting at no
+cost to the Free and Open Source Software projects we support.  Projects
+must apply for our services, as well as meeting eligibility criteria,
+for example bearing a FOSS license.  As of May 1st, 2021 we host more
+than 130 FOSS projects.
 
-1 OUR POLICY
-.. 1.1 Our Expectations Evolution Policy
-..... 1.1.1 SUMMARY
-..... 1.1.2 ITEMS
-.. 1.2 Our Values and Ethics Policy
-..... 1.2.1 SUMMARY
-..... 1.2.2 ITEMS
-.. 1.3 Our Community Policy
-..... 1.3.1 SUMMARY
-..... 1.3.2 ITEMS
-.. 1.4 Our Teamwork Policy
-..... 1.4.1 SUMMARY
-..... 1.4.2 ITEMS
-.. 1.5 Our Sponsorship and Contribution Policy
-.. 1.6 Our Deliberation and Record Keeping ("Privacy") Policy
-.. 1.7 Our Continuation and Termination of Authority Policy
+Our team is entirely volunteers, who donate their labor.  We partner
+with other organizations (our Sponsors and Partners) who provide us with
+servers, rack-space, bandwidth, etc.  We use these resources to
+create/provide our tenants (the projects we host), with access to
+technology infrastructure and services, for example virtual private
+servers (VPS).  We don't provide remuneration/compensation to our
+Sponsors/Partners nor to our team.
 
+As a UK registered CIC, Fosshost we're required to operate under our
+articles, filed with the office of the UK CIC regulator.  We are also
+subject to oversight by that administration, for example to demonstrate
+our assets/expenditures directly benefit our community.
 
-      Copyright © 2021 Fosshost CIC and [contributors].
-
-      Fosshost C.I.C. is a Community Interest Company, registered
-      in England and Wales. Company Reg No: 13356530. Registered
-      Office Address: 7 Bell Yard, London, England, WC2A 2JR,
-      Great Britain.
-
-      Permission is granted to copy, distribute and/or modify this
-      work under the terms of the Creative Commons
-      Attribution-ShareAlike 3.0 Unported License and, unless
-      otherwise noted, the GNU Free Documentation License, version
-      1.3 or (at your option) any later version, with no invariant
-      sections, front-cover texts, or back-cover texts.
-
-Table of Contents
-_________________
-
-1 OUR POLICY
-.. 1.1 Our Expectations Evolution Policy
-.. 1.2 Our Values and Ethics Policy
-.. 1.3 Our Community Policy
-.. 1.4 Our Teamwork Policy
-.. 1.5 Our Sponsorship and Contribution Policy
-.. 1.6 Our Deliberation and Record Keeping ("Privacy") Policy
-.. 1.7 Our Continuation and Termination of Authority Policy
-
-
-[contributors] https://docs.fosshost.org/en/home/team
-
-
-1 OUR POLICY
-============
-
-  These are the policies (Our Policy, Our Policies, policy, etc.) of
-  Fosshost CIC ("Fosshost", "we", "our", "our volunteers", "our
-  directors", "our agents and assignees", etc.).
+This document represents our initial efforts in documenting our internal
+practices.  It has a number of goals:
+* declare the interests we serve and how we benefit our community
+* describe our operating practices and allow scrutiny
+* allow us measure our results and evolve our methods so we grow
+* ensure we act consistency and within legal and ethical bounds
 
   Notwithstanding our articles as filed with the office of the regulator
   of the UK CIC, which our policy must be consistent with and
@@ -69,6 +37,45 @@ _________________
   acting on our behalf expect whereas our policies (this document or
   documents) make expressly and specifically describe and allow.
 
+This document does not become effective until approved by our directors.
+When that occurs we'll update this.
+
+Table of Contents
+_________________
+
+1 OUR POLICY
+.. 1.1 Our Expectations Evolution Policy
+.. 1.2 Our Values and Ethics Policy
+.. 1.3 Our Community Policy
+.. 1.4 Our Teamwork Policy
+.. 1.5 Our Sponsorship and Contribution Policy
+.. 1.6 Our Deliberation and Record Keeping ("Privacy") Policy
+.. 1.7 Our Continuation and Termination of Authority Policy
+
+
+[Fosshost] https://fosshost.org
+
+
+1 OUR POLICY
+============
+
+        Copyright © 2021 Fosshost CIC and [contributors].
+
+        Fosshost C.I.C. is a Community Interest Company,
+        registered in England and Wales. Company Reg No:
+        13356530. Registered Office Address: 7 Bell Yard, London,
+        England, WC2A 2JR, Great Britain.
+
+        Permission is granted to copy, distribute and/or modify
+        this work under the terms of the Creative Commons
+        Attribution-ShareAlike 3.0 Unported License and, unless
+        otherwise noted, the GNU Free Documentation License,
+        version 1.3 or (at your option) any later version, with no
+        invariant sections, front-cover texts, or back-cover
+        texts.
+
+
+[contributors] https://docs.fosshost.org/en/home/team
 
 1.1 Our Expectations Evolution Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
