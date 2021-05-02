@@ -377,10 +377,12 @@ _________________
   5. Our work never stops ("ongoing"), meaning
      1. our commitment to the community is not limited in or by
         duration, however
-     2. we may at times reach limits based on resources such as
-        technical or of labor, or
-     3. be otherwise limited, for example
-        1. by at and by our digression including our policies, and/or
+     2. we may be temporarily or permanently unable to continue offering
+        and/or providing some or all services, for example
+     3. we may reach limits based on resources such as technical or of
+        labor, or
+     4. be otherwise limited, such as
+        1. at and by our digression and/or policy, and/or
         2. by our legal and ethical obligations, and/or otherwise
         3. by our general obligation to promote and preserve
            1. our organization, and/or the
