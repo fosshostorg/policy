@@ -33,7 +33,7 @@ A practice to properly police Fosshost's polices.
 *** SUMMARY
 The ITEMS following create a basis for directors to create and update policy, for other volunteers to raise concerns ("object") to policy, and requires all policy to be consistent with our articles which are superior to our polices.
 
-NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
+NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 *** ITEMS
 1. Directors shall write policy as needed, and
@@ -61,7 +61,7 @@ A statement of our values and accountability.
 *** SUMMARY
 The ITEMS following create a basis for a guarantee of good faith in the public interest by stating our values and framework for accountability.  To that end, the language in this section should be simple and unembellished.
 
-NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
+NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 *** ITEMS
     1. We seek at all times to earn and to be worthy of trust, and
     2. seek to be respectfully transparent, and
@@ -91,7 +91,7 @@ which may take on additional or unconventional meaning within the
 context of our operations or which we may for other reasons clarify)
 and that help to identify and distinguish the interests we serve.
 
-NOTE: this is just a summary, refer to the ITEMS below for binding policy language.
+NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 *** ITEMS
     1. FOSS ("FLOSS", "Free Software", "Open Source Software" "Open Source", "Free and Open Source Software")
        1. will usually refer to a product or a combination of products ("program"), and
@@ -203,6 +203,19 @@ NOTE: this is just a summary, refer to the ITEMS below for binding policy langua
 	     3. our duty to serve the public good.
 
 ** Our Teamwork Policy
+
+#+BEGIN_QUOTE
+Clear expectations make the dream work.
+#+END_QUOTE
+
+*** SUMMARY
+The ITEMS following define teamwork as expectations regarding collaboration.
+
+NOTE: this is a summary, refer to the ITEMS below for binding policy language.
+
+*** ITEMS
+1. TBD/WIP
+
 ** Our Sponsorship and Contribution Policy
 ** Our Deliberation and Record Keeping ("Privacy") Policy
 ** Our Continuation and Termination of Authority Policy

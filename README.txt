@@ -18,6 +18,8 @@ _________________
 ..... 1.3.1 SUMMARY
 ..... 1.3.2 ITEMS
 .. 1.4 Our Teamwork Policy
+..... 1.4.1 SUMMARY
+..... 1.4.2 ITEMS
 .. 1.5 Our Sponsorship and Contribution Policy
 .. 1.6 Our Deliberation and Record Keeping ("Privacy") Policy
 .. 1.7 Our Continuation and Termination of Authority Policy
@@ -82,8 +84,8 @@ _________________
   and requires all policy to be consistent with our articles which are
   superior to our polices.
 
-  NOTE: this is just a summary, refer to the ITEMS below for binding
-  policy language.
+  NOTE: this is a summary, refer to the ITEMS below for binding policy
+  language.
 
 
 1.1.2 ITEMS
@@ -170,8 +172,8 @@ _________________
   accountability.  To that end, the language in this section should be
   simple and unembellished.
 
-  NOTE: this is just a summary, refer to the ITEMS below for binding
-  policy language.
+  NOTE: this is a summary, refer to the ITEMS below for binding policy
+  language.
 
 
 1.2.2 ITEMS
@@ -211,8 +213,8 @@ _________________
   context of our operations or which we may for other reasons clarify)
   and that help to identify and distinguish the interests we serve.
 
-  NOTE: this is just a summary, refer to the ITEMS below for binding
-  policy language.
+  NOTE: this is a summary, refer to the ITEMS below for binding policy
+  language.
 
 
 1.3.2 ITEMS
@@ -397,6 +399,24 @@ _________________
 
 1.4 Our Teamwork Policy
 ~~~~~~~~~~~~~~~~~~~~~~~
+
+        Clear expectations make the dream work.
+
+
+1.4.1 SUMMARY
+-------------
+
+  The ITEMS following define teamwork as expectations regarding
+  collaboration.
+
+  NOTE: this is a summary, refer to the ITEMS below for binding policy
+  language.
+
+
+1.4.2 ITEMS
+-----------
+
+  1. TBD/WIP
 
 
 1.5 Our Sponsorship and Contribution Policy

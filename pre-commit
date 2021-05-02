@@ -1,4 +1,11 @@
 #!/bin/env sh
+# Copyright 2021 Fosshost CIC and contributers
+#
+# setup semaphore for post-commit hook which runs our build.el
+#
+# This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# ref: https://stackoverflow.com/questions/3284292/can-a-git-hook-automatically-add-files-to-the-commit
 
 echo
 touch .commit
