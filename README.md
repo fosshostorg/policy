@@ -28,7 +28,7 @@ internal practices.  It has a number of goals:
     Notwithstanding our articles as filed with the office of the
     regulator of the UK CIC, which our policy must be consistent with
     and subject/secondary to, these and no other documents govern our
-    organization including our members, agents, and/or assignees when
+    organization including our members, agents, and/or assignees whenm
     acting on our behalf expect whereas our policies (this document or
     documents) make expressly and specifically describe and allow.
 
@@ -38,17 +38,17 @@ directors.  When that occurs we'll update this.
 
 # Table of Contents
 
-1.  [OUR POLICY](#orgf8bd98b)
-    1.  [Our Expectations Evolution Policy](#orgb1c846c)
-    2.  [Our Values and Ethics Policy](#orgd131bab)
-    3.  [Our Community Policy](#org5fbbc3b)
-    4.  [Our Teamwork Policy](#org127a006)
-    5.  [Our Sponsorship and Contribution Policy](#orgbc0b8e8)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org54401e7)
-    7.  [Our Continuation and Termination of Authority Policy](#org7b29e1a)
+1.  [OUR POLICY](#org712b61f)
+    1.  [Our Expectations Evolution Policy](#orgf4e17d5)
+    2.  [Our Values and Ethics Policy](#org633906d)
+    3.  [Our Community Policy](#org0193f21)
+    4.  [Our Teamwork Policy](#org87ca38e)
+    5.  [Our Sponsorship and Contribution Policy](#org14b15c9)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgf0c1076)
+    7.  [Our Continuation and Termination of Authority Policy](#org99a6633)
 
 
-<a id="orgf8bd98b"></a>
+<a id="org712b61f"></a>
 
 # OUR POLICY
 
@@ -59,11 +59,11 @@ directors.  When that occurs we'll update this.
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-<a id="orgb1c846c"></a>
+<a id="orgf4e17d5"></a>
 
 ## Our Expectations Evolution Policy
 
-> A practice to properly police Fosshost's polices.
+> A policy to help us develop polices.
 
 
 ### SUMMARY
@@ -94,7 +94,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="orgd131bab"></a>
+<a id="org633906d"></a>
 
 ## Our Values and Ethics Policy
 
@@ -123,7 +123,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 10. we will show our same values to all people and communities.
 
 
-<a id="org5fbbc3b"></a>
+<a id="org0193f21"></a>
 
 ## Our Community Policy
 
@@ -258,7 +258,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="org127a006"></a>
+<a id="org87ca38e"></a>
 
 ## Our Teamwork Policy
 
@@ -277,17 +277,17 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 1.  TBD/WIP
 
 
-<a id="orgbc0b8e8"></a>
+<a id="org14b15c9"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="org54401e7"></a>
+<a id="orgf0c1076"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org7b29e1a"></a>
+<a id="org99a6633"></a>
 
 ## Our Continuation and Termination of Authority Policy
 

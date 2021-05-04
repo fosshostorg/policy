@@ -33,7 +33,7 @@ practices.  It has a number of goals:
   Notwithstanding our articles as filed with the office of the regulator
   of the UK CIC, which our policy must be consistent with and
   subject/secondary to, these and no other documents govern our
-  organization including our members, agents, and/or assignees when
+  organization including our members, agents, and/or assignees whenm
   acting on our behalf expect whereas our policies (this document or
   documents) make expressly and specifically describe and allow.
 
@@ -80,7 +80,7 @@ _________________
 1.1 Our Expectations Evolution Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-        A practice to properly police Fosshost's polices.
+        A policy to help us develop polices.
 
 
 1.1.1 SUMMARY
