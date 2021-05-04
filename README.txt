@@ -33,7 +33,7 @@ practices.  It has a number of goals:
   Notwithstanding our articles as filed with the office of the regulator
   of the UK CIC, which our policy must be consistent with and
   subject/secondary to, these and no other documents govern our
-  organization including our members, agents, and/or assignees whenm
+  organization including our members, agents, and/or assignees when
   acting on our behalf expect whereas our policies (this document or
   documents) make expressly and specifically describe and allow.
 
@@ -372,7 +372,7 @@ _________________
               tenant/prospect poses to us or the community,
            4. any other specific concerns we may at our sole discretion
               find and duly deliberate and record.
-  4. To go further, together ("cooperate", "colaborate"), meaning
+  4. To go further, together ("cooperate", "collaborate"), meaning
      1. we use and provide only FOSS software as part of our service,
         and while
      2. we may at our discretion use other commercial/non-FOSS software,

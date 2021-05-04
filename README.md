@@ -28,7 +28,7 @@ internal practices.  It has a number of goals:
     Notwithstanding our articles as filed with the office of the
     regulator of the UK CIC, which our policy must be consistent with
     and subject/secondary to, these and no other documents govern our
-    organization including our members, agents, and/or assignees whenm
+    organization including our members, agents, and/or assignees when
     acting on our behalf expect whereas our policies (this document or
     documents) make expressly and specifically describe and allow.
 
@@ -38,17 +38,17 @@ directors.  When that occurs we'll update this.
 
 # Table of Contents
 
-1.  [OUR POLICY](#org9a589d7)
-    1.  [Our Expectations Evolution Policy](#org73697e5)
-    2.  [Our Values and Ethics Policy](#orgd30e3c7)
-    3.  [Our Community Policy](#org5408a0d)
-    4.  [Our Teamwork Policy](#org3618ad5)
-    5.  [Our Sponsorship and Contribution Policy](#org96b4253)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgf7c056b)
-    7.  [Our Continuation and Termination of Authority Policy](#org8011395)
+1.  [OUR POLICY](#org83afe4e)
+    1.  [Our Expectations Evolution Policy](#orgc1d046c)
+    2.  [Our Values and Ethics Policy](#org6163dc6)
+    3.  [Our Community Policy](#orgc3f18c9)
+    4.  [Our Teamwork Policy](#orgc252e4e)
+    5.  [Our Sponsorship and Contribution Policy](#org0e72b55)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org59f505c)
+    7.  [Our Continuation and Termination of Authority Policy](#orge9af4a1)
 
 
-<a id="org9a589d7"></a>
+<a id="org83afe4e"></a>
 
 # OUR POLICY
 
@@ -59,7 +59,7 @@ directors.  When that occurs we'll update this.
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-<a id="org73697e5"></a>
+<a id="orgc1d046c"></a>
 
 ## Our Expectations Evolution Policy
 
@@ -94,7 +94,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="orgd30e3c7"></a>
+<a id="org6163dc6"></a>
 
 ## Our Values and Ethics Policy
 
@@ -123,7 +123,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 10. we will show our same values to all people and communities.
 
 
-<a id="org5408a0d"></a>
+<a id="orgc3f18c9"></a>
 
 ## Our Community Policy
 
@@ -239,7 +239,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             2.  the general intentions and/or conduct of tenant/prospect as perceived by Fosshost,
             3.  any specific technical or organizational risk we find tenant/prospect poses to us or the community,
             4.  any other specific concerns we may at our sole discretion find and duly deliberate and record.
-4.  To go further, together ("cooperate", "colaborate"), meaning
+4.  To go further, together ("cooperate", "collaborate"), meaning
     1.  we use and provide only FOSS software as part of our service, and while
     2.  we may at our discretion use other commercial/non-FOSS software, nevertheless
     3.  we work to remove any non-FOSS software from our operating practices, and
@@ -258,7 +258,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="org3618ad5"></a>
+<a id="orgc252e4e"></a>
 
 ## Our Teamwork Policy
 
@@ -277,17 +277,17 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 1.  TBD/WIP
 
 
-<a id="org96b4253"></a>
+<a id="org0e72b55"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="orgf7c056b"></a>
+<a id="org59f505c"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org8011395"></a>
+<a id="orge9af4a1"></a>
 
 ## Our Continuation and Termination of Authority Policy
 

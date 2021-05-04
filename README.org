@@ -31,7 +31,7 @@ internal practices.  It has a number of goals:
   Notwithstanding our articles as filed with the office of the
   regulator of the UK CIC, which our policy must be consistent with
   and subject/secondary to, these and no other documents govern our
-  organization including our members, agents, and/or assignees whenm
+  organization including our members, agents, and/or assignees when
   acting on our behalf expect whereas our policies (this document or
   documents) make expressly and specifically describe and allow.
 
@@ -210,7 +210,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 	     2. the general intentions and/or conduct of tenant/prospect as perceived by Fosshost,
 	     3. any specific technical or organizational risk we find tenant/prospect poses to us or the community,
 	     4. any other specific concerns we may at our sole discretion find and duly deliberate and record.
-    4. To go further, together ("cooperate", "colaborate"), meaning
+    4. To go further, together ("cooperate", "collaborate"), meaning
        1. we use and provide only FOSS software as part of our service, and while
        2. we may at our discretion use other commercial/non-FOSS software, nevertheless
        3. we work to remove any non-FOSS software from our operating practices, and
