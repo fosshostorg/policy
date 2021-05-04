@@ -38,17 +38,17 @@ directors.  When that occurs we'll update this.
 
 # Table of Contents
 
-1.  [OUR POLICY](#orgd2ad3f6)
-    1.  [Our Expectations Evolution Policy](#org662cf43)
-    2.  [Our Values and Ethics Policy](#org7761739)
-    3.  [Our Community Policy](#org30470da)
-    4.  [Our Teamwork Policy](#orgd0659cc)
-    5.  [Our Sponsorship and Contribution Policy](#org7917123)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org2e11a0a)
-    7.  [Our Continuation and Termination of Authority Policy](#org0553707)
+1.  [OUR POLICY](#org9a589d7)
+    1.  [Our Expectations Evolution Policy](#org73697e5)
+    2.  [Our Values and Ethics Policy](#orgd30e3c7)
+    3.  [Our Community Policy](#org5408a0d)
+    4.  [Our Teamwork Policy](#org3618ad5)
+    5.  [Our Sponsorship and Contribution Policy](#org96b4253)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgf7c056b)
+    7.  [Our Continuation and Termination of Authority Policy](#org8011395)
 
 
-<a id="orgd2ad3f6"></a>
+<a id="org9a589d7"></a>
 
 # OUR POLICY
 
@@ -59,7 +59,7 @@ directors.  When that occurs we'll update this.
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-<a id="org662cf43"></a>
+<a id="org73697e5"></a>
 
 ## Our Expectations Evolution Policy
 
@@ -94,7 +94,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="org7761739"></a>
+<a id="orgd30e3c7"></a>
 
 ## Our Values and Ethics Policy
 
@@ -123,7 +123,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 10. we will show our same values to all people and communities.
 
 
-<a id="org30470da"></a>
+<a id="org5408a0d"></a>
 
 ## Our Community Policy
 
@@ -258,7 +258,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="orgd0659cc"></a>
+<a id="org3618ad5"></a>
 
 ## Our Teamwork Policy
 
@@ -277,17 +277,17 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 1.  TBD/WIP
 
 
-<a id="org7917123"></a>
+<a id="org96b4253"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="org2e11a0a"></a>
+<a id="orgf7c056b"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org0553707"></a>
+<a id="org8011395"></a>
 
 ## Our Continuation and Termination of Authority Policy
 

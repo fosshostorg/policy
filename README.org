@@ -212,7 +212,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 	     4. any other specific concerns we may at our sole discretion find and duly deliberate and record.
     4. To go further, together ("cooperate", "colaborate"), meaning
        1. we use and provide only FOSS software as part of our service, and while
-       2. we may at our digression use other commercial/non-FOSS software, nevertheless
+       2. we may at our discretion use other commercial/non-FOSS software, nevertheless
        3. we work to remove any non-FOSS software from our operating practices, and
        4. we will at no time endorse, promote, sell, or resell commercial/non-FOSS software, and especially that
        5. we will do not and will not endorse specifically any provider of commercial software on that basis.
@@ -221,7 +221,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
        3. we may be temporarily or permanently unable to continue offering and/or providing some or all services, for example
        2. we may reach limits based on resources such as technical or of labor, or
        4. be otherwise limited, such as
-	  1. at and by our digression and/or policy, and/or
+	  1. at and by our discretion and/or policy, and/or
 	  2. by our legal and ethical obligations, and/or otherwise
 	  3. by our general obligation to promote and preserve
 	     1. our organization, and/or the
