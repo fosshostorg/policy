@@ -209,7 +209,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 	     1. the likelihood a tenant/prospect has and/or will comply our policies and other stated expectations,
 	     2. the general intentions and/or conduct of tenant/prospect as perceived by Fosshost,
 	     3. any specific technical or organizational risk we find tenant/prospect poses to us or the community,
-	     4. any other specific concerns we may at our sole digression find and duly deliberate and record.
+	     4. any other specific concerns we may at our sole discretion find and duly deliberate and record.
     4. To go further, together ("cooperate", "colaborate"), meaning
        1. we use and provide only FOSS software as part of our service, and while
        2. we may at our digression use other commercial/non-FOSS software, nevertheless

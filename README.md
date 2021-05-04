@@ -38,17 +38,17 @@ directors.  When that occurs we'll update this.
 
 # Table of Contents
 
-1.  [OUR POLICY](#org712b61f)
-    1.  [Our Expectations Evolution Policy](#orgf4e17d5)
-    2.  [Our Values and Ethics Policy](#org633906d)
-    3.  [Our Community Policy](#org0193f21)
-    4.  [Our Teamwork Policy](#org87ca38e)
-    5.  [Our Sponsorship and Contribution Policy](#org14b15c9)
-    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#orgf0c1076)
-    7.  [Our Continuation and Termination of Authority Policy](#org99a6633)
+1.  [OUR POLICY](#orgd2ad3f6)
+    1.  [Our Expectations Evolution Policy](#org662cf43)
+    2.  [Our Values and Ethics Policy](#org7761739)
+    3.  [Our Community Policy](#org30470da)
+    4.  [Our Teamwork Policy](#orgd0659cc)
+    5.  [Our Sponsorship and Contribution Policy](#org7917123)
+    6.  [Our Deliberation and Record Keeping ("Privacy") Policy](#org2e11a0a)
+    7.  [Our Continuation and Termination of Authority Policy](#org0553707)
 
 
-<a id="org712b61f"></a>
+<a id="orgd2ad3f6"></a>
 
 # OUR POLICY
 
@@ -59,7 +59,7 @@ directors.  When that occurs we'll update this.
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-<a id="orgf4e17d5"></a>
+<a id="org662cf43"></a>
 
 ## Our Expectations Evolution Policy
 
@@ -94,7 +94,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="org633906d"></a>
+<a id="org7761739"></a>
 
 ## Our Values and Ethics Policy
 
@@ -123,7 +123,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 10. we will show our same values to all people and communities.
 
 
-<a id="org0193f21"></a>
+<a id="org30470da"></a>
 
 ## Our Community Policy
 
@@ -238,10 +238,10 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             1.  the likelihood a tenant/prospect has and/or will comply our policies and other stated expectations,
             2.  the general intentions and/or conduct of tenant/prospect as perceived by Fosshost,
             3.  any specific technical or organizational risk we find tenant/prospect poses to us or the community,
-            4.  any other specific concerns we may at our sole digression find and duly deliberate and record.
+            4.  any other specific concerns we may at our sole discretion find and duly deliberate and record.
 4.  To go further, together ("cooperate", "colaborate"), meaning
     1.  we use and provide only FOSS software as part of our service, and while
-    2.  we may at our digression use other commercial/non-FOSS software, nevertheless
+    2.  we may at our discretion use other commercial/non-FOSS software, nevertheless
     3.  we work to remove any non-FOSS software from our operating practices, and
     4.  we will at no time endorse, promote, sell, or resell commercial/non-FOSS software, and especially that
     5.  we will do not and will not endorse specifically any provider of commercial software on that basis.
@@ -250,7 +250,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
     2.  we may be temporarily or permanently unable to continue offering and/or providing some or all services, for example
     3.  we may reach limits based on resources such as technical or of labor, or
     4.  be otherwise limited, such as
-        1.  at and by our digression and/or policy, and/or
+        1.  at and by our discretion and/or policy, and/or
         2.  by our legal and ethical obligations, and/or otherwise
         3.  by our general obligation to promote and preserve
             1.  our organization, and/or the
@@ -258,7 +258,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="org87ca38e"></a>
+<a id="orgd0659cc"></a>
 
 ## Our Teamwork Policy
 
@@ -277,17 +277,17 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 1.  TBD/WIP
 
 
-<a id="org14b15c9"></a>
+<a id="org7917123"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 
-<a id="orgf0c1076"></a>
+<a id="org2e11a0a"></a>
 
 ## Our Deliberation and Record Keeping ("Privacy") Policy
 
 
-<a id="org99a6633"></a>
+<a id="org0553707"></a>
 
 ## Our Continuation and Termination of Authority Policy
 

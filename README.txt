@@ -370,12 +370,12 @@ _________________
               as perceived by Fosshost,
            3. any specific technical or organizational risk we find
               tenant/prospect poses to us or the community,
-           4. any other specific concerns we may at our sole digression
+           4. any other specific concerns we may at our sole discretion
               find and duly deliberate and record.
   4. To go further, together ("cooperate", "colaborate"), meaning
      1. we use and provide only FOSS software as part of our service,
         and while
-     2. we may at our digression use other commercial/non-FOSS software,
+     2. we may at our discretion use other commercial/non-FOSS software,
         nevertheless
      3. we work to remove any non-FOSS software from our operating
         practices, and
@@ -391,7 +391,7 @@ _________________
      3. we may reach limits based on resources such as technical or of
         labor, or
      4. be otherwise limited, such as
-        1. at and by our digression and/or policy, and/or
+        1. at and by our discretion and/or policy, and/or
         2. by our legal and ethical obligations, and/or otherwise
         3. by our general obligation to promote and preserve
            1. our organization, and/or the
