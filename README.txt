@@ -13,10 +13,52 @@ than 130 FOSS projects.
 Our team is entirely volunteers, who donate their labor.  We partner
 with other organizations (our Sponsors and Partners) who provide us with
 servers, rack-space, bandwidth, etc.  We use these resources to
-create/provide our tenants (the projects we host), with access to
-technology infrastructure and services, for example virtual private
-servers (VPS).  We don't provide remuneration/compensation to our
-Sponsors/Partners nor to our team.
+create/provide/distribute services to our tenants (the projects we
+host), with access to infrastructural technology services, for example
+virtual private servers (VPS) and consoles of these.  We don't provide
+remuneration/compensation to our Sponsors/Partners nor to our team,
+except as specified herein as will generally state:
+
+1. we don't offer monetary or other consideration to our staff including
+   directors
+2. we may, at our option, prefer to host projects from our volunteers
+   when we can
+3. we might well use your projects branding and otherwise generally
+   mention if/when we host you but you can ask us not to that
+4. you can in otherwise influence our communications (if any) about our
+   relationship if/when we partner together
+5. we can stop doing some or all of what we are doing for you at almost
+   any time for almost any reason at our option
+6. we will keep records so that we regularly report on these and similar
+   stated promises
+7. we will consider most of the records we keep as for internal use only
+8. we will state expressly the other specific information we along with
+   any and all ways that we are able to predict unavoidable/required
+   disclosure
+9. we will fully and faithfully report such information however specific
+   as we must to satisfy due diligence
+10. We may share more widely or otherwise such vital records as we are
+    required to maintain and do so if/as/when we may choose
+11. We effect procedures and internal systems which keep vital records
+    such as for the office of the regulator of the CIC
+12. Most publications at our discretion is in terms of this reporting
+    and other information we possess remains in confidence to the extent
+    possible for us
+13. Abuse of any kind is not tolerated and will usually case some or all
+    information related and kept within our other systems to become more
+    vital
+14. We strongly prefer FOSS software and will not consider hosting other
+    types of development or otherwise than development under a FOSS
+    license
+15. We may, at our option, elect to use non-FOSS software but we will
+    never incorporate it into our network or expect other than our own
+    staff to use it
+16. Our staff give up some rights when then volunteer for us, such as to
+    represent our directors in conducting the business of our
+    organization & mission
+17. Our directors do not otherwise delegate their than as said below and
+    do not in any way consider they have lessoned their responsibility
+    to/for FOSSHOST CIC thereby.
 
 As a UK registered CIC, Fosshost is required to operate under our
 articles, filed with the office of the UK CIC regulator.  We are also
@@ -68,40 +110,49 @@ _________________
 ..... 1.7.2 ITEMS
 2 OUR PROCEDURES
 .. 2.1 SUMMARY
-.. 2.2 Writing and Updating Procedure                        :PROCEDURE:
-.. 2.3 Preventing and Reporting Abuse                        :PROCEDURE:
-..... 2.3.1 SUMMARY
-..... 2.3.2 ITEM
-.. 2.4 Information Handling                                  :PROCEDURE:
-..... 2.4.1 SUMMARY
-..... 2.4.2 ITEMS
-.. 2.5 Risk and Control                                      :PROCEDURE:
-..... 2.5.1 SUMMARY
-..... 2.5.2 ITEMS
-.. 2.6 Limited General Representation                        :PROCEDURE:
-..... 2.6.1 Limited Due Diligence                            :PROCEDURE:
-..... 2.6.2 Limited Liability                                :PROCEDURE:
-..... 2.6.3 Limited Delegation                               :PROCEDURE:
-.. 2.7 Exceptional Circumstance                              :PROCEDURE:
-..... 2.7.1 SUMMARY
-..... 2.7.2 ITEMS
-.. 2.8 Customary Authority                                   :PROCEDURE:
-..... 2.8.1 Routine Changes                                  :PROCEDURE:
-..... 2.8.2 Emergency Maintenance                            :PROCEDURE:
-.. 2.9 Public Relations                                      :PROCEDURE:
-.. 2.10 Defining and Prioritizing Projects                   :PROCEDURE:
-..... 2.10.1 SUMMARY
-..... 2.10.2 ITEMS
-.. 2.11 Scheduling Criteria                                  :PROCEDURE:
-..... 2.11.1 SUMMARY
-..... 2.11.2 ITEMS
-.. 2.12 Technical Criteria                                   :PROCEDURE:
-..... 2.12.1 SUMMARY
-..... 2.12.2 ITEMS
-.. 2.13 Operational Logging
-..... 2.13.1 SUMMARY
-..... 2.13.2 ITEMS
-3 OTHER
+.. 2.2 ABSTRACT
+..... 2.2.1 Writing and Updating Procedure                   :PROCEDURE:
+..... 2.2.2 Preventing and Reporting Abuse                   :PROCEDURE:
+..... 2.2.3 Information Handling                             :PROCEDURE:
+..... 2.2.4 Risk and Control                                 :PROCEDURE:
+..... 2.2.5 Limited General Representation                   :PROCEDURE:
+..... 2.2.6 Exceptional Circumstance                         :PROCEDURE:
+..... 2.2.7 Customary Authority                              :PROCEDURE:
+..... 2.2.8 Public Relations                                 :PROCEDURE:
+..... 2.2.9 Defining and Prioritizing Projects               :PROCEDURE:
+..... 2.2.10 Scheduling Criteria                             :PROCEDURE:
+..... 2.2.11 Technical Criteria                              :PROCEDURE:
+..... 2.2.12 Operational Logging
+.. 2.3 ADMINISTRATIVE
+..... 2.3.1 Keeping the Operations Log
+..... 2.3.2 Basic Ticketing
+..... 2.3.3 Requesting credentials
+..... 2.3.4 Reviewing Applications
+..... 2.3.5 On-boarding
+..... 2.3.6 Updating the Asset Catalog
+..... 2.3.7 Shipping and Receiving
+..... 2.3.8 Special Handling for Reimbursable Receipts
+..... 2.3.9 Accepting and Transferring Donations
+..... 2.3.10 Running Meetings
+.. 2.4 TECHNICAL
+..... 2.4.1 Testing Your Credentials
+..... 2.4.2 AARCH64
+..... 2.4.3 General or x86 Specific
+.. 2.5 OVERSIGHT
+..... 2.5.1 Reporting Malfeasance and Abuse
+..... 2.5.2 Reporting Accounts Payable
+..... 2.5.3 Reporting Donations in Summary
+..... 2.5.4 Reporting Data Breach or Compromise
+..... 2.5.5 Reporting Termination of Service
+..... 2.5.6 Reporting Completed Changes in Summary
+..... 2.5.7 Reporting Proposed Changes to Policy and Procedure
+..... 2.5.8 Reporting Architecture and Design
+..... 2.5.9 Reporting Technology Changes
+..... 2.5.10 Reporting Outages
+..... 2.5.11 Reporting Applications Processed
+..... 2.5.12 Providing a Summary Report to the Board
+..... 2.5.13 Special Procedure for Board to Stand Generally In Recess
+3 other
 
 
 [Fosshost] https://fosshost.org
@@ -1063,8 +1114,11 @@ _________________
   or control.
 
 
-2.2 Writing and Updating Procedure                           :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2.2 ABSTRACT
+~~~~~~~~~~~~
+
+2.2.1 Writing and Updating Procedure                         :PROCEDURE:
+------------------------------------
 
   For each procedure ("ITEM"), write a sub-section, describing a
   sequence of steps to arrive a specific goal, such as making a
@@ -1124,11 +1178,10 @@ _________________
     * when and as the directors shall agree and the secretary so record.
 
 
-2.3 Preventing and Reporting Abuse                           :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2.2.2 Preventing and Reporting Abuse                         :PROCEDURE:
+------------------------------------
 
-2.3.1 SUMMARY
--------------
+* 2.2.2.1 SUMMARY
 
   We neither tolerate nor countenance any abuse nor excuse ourselves
   from consider and duly documenting each concern or potential concern
@@ -1140,8 +1193,7 @@ _________________
   any serious abuse.
 
 
-2.3.2 ITEM
-----------
+* 2.2.2.2 ITEM
 
   1. Abuse is, generally, unwanted personal contact and/or conduct
      and/or misuse of our resources, verify that we are discussing one
@@ -1190,237 +1242,280 @@ _________________
            direct additional and more specific assignment and reporting.
 
 
-2.4 Information Handling                                     :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~
+2.2.3 Information Handling                                   :PROCEDURE:
+--------------------------
 
-2.4.1 SUMMARY
--------------
+* 2.2.3.1 SUMMARY
 
   Most if not all of our volunteers routinely handle sensitive as well
   as non-sensitive information.
 
-  This procedure gives the sequence of steps invoked when we handle
-  internal use information, including materials of unknown sensitivity.
+  This procedure gives the sequence of steps and controls invoked when
+  we handle internal use information, including materials of unknown
+  sensitivity.
 
 
-2.4.2 ITEMS
------------
+* 2.2.3.2 ITEMS
 
-  1. Information necessary, and which we retain for any length of time
-     on our internal use systems, when not otherwise classified will be
-     considered internal-use.
+  1. Information we by necessary retain or intend to retain irrespective
+     of the length of time involved is, when not otherwise classified,
+     considered internal-use, and
      1. Our secretary shall individually or by delegation be the sole
-        conduit or otherwise approver when we release of internal use
+        conduit or otherwise approver when we release internal use
         information, however
-     2. Additional procedural items may further designate other channels
-        lead to their more general release of some information, however
-        and when given
-     3. These and any additionally provided policies each shall
-        1. require explicit acknowledgement and prior alignment from or
-           on the part of secretary, and then
-        2. additional policy may provide that another director or a
-           specific and individually named agent acting on behalf of a
-           director ("director or deputy director")
-        3. Who shall always in a routinely timely fashion so notify the
-           secretary and other directors.
-  2. Activity that includes classification or reclassification or
-     publishing of internal use information may be subject to internal
-     processes, including
-     1. Internal use information shall be retained only in the systems
-        or catalogs expressly used to access and retain each such
-        record, and
-        1. Such systems must be expressly named and referenced in these
-           policies and our other procedures following, or
-     2. Internal use information may also be retained in others systems
-        of more general use for other or general proposes, but only when
-        1. Any vital record thus created is then transmitted to a system
-           expressed used to access and retain such records, and
-           1. Such record whether in whole or in summary must provide
-              clear reference such as to trace information between
-              systems, or
-        2. Otherwise final record may (unless otherwise noted such as in
-           some specific procedure) be transmitted by email, by sending
-           1. An email message created explicitly to meet the purpose of
-              this procedure, and
-           2. containing all complete and detail information needed to
-              create the necessary record, and
-           3. when such message sent to our support email address
-              `support@fosshost.org' or similar system.
-  3. Routine uses of internal use information including initial
-     classification processes are not reported, unless
-     1. when probably of publication by Fosshost appears to exist,
-        routine use is reportable as when the secretary or other
-        directors call for such reporting, and
-     2. always when inadvertent publication has occurred or in the event
-        of reclassification having higher secrecy after publication than
-        before/during, and
-     3. always also when in the course of investigating any report or
-        suspicion of misuse or intentional misclassification of
-        information by us, and
-  4. We will generally try to contact if you we believe that we may have
-     released sensitive information related to you, and
-  5. We may not report all use of information as may relate to you even
-     when releasing externally, for example by request of law
-     enforcement, and
-  6. We reserve the right generally to reference FOSS projects which are
-     our tenants on our websites and other promotional and similar
-     public materials, and
-  7. We otherwise do not share information
-     1. with any other parties or for any other reason,
-     2. other than those parties and reasons as have been expressly
-        stated in our polices and procedures.
+        1. Additional procedural items may further designate other
+           channels lead to their more general release of some internal
+           use information, however and when given
+        2. These and any additionally provided policies each shall
+           1. require explicit acknowledgement and prior alignment from
+              or on the part of secretary, and then
+           2. additional policy may provide that another director or a
+              specific and individually named agent acting on behalf of
+              a director ("director or deputy director")
+           3. Who shall always in a routinely timely fashion so notify
+              the secretary and other directors of each creation or
+              modification of such a procedure, and
+     2. Activity that includes classification or reclassification or
+        publishing of internal use information may trigger additional
+        handling and reporting requirements, and
+        1. Information may be handled differently according to each
+           system where it is stored and accessed ("retained"),
+           including
+           1. Information that constitutes or composes or vial records
+              shall be retained only in the systems or catalogs
+              expressly for each such record, and
+           2. Information systems must be expressly named and referenced
+              in these policies and our other procedures following, and
+           3. Each so named and referenced information system must be
+              stated to contain no vital records or as to what vital
+              records are contained, and
+           4. Our procedures may require or otherwise case personally
+              identify and other internal use information to appear in
+              our vital records, and
+              1. Where such sensitive internal use information may
+                 appear in our vital records in each case the secretary
+                 has reported a specific need for this, or
+              2. That specific need and matter of practice is referenced
+                 in policy as well as set forth in procedure and thus
+                 made regular and routine, and
+        2. Internal use information may be retained in others systems of
+           more general use for other or general proposes, but only when
+           1. Any vital record thus created is then transmitted to a
+              system expressed used to access and retain such records,
+              and
+              1. Such record whether in whole or in summary provides
+                 clear references as necessary to trace information
+                 between systems, and
+              2. The secretary shall regularly in summary report on each
+                 such system including
+                 1. Making clear all purposes purpose and current or
+                    planned and intended uses of each such system, and
+                 2. Making clear or otherwise directly referencing the
+                    licensing terms of each such system, and
+                 3. Making clear the general information and all of the
+                    most sensitive information classifications known to
+                    be retained in each such system, and
+                 4. Making clear the degree to which all appropriate
+                    uses we plan to identify referencing each such
+                    system is stated in our policies and procedures, and
+                 5. Making clear the degree to which all appropriate
+                    access controls related to each such system are
+                    stated and met per our policies and procedures, and
+                 6. Making clear any known or anticipated risks or
+                    reliant volatility (for example security issues)
+                    related to each such system, and
+                 7. Naming an individual (who shall have been named
+                    already for other purposes in our policies and
+                    procedures) as being the custodian of the system,
+                    and
+           2. Otherwise final record may (unless otherwise noted such as
+              in some specific procedure) be transmitted by email, by
+              sending
+              1. An email message created explicitly to meet the purpose
+                 of this procedure, and
+              2. containing all complete and detail information needed
+                 to create the necessary record, and
+              3. when such message sent to our support email address
+                 `support@fosshost.org' or similar system.
+     3. Routine uses of internal use information including initial
+        classification processes are not reported, unless
+        1. when probably of publication by Fosshost appears to exist,
+           routine use is reportable as when the secretary or other
+           directors call for such reporting, and
+        2. always when inadvertent publication has occurred or in the
+           event of reclassification having higher secrecy after
+           publication than before/during, and
+        3. always also when in the course of investigating any report or
+           suspicion of misuse or intentional misclassification of
+           information by us, and
+     4. We will generally try to contact you anytime we believe we may
+        have released information that could be sensitive to you, and
+     5. We may not report all use of information as may relate to you
+        even when releasing externally, for example by request of law
+        enforcement, and
+     6. We reserve the right generally to reference FOSS projects which
+        are our tenants on our websites and other promotional and
+        similar public materials, and
+     7. We otherwise do not share information except when compelled or
+        at and by our sole discretion, thus
+        1. notwithstanding that we may share information based on the
+           expressed and duly recorded written order of one of our
+           directors, except whereas
+        2. we have started the parties and circumstances where we share
+           information along with reasons and systems or means involved
+           in our polices and procedures, then
+        3. we will usually not give any information to anyone or place
+           it on any system for any reason not expressly stated by our
+           policies and including our procedures.
+  2. We shall log or record among our vital records all such systems as
+     routinely we use to contain internal use information, and
+  3. 
 
 
-2.5 Risk and Control                                         :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~
+2.2.4 Risk and Control                                       :PROCEDURE:
+----------------------
 
-2.5.1 SUMMARY
--------------
+* 2.2.4.1 SUMMARY
 
   This procedure explains how to report risks to us and describes how we
   manage risk internally.
 
 
-2.5.2 ITEMS
------------
+* 2.2.4.2 ITEMS
 
 
-2.6 Limited General Representation                           :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2.2.5 Limited General Representation                         :PROCEDURE:
+------------------------------------
 
-2.6.1 Limited Due Diligence                                  :PROCEDURE:
----------------------------
+* 2.2.5.1 Limited Due Diligence                              :PROCEDURE:
 
-* 2.6.1.1 SUMMARY
+  + 2.2.5.1.1 SUMMARY
 
-  Where as some diligence may be requisite in following these procedures
-  and making the records called for therein; however, (and
-  notwithstanding our own training, certification, documentation, and
-  related materials including our policies and procedures), our
-  volunteers may have little or no specific expertise or training or
-  otherwise certification even as may regard some or all of their
-  specific and routine duties or other work for Fosshost.  Thus all
-  service and support are "AS-IS" being best effort of individuals
-  acting in good faith and no more can we offer or provide.
-
-
-* 2.6.1.2 ITEMS
+    Where as some diligence may be requisite in following these
+    procedures and making the records called for therein; however, (and
+    notwithstanding our own training, certification, documentation, and
+    related materials including our policies and procedures), our
+    volunteers may have little or no specific expertise or training or
+    otherwise certification even as may regard some or all of their
+    specific and routine duties or other work for Fosshost.  Thus all
+    service and support are "AS-IS" being best effort of individuals
+    acting in good faith and no more can we offer or provide.
 
 
-2.6.2 Limited Liability                                      :PROCEDURE:
------------------------
-
-* 2.6.2.1 SUMMARY
-
-  Whereas the volunteers comprising Fosshost are all individuals acting
-  in good faith, the liability protections afforded to the organization
-  by virtue of its CIC registration shall apply to each of them.
+  + 2.2.5.1.2 ITEMS
 
 
-* 2.6.2.2 ITEMS
+* 2.2.5.2 Limited Liability                                  :PROCEDURE:
+
+  + 2.2.5.2.1 SUMMARY
+
+    Whereas the volunteers comprising Fosshost are all individuals
+    acting in good faith, the liability protections afforded to the
+    organization by virtue of its CIC registration shall apply to each
+    of them.
 
 
-2.6.3 Limited Delegation                                     :PROCEDURE:
-------------------------
-
-* 2.6.3.1 SUMMARY
-
-  Whereas the volunteers comprising Fosshost are all well known to and
-  trusted by each other, general authority shall often be vested in and
-  between them, and while our best efforts to retain true and complete
-  records will certify in some cases our director or other person of
-  note, it may at times be some or several parties within or
-  organization acting under the authority of our named and reporting
-  representative, and in case where summary report shall be sufficient
-  for our purposes (such as to detect and prevent misuse of our
-  resources), no further record according given acts more directly may
-  eventually be kept.
+  + 2.2.5.2.2 ITEMS
 
 
-* 2.6.3.2 ITEMS
+* 2.2.5.3 Limited Delegation                                 :PROCEDURE:
+
+  + 2.2.5.3.1 SUMMARY
+
+    Whereas the volunteers comprising Fosshost are all well known to and
+    trusted by each other, general authority shall often be vested in
+    and between them, and while our best efforts to retain true and
+    complete records will certify in some cases our director or other
+    person of note, it may at times be some or several parties within or
+    organization acting under the authority of our named and reporting
+    representative, and in case where summary report shall be sufficient
+    for our purposes (such as to detect and prevent misuse of our
+    resources), no further record according given acts more directly may
+    eventually be kept.
 
 
-2.7 Exceptional Circumstance                                 :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  + 2.2.5.3.2 ITEMS
 
-2.7.1 SUMMARY
--------------
+
+2.2.6 Exceptional Circumstance                               :PROCEDURE:
+------------------------------
+
+* 2.2.6.1 SUMMARY
 
   In exceptional circumstances, the volunteer or volunteers directly
   involved in a crisis have additional authority and responsibility.
 
 
-2.7.2 ITEMS
------------
+* 2.2.6.2 ITEMS
 
 
-2.8 Customary Authority                                      :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~
+2.2.7 Customary Authority                                    :PROCEDURE:
+-------------------------
 
-2.8.1 Routine Changes                                        :PROCEDURE:
----------------------
+* 2.2.7.1 Routine Changes                                    :PROCEDURE:
 
-* 2.8.1.1 SUMMARY
+  + 2.2.7.1.1 SUMMARY
 
-  In most routine circumstances, the operations director (or delegate)
-  will review and summarily schedule and approve changes, logging such
-  actions for the secretary to report to the board.  For some case where
-  it may be necessary, we also provide for a an hierarchical decision
-  making structure.  This generally serves to give our Chief Executive
-  Officer or other directors the ability to intercept and redirect
-  contentious decisions, and bring them before our board for
-  consideration.  Absent contention, or specific intervention from our
-  CEO, it places most complicated decision making authority with our
-  Chief Technology Officer.  It also provides that the director will
-  usually have specific criteria (stated in other procedures) for when
-  rejecting/declining to schedule a given change.
-
-
-* 2.8.1.2 ITEMS
-
-  1. The duty director of operations has the initial right of approval
-     for all non-emergency changes
-     1. There is always a director of operations on duty
-     2. When no person has been so assigned, that person is the deputy
-        director of operations (Hope Christensen, DDO)
-     3. When the DDO is not available or otherwise declines, that person
-        is the director in charge of operations (Corwin Brust, COO)
-     4. When the COO or another director may disagree with the DDO we
-        defer to our executive in chief (Thomas Markey, CEO), or
-     5. When our CEO shall neither object nor direct the matter, then
-     6. The view of the technical officer in chief (Nate Sales, CTO)
-        shall prevail, unless or
-     7. When the CTO does not object or direct the matter, then
-     8. The majority of the board shall be recorded before such officers
-        view or instruction may be set aside, however
-     9. The duty director shall generally approve all changes unless
-        they do not comply with
-        1. These policies and procedures or otherwise, or articles,
-           and/or
-        2. The express stated wishes of one or several directors, and
-        3. Should state a reason for rejecting the change, ideally in
-           terms of one or several references to our procedures.
-  2. Routine changes, such as to reassign IP addresses, etc. are made
-     with the authority DDO and may be delegated.
-  3. Changed deemed as projects (e.g having tenant impact, etc.)
-     additionally require approval from our Head of Projects (Nik
-     Anderson, HOP) prior to review by DDO.
-  4. Further and other procedures may within a stated and narrow scope
-     enable specific changes to be considered as routine, when and given
-     1. Such procedure each (or by cooperation between several processes
-        together) shall not circumvent the due notification of the
-        offices of individuals here listed, and
-     2. Such procedure which are new and/or changed each shall be placed
-        before the board of the directors of fosshost
-        1. initially before they may become effective, and
-        2. periodically for review, however
-        3. once effective each shall remain effective until replaced (as
-           described in our policies) or objected to/removed by the
-           board of the directors of Fosshost.
+    In most routine circumstances, the operations director (or delegate)
+    will review and summarily schedule and approve changes, logging such
+    actions for the secretary to report to the board.  For some case
+    where it may be necessary, we also provide for a an hierarchical
+    decision making structure.  This generally serves to give our Chief
+    Executive Officer or other directors the ability to intercept and
+    redirect contentious decisions, and bring them before our board for
+    consideration.  Absent contention, or specific intervention from our
+    CEO, it places most complicated decision making authority with our
+    Chief Technology Officer.  It also provides that the director will
+    usually have specific criteria (stated in other procedures) for when
+    rejecting/declining to schedule a given change.
 
 
-2.8.2 Emergency Maintenance                                  :PROCEDURE:
----------------------------
+  + 2.2.7.1.2 ITEMS
+
+    1. The duty director of operations has the initial right of approval
+       for all non-emergency changes
+       1. There is always a director of operations on duty
+       2. When no person has been so assigned, that person is the deputy
+          director of operations (Hope Christensen, DDO)
+       3. When the DDO is not available or otherwise declines, that
+          person is the director in charge of operations (Corwin Brust,
+          COO)
+       4. When the COO or another director may disagree with the DDO we
+          defer to our executive in chief (Thomas Markey, CEO), or
+       5. When our CEO shall neither object nor direct the matter, then
+       6. The view of the technical officer in chief (Nate Sales, CTO)
+          shall prevail, unless or
+       7. When the CTO does not object or direct the matter, then
+       8. The majority of the board shall be recorded before such
+          officers view or instruction may be set aside, however
+       9. The duty director shall generally approve all changes unless
+          they do not comply with
+          1. These policies and procedures or otherwise, or articles,
+             and/or
+          2. The express stated wishes of one or several directors, and
+          3. Should state a reason for rejecting the change, ideally in
+             terms of one or several references to our procedures.
+    2. Routine changes, such as to reassign IP addresses, etc. are made
+       with the authority DDO and may be delegated.
+    3. Changed deemed as projects (e.g having tenant impact, etc.)
+       additionally require approval from our Head of Projects (Nik
+       Anderson, HOP) prior to review by DDO.
+    4. Further and other procedures may within a stated and narrow scope
+       enable specific changes to be considered as routine, when and
+       given
+       1. Such procedure each (or by cooperation between several
+          processes together) shall not circumvent the due notification
+          of the offices of individuals here listed, and
+       2. Such procedure which are new and/or changed each shall be
+          placed before the board of the directors of fosshost
+          1. initially before they may become effective, and
+          2. periodically for review, however
+          3. once effective each shall remain effective until replaced
+             (as described in our policies) or objected to/removed by
+             the board of the directors of Fosshost.
+
+
+* 2.2.7.2 Emergency Maintenance                              :PROCEDURE:
 
   1. The duty director of operations shall be notified of any emergency
      maintenance
@@ -1434,8 +1529,8 @@ _________________
      otherwise required process.
 
 
-2.9 Public Relations                                         :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~
+2.2.8 Public Relations                                       :PROCEDURE:
+----------------------
 
   1. The volunteers who support our public relations effort may be and
      are often subject to information before others within our
@@ -1450,19 +1545,17 @@ _________________
      malfeasance.
 
 
-2.10 Defining and Prioritizing Projects                      :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2.2.9 Defining and Prioritizing Projects                     :PROCEDURE:
+----------------------------------------
 
-2.10.1 SUMMARY
---------------
+* 2.2.9.1 SUMMARY
 
   The alignment of the head of projects (Nik Anderson, HOP) or a
   specifically named delegate or a director of Fosshost shall be
   recorded, and some criteria are suggested.
 
 
-2.10.2 ITEMS
-------------
+* 2.2.9.2 ITEMS
 
   1. The HOP shall generally forward for scheduling of implementation
      ("approve"), each project which
@@ -1485,11 +1578,10 @@ _________________
         understood by the team, e.g. our volunteers.
 
 
-2.11 Scheduling Criteria                                     :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~~
+2.2.10 Scheduling Criteria                                   :PROCEDURE:
+--------------------------
 
-2.11.1 SUMMARY
---------------
+* 2.2.10.1 SUMMARY
 
   Alignment from the duty director of operations (DDO, generally Deputy
   Director of Operations, Hope Christensen, or as delegated) is
@@ -1503,8 +1595,7 @@ _________________
   it.  Final change alignment is generally evident from circumstance.
 
 
-2.11.2 ITEMS
-------------
+* 2.2.10.2 ITEMS
 
   1. The DDO shall generally forward projects and schedule them for
      release when
@@ -1537,11 +1628,10 @@ _________________
         scheduling, and so report to the secretary and directors.
 
 
-2.12 Technical Criteria                                      :PROCEDURE:
-~~~~~~~~~~~~~~~~~~~~~~~
+2.2.11 Technical Criteria                                    :PROCEDURE:
+-------------------------
 
-2.12.1 SUMMARY
---------------
+* 2.2.11.1 SUMMARY
 
   This procedures provides a generic process for cross-checking a given
   software change installation/configuration/reconfiguration is ready
@@ -1549,8 +1639,7 @@ _________________
   reporting, if any) may not apply.
 
 
-2.12.2 ITEMS
-------------
+* 2.2.11.2 ITEMS
 
   1. Testing -
      1. Has the change been tested?
@@ -1601,11 +1690,10 @@ _________________
            much?)
 
 
-2.13 Operational Logging
-~~~~~~~~~~~~~~~~~~~~~~~~
+2.2.12 Operational Logging
+--------------------------
 
-2.13.1 SUMMARY
---------------
+* 2.2.12.1 SUMMARY
 
   Fosshost keeps many logs and other similar records of and related to
   it's activities.  This procedure provides for two general types, one
@@ -1615,8 +1703,7 @@ _________________
   volunteers or used for other specific purposes.
 
 
-2.13.2 ITEMS
-------------
+* 2.2.12.2 ITEMS
 
   1. We shall maintain logs and other records until they are by policy
      or by order of the board removed, and
@@ -1695,12 +1782,227 @@ _________________
         inventories and audits and their findings.
 
 
-3 OTHER
+2.3 ADMINISTRATIVE
+~~~~~~~~~~~~~~~~~~
+
+  We intend to document or otherwise describe nearly all of our internal
+  procedures, while some details may be redacted and/or stored in more
+  private repositories, we try to provide clear parameters around what
+  we cannot publish, and to publish as much detail would be prudent and
+  courteous and not more.
+
+  The items in this section describe tasks which are generally
+  administrative but may include or reference other (e.g. more technical
+  or more general) procedures elsewhere described in more detail.
+  Additionally, some details such as specific system names, symbolic
+  links, keys, or other identifiers other than the names of people may
+  be removed, replaced with placeholders, obscured, or otherwise
+  concealed in those versions of our policies and procedures such as we
+  make available publicly or otherwise than for our own (otherwise
+  unrestrained) internal and necessary use.
+
+
+2.3.1 Keeping the Operations Log
+--------------------------------
+
+
+2.3.2 Basic Ticketing
+---------------------
+
+
+2.3.3 Requesting credentials
+----------------------------
+
+
+2.3.4 Reviewing Applications
+----------------------------
+
+
+2.3.5 On-boarding
+-----------------
+
+* 2.3.5.1 Facilities
+
+
+* 2.3.5.2 Other (Sponsors and Vendors)
+
+
+2.3.6 Updating the Asset Catalog
+--------------------------------
+
+
+2.3.7 Shipping and Receiving
+----------------------------
+
+
+2.3.8 Special Handling for Reimbursable Receipts
+------------------------------------------------
+
+
+2.3.9 Accepting and Transferring Donations
+------------------------------------------
+
+
+2.3.10 Running Meetings
+-----------------------
+
+
+2.4 TECHNICAL
+~~~~~~~~~~~~~
+
+2.4.1 Testing Your Credentials
+------------------------------
+
+
+2.4.2 AARCH64
+-------------
+
+* 2.4.2.1 AARCH64 Tenant Provisioning
+
+
+* 2.4.2.2 AARCH64 Creating Clusters
+
+
+* 2.4.2.3 AARCH64 Adding and Removing Nodes
+
+
+* 2.4.2.4 AARCH64 Troubleshooting
+
+
+2.4.3 General or x86 Specific
+-----------------------------
+
+* 2.4.3.1 Tenant Provisioning
+
+
+* 2.4.3.2 Credentials
+
+  + 2.4.3.2.1 Provision Tenant Credential
+
+
+  + 2.4.3.2.2 Provision Volunteer Credential
+
+
+  + 2.4.3.2.3 Removing Credentials
+
+
+* 2.4.3.3 New or Changed or Replaced Nodes
+
+  + 2.4.3.3.1 Racking Hardware
+
+
+  + 2.4.3.3.2 Provisioning Hypervisors
+
+
+  + 2.4.3.3.3 Restoring or Replicating a Node
+
+
+  + 2.4.3.3.4 Pooled Disc Replacement
+
+
+  + 2.4.3.3.5 Adding SSD
+
+
+  + 2.4.3.3.6 Troubleshooting Hardware Node Installation and Change
+
+
+* 2.4.3.4 Mirrors
+
+  + 2.4.3.4.1 Add a mirror
+
+
+  + 2.4.3.4.2 Remove a mirror
+
+
+  + 2.4.3.4.3 Mirrors Troubleshooting
+
+
+* 2.4.3.5 Email and Web Hosting
+
+  + 2.4.3.5.1 Provision a domain/project
+
+
+  + 2.4.3.5.2 Remove a domain/project
+
+
+  + 2.4.3.5.3 Email and Web Troubleshooting
+
+
+* 2.4.3.6 DNS
+
+  + 2.4.3.6.1 Domain Registration
+
+
+  + 2.4.3.6.2 Domain Renewal
+
+
+  + 2.4.3.6.3 Reverse DNS
+
+
+  + 2.4.3.6.4 DNS Troubleshooting
+
+
+2.5 OVERSIGHT
+~~~~~~~~~~~~~
+
+2.5.1 Reporting Malfeasance and Abuse
+-------------------------------------
+
+
+2.5.2 Reporting Accounts Payable
+--------------------------------
+
+
+2.5.3 Reporting Donations in Summary
+------------------------------------
+
+
+2.5.4 Reporting Data Breach or Compromise
+-----------------------------------------
+
+
+2.5.5 Reporting Termination of Service
+--------------------------------------
+
+
+2.5.6 Reporting Completed Changes in Summary
+--------------------------------------------
+
+
+2.5.7 Reporting Proposed Changes to Policy and Procedure
+--------------------------------------------------------
+
+
+2.5.8 Reporting Architecture and Design
+---------------------------------------
+
+
+2.5.9 Reporting Technology Changes
+----------------------------------
+
+
+2.5.10 Reporting Outages
+------------------------
+
+
+2.5.11 Reporting Applications Processed
+---------------------------------------
+
+
+2.5.12 Providing a Summary Report to the Board
+----------------------------------------------
+
+
+2.5.13 Special Procedure for Board to Stand Generally In Recess
+---------------------------------------------------------------
+
+
+3 other
 =======
 
-  SCRAPS, EXTENDED NOTES, REFERENCES, AND CLARIFICATIONS
+  scraps, extended notes, references, and clarifications
 
-  ITEMS may each include, or may by specific reference to other ITEMS,
+  items may each include, or may by specific reference to other items,
   include summary, general, technical, and proposed or authoritative
   descriptions including such delegations as we have agree to make and
   specifically agree to. Considering this document as including by
