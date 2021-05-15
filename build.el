@@ -28,6 +28,7 @@
 (save-excursion
   (find-file "README.org")
   (org-md-export-to-markdown)
+  (org-html-export-to-html)
   ;;(org-latex-export-to-pdf) ;; ugly, omit for now
   (org-ascii-export-to-ascii))
 

@@ -15,6 +15,7 @@ if [ -e .commit ]
     rm .commit
     git add README.md
     git add README.txt
+    git add README.html
     # git add README.pdf  # ugly, uncomment when pretty
     git commit --amend -C HEAD --no-verify
 fi
