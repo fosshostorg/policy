@@ -10,14 +10,14 @@ directors.  When that occurs we'll update this.
 
 # SUMMARY
 
-Our team is entirely volunteers, who donate their labor.  We partner
-with other organizations (our Sponsors and Partners) who provide us
-with servers, rack-space, bandwidth, etc.  We use these resources to
-create/provide/distribute services to our tenants (the projects we
-host), with access to infrastructural technology services, for example
-virtual private servers (VPS) and consoles of these.  We don't provide
-remuneration/compensation to our Sponsors/Partners nor to our team,
-except as specified herein as will generally state things so that:
+Our team is entirely volunteers who donate their labor.  We partner
+with other organizations who provide us with servers, rack-space,
+bandwidth, etc.  We use these resources to create for to tenants (the
+projects we host) access to infrastructural technology services, for
+example virtual private servers (VPS) and consoles of such. We usually
+share publicly any information we share at all.  We don't provide
+remuneration "in-kind" or compensation to anyone, with a couple of
+exceptions described within the ITEMS immediately below:
 
 
 ## ITEMS
@@ -109,78 +109,78 @@ Troubleshooting
 
 # Table of Contents
 
--   [SUMMARY](#orgbf55f77)
-    -   [ITEMS](#orgfb138c8)
-    -   [LIMITATIONS AND ALTERNATIVES](#org590b448)
-    -   [NOTES](#orgb9620f5)
-        -   [How To Change This Document](#org87912b8)
-1.  [OUR POLICY](#orgab96d70)
-    1.  [Our Expectations Evolution Policy](#org6bbf8a5)
-        1.  [SUMMARY](#org8a234db)
-        2.  [ITEMS](#orgbe375b2)
-    2.  [Our Values and Ethics Policy](#org8587b65)
-        1.  [SUMMARY](#orgf7a0270)
-        2.  [ITEMS](#org291eb74)
-    3.  [Our Community Policy](#org112bb07)
-        1.  [SUMMARY](#orgec17c57)
-        2.  [ITEMS](#orge0cf2f5)
-    4.  [Our Teamwork Policy](#orgd49defc)
-        1.  [SUMMARY](#org5d47ecf)
-        2.  [ITEMS](#org6d5aead)
-    5.  [Our Sponsorship and Contribution Policy](#org9ec66d5)
-        1.  [SUMMARY](#org61158b8)
-        2.  [ITEMS](#org5a7da3d)
-    6.  [Our Record Keeping ("Privacy") Policy](#orgd53a695)
-        1.  [SUMMARY](#orgf244dfe)
-        2.  [ITEMS](#orgcaf0c62)
-    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org67e0075)
-        1.  [SUMMARY](#org7c5b8f0)
-        2.  [ITEMS](#orgc810807)
-2.  [OUR PROCEDURES](#org90c9125)
-    1.  [SUMMARY](#org227b714)
-    2.  [ABSTRACT](#orga6d5b82)
-        1.  [Writing and Updating Procedure](#org83314f1):PROCEDURE:
-        2.  [Preventing and Reporting Abuse](#orgf0a1719):PROCEDURE:
-        3.  [Information Handling](#org55a4564):PROCEDURE:
-        4.  [Risk and Control](#org9866c28):PROCEDURE:
-        5.  [Limited General Representation](#org9d3d125):PROCEDURE:
-        6.  [Exceptional Circumstance](#org07ec63b):PROCEDURE:
-        7.  [Customary Authority](#orgbd20f22):PROCEDURE:
-        8.  [Public Relations](#orgdae1374):PROCEDURE:
-        9.  [Defining and Prioritizing Projects](#org6c419d0):PROCEDURE:
-        10. [Scheduling Criteria](#org3e72494):PROCEDURE:
-        11. [Technical Criteria](#org99ae808):PROCEDURE:
-        12. [Operational Logging](#orgb76f478)
-    3.  [ADMINISTRATIVE](#org056941a)
-        1.  [Keeping the Operations Log](#org3a0aee7)
-        2.  [Basic Ticketing](#org4564d93)
-        3.  [Requesting credentials](#org723d1cc)
-        4.  [Reviewing Applications](#orga229d59)
-        5.  [On-boarding](#org48543e3)
-        6.  [Updating the Asset Catalog](#org4f77b5a)
-        7.  [Shipping and Receiving](#orgc0903e6)
-        8.  [Special Handling for Reimbursable Receipts](#orge9a3bc0)
-        9.  [Accepting and Transferring Donations](#org1a6e213)
-        10. [Running Meetings](#orgb6424b8)
-    4.  [TECHNICAL](#org586dff5)
-        1.  [Testing Your Credentials](#org322766a)
-        2.  [AARCH64](#org8d68146)
-        3.  [General or x86 Specific](#org056196b)
-    5.  [OVERSIGHT](#orgd06cda8)
-        1.  [Reporting Malfeasance and Abuse](#orgbe7fd4c)
-        2.  [Reporting Accounts Payable](#orgdd8df0a)
-        3.  [Reporting Donations in Summary](#org22469b9)
-        4.  [Reporting Data Breach or Compromise](#org7ed2c24)
-        5.  [Reporting Termination of Service](#orgc2b7ea1)
-        6.  [Reporting Completed Changes in Summary](#orgdd46883)
-        7.  [Reporting Proposed Changes to Policy and Procedure](#orgc80c588)
-        8.  [Reporting Architecture and Design](#org7298ab1)
-        9.  [Reporting Technology Changes](#orgc739dc7)
-        10. [Reporting Outages](#orgbe70e0b)
-        11. [Reporting Applications Processed](#org814f23d)
-        12. [Providing a Summary Report to the Board](#org5826bcd)
-        13. [Special Procedure for Board to Stand Generally In Recess](#org50748e8)
-3.  [INCOMPLETE AND OTHER](#orgc47d672)
+-   [SUMMARY](#org5aefba6)
+    -   [ITEMS](#org5f49f81)
+    -   [LIMITATIONS AND ALTERNATIVES](#orgbb42473)
+    -   [NOTES](#org682b354)
+        -   [How To Change This Document](#org846f663)
+1.  [OUR POLICY](#org1ac45a1)
+    1.  [Our Expectations Evolution Policy](#org79121fd)
+        1.  [SUMMARY](#orge4cf409)
+        2.  [ITEMS](#orgb208fdb)
+    2.  [Our Values and Ethics Policy](#org014efab)
+        1.  [SUMMARY](#org05e201e)
+        2.  [ITEMS](#orgd7867f7)
+    3.  [Our Community Policy](#orgdc9e818)
+        1.  [SUMMARY](#org713bd06)
+        2.  [ITEMS](#org84a4e66)
+    4.  [Our Teamwork Policy](#orgd14d816)
+        1.  [SUMMARY](#org5e1d2b6)
+        2.  [ITEMS](#org062d85a)
+    5.  [Our Sponsorship and Contribution Policy](#orgbceb780)
+        1.  [SUMMARY](#orgfba58a4)
+        2.  [ITEMS](#orgab4ac33)
+    6.  [Our Record Keeping ("Privacy") Policy](#org485f4da)
+        1.  [SUMMARY](#org90d74fc)
+        2.  [ITEMS](#orgd27ccc6)
+    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org776b709)
+        1.  [SUMMARY](#org6f317af)
+        2.  [ITEMS](#org603b8a2)
+2.  [OUR PROCEDURES](#org2311912)
+    1.  [SUMMARY](#orgd2167b1)
+    2.  [ABSTRACT](#org29681ff)
+        1.  [Writing and Updating Procedure](#org30f9b28):PROCEDURE:
+        2.  [Preventing and Reporting Abuse](#orgf61e649):PROCEDURE:
+        3.  [Information Handling](#org77486eb):PROCEDURE:
+        4.  [Risk and Control](#org6b4a9cb):PROCEDURE:
+        5.  [Limited General Representation](#orgc4337e5):PROCEDURE:
+        6.  [Exceptional Circumstance](#org459fc51):PROCEDURE:
+        7.  [Customary Authority](#orgfccfc66):PROCEDURE:
+        8.  [Public Relations](#org8a02133):PROCEDURE:
+        9.  [Defining and Prioritizing Projects](#orgdf7db87):PROCEDURE:
+        10. [Scheduling Criteria](#org4a2b0ed):PROCEDURE:
+        11. [Technical Criteria](#org89e7157):PROCEDURE:
+        12. [Operational Logging](#org4534686)
+    3.  [ADMINISTRATIVE](#org71cff18)
+        1.  [Keeping the Operations Log](#org5b06468)
+        2.  [Basic Ticketing](#org855c10c)
+        3.  [Requesting credentials](#orgf184b3b)
+        4.  [Reviewing Applications](#org52bb6be)
+        5.  [On-boarding](#orge307de5)
+        6.  [Updating the Asset Catalog](#org2c091f8)
+        7.  [Shipping and Receiving](#org637c91c)
+        8.  [Special Handling for Reimbursable Receipts](#orgce541a7)
+        9.  [Accepting and Transferring Donations](#orgd0084a4)
+        10. [Running Meetings](#orgf500fe6)
+    4.  [TECHNICAL](#org89d069e)
+        1.  [Testing Your Credentials](#org713d77e)
+        2.  [AARCH64](#org2a14252)
+        3.  [General or x86 Specific](#orgda8ad5e)
+    5.  [OVERSIGHT](#orgf8486e7)
+        1.  [Reporting Malfeasance and Abuse](#org79499b5)
+        2.  [Reporting Accounts Payable](#orgb0826d8)
+        3.  [Reporting Donations in Summary](#org3da72d6)
+        4.  [Reporting Data Breach or Compromise](#orge7b1753)
+        5.  [Reporting Termination of Service](#org7e03b3f)
+        6.  [Reporting Completed Changes in Summary](#org105b871)
+        7.  [Reporting Proposed Changes to Policy and Procedure](#org851e14e)
+        8.  [Reporting Architecture and Design](#org8d00e18)
+        9.  [Reporting Technology Changes](#org3ec4ef9)
+        10. [Reporting Outages](#org03ca1a2)
+        11. [Reporting Applications Processed](#org1236a4b)
+        12. [Providing a Summary Report to the Board](#orgb5f4d93)
+        13. [Special Procedure for Board to Stand Generally In Recess](#orgcc403e3)
+3.  [INCOMPLETE AND OTHER](#org5b64c8c)
 
 
 # OUR POLICY

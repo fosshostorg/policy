@@ -20,14 +20,14 @@ When that occurs we'll update this.
 SUMMARY
 =======
 
-  Our team is entirely volunteers, who donate their labor.  We partner
-  with other organizations (our Sponsors and Partners) who provide us
-  with servers, rack-space, bandwidth, etc.  We use these resources to
-  create/provide/distribute services to our tenants (the projects we
-  host), with access to infrastructural technology services, for example
-  virtual private servers (VPS) and consoles of these.  We don't provide
-  remuneration/compensation to our Sponsors/Partners nor to our team,
-  except as specified herein as will generally state things so that:
+  Our team is entirely volunteers who donate their labor.  We partner
+  with other organizations who provide us with servers, rack-space,
+  bandwidth, etc.  We use these resources to create for to tenants (the
+  projects we host) access to infrastructural technology services, for
+  example virtual private servers (VPS) and consoles of such. We usually
+  share publicly any information we share at all.  We don't provide
+  remuneration "in-kind" or compensation to anyone, with a couple of
+  exceptions described within the ITEMS immediately below:
 
 
 ITEMS
