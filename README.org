@@ -8,6 +8,13 @@ Projects must apply for our services, as well as meeting eligibility
 criteria, for example bearing a FOSS license.  As of May 1st, 2021 we
 host more than 100 FOSS projects in data-centers across five continents.
 
+This document does not become effective until approved by our
+directors.  When that occurs we'll update this.
+
+* SUMMARY
+  :PROPERTIES:
+  :UNNUMBERED: t
+  :END:
 Our team is entirely volunteers, who donate their labor.  We partner
 with other organizations (our Sponsors and Partners) who provide us
 with servers, rack-space, bandwidth, etc.  We use these resources to
@@ -15,38 +22,30 @@ create/provide/distribute services to our tenants (the projects we
 host), with access to infrastructural technology services, for example
 virtual private servers (VPS) and consoles of these.  We don't provide
 remuneration/compensation to our Sponsors/Partners nor to our team,
-except as specified herein as will generally state:
+except as specified herein as will generally state things so that:
 
-1. we don't offer monetary or other consideration to our staff including directors
-2. we may, at our option, prefer to host projects from our volunteers when we can
-3. we might well use your projects branding and otherwise generally mention if/when we host you but you can ask us not to that
-4. you can in otherwise influence our communications (if any) about our relationship if/when we partner together
-5. we can stop doing some or all of what we are doing for you at almost any time for almost any reason at our option
-6. we will keep records so that we regularly report on these and similar stated promises
-7. we will consider most of the records we keep as for internal use only
-8. we will state expressly specific information we may but do not usually report along with any and all ways that we are able to predict unavoidable/required disclosure
-9. we will fully and faithfully report such information however specific as we must to satisfy due diligence
-10. We may share more widely or otherwise such vital records as we are required to maintain and do so if/as/when we may choose
-11. We effect procedures and internal systems which keep vital records such as for the office of the regulator of the CIC
-12. Most publications at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us
-13. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital
-14. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license
-15. We may, at our option, elect to use non-FOSS software but we will never incorporate it into our network or expect other than our own staff to use it
-16. Our staff give up some rights when then volunteer for us, such as to represent our directors in conducting the business of our organization & mission
-17. Our volunteers do not otherwise delegate or defer than as stated below as typical and do not in any way consider they have lessoned their responsibility to/for FOSSHOST CIC thereby.
+** ITEMS
+1. We don't offer monetary or other consideration to our staff including directors.
+2. We may, at our option, prefer to host projects from our volunteers when we can.
+3. We might well use your projects branding and otherwise generally mention if/when we host you but you can ask us not to that.
+4. You can in otherwise influence our communications (if any) about our relationship if/when we partner together.
+5. We can stop doing some or all of what we are doing for you at almost any time for almost any reason at our option.
+6. We will keep records so that we regularly report on these and similar stated promises.
+7. We will consider most of the records we keep as for internal use only.
+8. We will state expressly specific information we may but do not usually report along with any and all ways that we are able to predict unavoidable/required disclosure.
+9. We will fully and faithfully report such information however specific as we must to satisfy due diligence.
+10. We may share more widely or otherwise such vital records as we are required to maintain and do so if/as/when we may choose.
+11. We effect procedures and internal systems which keep vital records such as for the office of the regulator of the CIC.
+12. Most publications at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us.
+13. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital.
+14. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license.
+15. We may, at our option, elect to use non-FOSS software but we will never incorporate it into our network or expect other than our own staff to use it.
+16. Our staff give up some rights when then volunteer for us, such as to represent our directors in conducting the business of our organization & mission.
+17. Our volunteers do not otherwise delegate or defer than as stated below as being typical; we in no way consider these lessen our responsibility to/for FOSSHOST CIC.
 
-As a UK registered CIC, Fosshost is required to operate under our
-articles, filed with the office of the UK CIC regulator.  We are also
-subject to oversight by that administration, for example to
-demonstrate our assets/expenditures directly benefit our community.
+** LIMITATIONS AND ALTERNATIVES
 
-This document represents our process in documenting our internal
-practices.  It has a number of goals:
- * declare the interests we serve and how we benefit our community
- * ensure legal protections of our CIC status apply to our volunteers
- * describe our operating practices and allow scrutiny
- * allow us measure our results and evolve our methods so we grow
- * ensure we act consistency and within legal and ethical bounds
+  Our articles form the sole contract between the directors.
 
   Notwithstanding our articles as filed with the office of the
   regulator of the UK CIC, which our policy must be consistent with
@@ -55,8 +54,19 @@ practices.  It has a number of goals:
   acting on our behalf expect whereas our policies (this document or
   documents) make expressly and specifically describe and allow.
 
-This document does not become effective until approved by our
-directors.  When that occurs we'll update this.
+** NOTES
+As a UK registered CIC, Fosshost is required to operate under our
+articles, filed with the office of the UK CIC regulator.  We are also
+subject to oversight by that administration, for example to
+demonstrate our assets/expenditures directly benefit our community.
+
+This document represents our process in documenting our internal
+practices.  It has a number of goals:
+ * declare the interests we serve and how we benefit our community
+ * Ensure any such permissible legal protections may exist as permits and sustains a cooperative work environment (for example to extent possible extending the limitations of liability such as from our CIC registration and status in good standing, and to the extent possible apply that to all our volunteers and otherwise also to tenants, sponsors, and others we work with).
+ * describe our operating practices and allow scrutiny
+ * ensure we measure our results and evolve our methods
+ * ensure we dependable custodians acting with consistency and within legal and ethical bounds
 
 #+TOC: headlines 4
 
