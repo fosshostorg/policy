@@ -54,7 +54,7 @@ ITEMS
   9. We will retain and fully and faithfully report (usually,
      eventually) publicly such information (however specific and
      detailed) as we must to satisfy due diligence.
-  10. We may share (especially) our vital records more often than we are
+  10. We share (especially) our vital records more often than we are
       required but we do so if, when, and as we may choose.
   11. We effect procedures and internal systems specific to keeping our
       vital records, for example such as all those needed for/by the
@@ -74,7 +74,7 @@ ITEMS
   16. Our volunteers (other than the directors) do receive certain and
       specified rights within and by our policy, such as to represent
       our directors in conducting the business of our organization to
-      thereby to fulfill our mission.
+      thereby to fulfill our mission.y
   17. Our volunteers do not otherwise delegate or defer than as stated
       below as being typical; we in no way consider these lessen our
       responsibility to/for FOSSHOST CIC.
