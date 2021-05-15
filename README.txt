@@ -37,25 +37,28 @@ ITEMS
      including directors.
   2. We may, at our option, prefer to host projects from our volunteers
      when we can.
-  3. We might well use your projects branding and otherwise generally
-     mention if/when we host you but you can ask us not to that.
-  4. You can in otherwise influence our communications (if any) about
-     our relationship if/when we partner together.
+  3. We might well use your branding and otherwise mention those we
+     host; you can ask us not to and we'll usually comply.
+  4. We usually invite you to use our branding to advertise your
+     relationship with us but may have specific related conditions for
+     you.
   5. We can stop doing some or all of what we are doing for you at
      almost any time for almost any reason at our option.
   6. We will keep records so that we regularly report on these and
      similar stated promises.
   7. We will consider most of the records we keep as for internal use
-     only.
-  8. We will state expressly specific information we may but do not
-     usually report along with any and all ways that we are able to
-     predict unavoidable/required disclosure.
-  9. We will fully and faithfully report such information however
-     specific as we must to satisfy due diligence.
-  10. We may share more widely or otherwise such vital records as we are
-      required to maintain and do so if/as/when we may choose.
-  11. We effect procedures and internal systems which keep vital records
-      such as for the office of the regulator of the CIC.
+     only and will usually keep them secret and not share them.
+  8. We will state expressly the specific information we routinely
+     retain but do not usually report along with risks and procedure
+     related to unavoidable/required disclosure.
+  9. We will retain and fully and faithfully report (usually,
+     eventually) publicly such information (however specific and
+     detailed) as we must to satisfy due diligence.
+  10. We may share (especially) our vital records more often than we are
+      required but we do so if, when, and as we may choose.
+  11. We effect procedures and internal systems specific to keeping our
+      vital records, for example such as all those needed for/by the
+      office of the regulator of the CIC.
   12. Most publications at our discretion is in terms of this reporting
       and other information we possess remains in confidence to the
       extent possible for us.
@@ -68,9 +71,10 @@ ITEMS
   15. We may, at our option, elect to use non-FOSS software but we will
       never incorporate it into our network or expect other than our own
       staff to use it.
-  16. Our staff give up some rights when then volunteer for us, such as
-      to represent our directors in conducting the business of our
-      organization & mission.
+  16. Our volunteers (other than the directors) do receive certain and
+      specified rights within and by our policy, such as to represent
+      our directors in conducting the business of our organization to
+      thereby to fulfill our mission.
   17. Our volunteers do not otherwise delegate or defer than as stated
       below as being typical; we in no way consider these lessen our
       responsibility to/for FOSSHOST CIC.
