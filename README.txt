@@ -88,8 +88,9 @@ LIMITATIONS AND ALTERNATIVES
   acting on our behalf expect whereas our policies (this document or
   documents) specifically describe and require or allow.
 
-  We post our articles here after we sign and file duly agree to publish
-    them: <https://github.com/fosshostorg/policy/blob/main/articles.pdf>
+  We share our articles only after we sign and file them, and then after
+    our directors have duly considered and when they agree:
+    <https://github.com/fosshostorg/policy/blob/main/articles.pdf>
 
 
 NOTES
