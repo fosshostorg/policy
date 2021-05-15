@@ -80,7 +80,12 @@ Copyright © 2021 Fosshost CIC and [[https://docs.fosshost.org/en/home/team][con
 
 Fosshost C.I.C. is a Community Interest Company, registered in England and Wales. Company Reg No: 13356530. Registered Office Address: 7 Bell Yard, London, England, WC2A 2JR, Great Britain.
 
-Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
+Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.  A version (1.3) of the Documentation License [[https://github.com/fosshostorg/policy/blob/main/fdl-1.3.txt][is included]] with the full sources for this document, however you may substitute (remove that file) and replace with the following text with your retributed or derived work if you choose to use only the CC-BY-3 license for your other work(s).
+
+    This work is licensed under the Creative Commons Attribution 3.0
+    Unported License. To view a copy of this license, visit
+    http://creativecommons.org/licenses/by/3.0/ or send a letter to
+    Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 #+END_QUOTE
 
 ** Our Expectations Evolution Policy

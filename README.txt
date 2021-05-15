@@ -206,10 +206,25 @@ NOTES
         otherwise noted, the GNU Free Documentation License,
         version 1.3 or (at your option) any later version, with no
         invariant sections, front-cover texts, or back-cover
-        texts.
+        texts.  A version (1.3) of the Documentation License [is
+        included] with the full sources for this document, however
+        you may substitute (remove that file) and replace with the
+        following text with your retributed or derived work if you
+        choose to use only the CC-BY-3 license for your other
+        work(s).
+
+        This work is licensed under the Creative Commons
+        Attribution 3.0 Unported License. To view a copy of this
+        license, visit
+        <http://creativecommons.org/licenses/by/3.0/> or send a
+        letter to Creative Commons, PO Box 1866, Mountain View, CA
+        94042, USA.
 
 
 [contributors] <https://docs.fosshost.org/en/home/team>
+
+[is included]
+<https://github.com/fosshostorg/policy/blob/main/fdl-1.3.txt>
 
 1.1 Our Expectations Evolution Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

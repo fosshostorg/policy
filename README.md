@@ -75,77 +75,77 @@ practices.  It has a number of goals:
 
 # Table of Contents
 
--   [SUMMARY](#org210366f)
-    -   [ITEMS](#org07aea6a)
-    -   [LIMITATIONS AND ALTERNATIVES](#org0c44126)
-    -   [NOTES](#org323f9e5)
-1.  [OUR POLICY](#org12d26d6)
-    1.  [Our Expectations Evolution Policy](#org92a8252)
-        1.  [SUMMARY](#orgd90fd36)
-        2.  [ITEMS](#orge3e30ad)
-    2.  [Our Values and Ethics Policy](#org6c1478c)
-        1.  [SUMMARY](#orgdf43fb0)
-        2.  [ITEMS](#orge6e6d50)
-    3.  [Our Community Policy](#org960ed0a)
-        1.  [SUMMARY](#org36559ef)
-        2.  [ITEMS](#org5d842e7)
-    4.  [Our Teamwork Policy](#orgafeec25)
-        1.  [SUMMARY](#org8c94b4f)
-        2.  [ITEMS](#org7b89f7d)
-    5.  [Our Sponsorship and Contribution Policy](#org33cc489)
-        1.  [SUMMARY](#org8d22b50)
-        2.  [ITEMS](#org7dcd988)
-    6.  [Our Record Keeping ("Privacy") Policy](#orgfaa1a4d)
-        1.  [SUMMARY](#orgdf8e359)
-        2.  [ITEMS](#org0489655)
-    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#orgd4cbb66)
-        1.  [SUMMARY](#orgf389d98)
-        2.  [ITEMS](#orgc253963)
-2.  [OUR PROCEDURES](#orgff3e91a)
-    1.  [SUMMARY](#org79fb4ec)
-    2.  [ABSTRACT](#org4b36013)
-        1.  [Writing and Updating Procedure](#org189a7e6):PROCEDURE:
-        2.  [Preventing and Reporting Abuse](#orge13b400):PROCEDURE:
-        3.  [Information Handling](#orgd45068d):PROCEDURE:
-        4.  [Risk and Control](#org500b287):PROCEDURE:
-        5.  [Limited General Representation](#org66da96e):PROCEDURE:
-        6.  [Exceptional Circumstance](#org423c5ee):PROCEDURE:
-        7.  [Customary Authority](#org62b6c6d):PROCEDURE:
-        8.  [Public Relations](#orgff4df69):PROCEDURE:
-        9.  [Defining and Prioritizing Projects](#orgb5b8f50):PROCEDURE:
-        10. [Scheduling Criteria](#orgac9045b):PROCEDURE:
-        11. [Technical Criteria](#orga6f96e7):PROCEDURE:
-        12. [Operational Logging](#org58398b9)
-    3.  [ADMINISTRATIVE](#org5064c32)
-        1.  [Keeping the Operations Log](#org4a6b257)
-        2.  [Basic Ticketing](#orgc0c010b)
-        3.  [Requesting credentials](#org9929ef9)
-        4.  [Reviewing Applications](#org01a9c1d)
-        5.  [On-boarding](#org0fc134c)
-        6.  [Updating the Asset Catalog](#org35a2d63)
-        7.  [Shipping and Receiving](#org56ddb5e)
-        8.  [Special Handling for Reimbursable Receipts](#orgd1331e6)
-        9.  [Accepting and Transferring Donations](#orgc08518e)
-        10. [Running Meetings](#org7738074)
-    4.  [TECHNICAL](#org7069d4b)
-        1.  [Testing Your Credentials](#orgf1259ce)
-        2.  [AARCH64](#orge70f716)
-        3.  [General or x86 Specific](#org5ecaa22)
-    5.  [OVERSIGHT](#orgf7c8d8b)
-        1.  [Reporting Malfeasance and Abuse](#orga019a79)
-        2.  [Reporting Accounts Payable](#org1335f1e)
-        3.  [Reporting Donations in Summary](#org7b5d3f6)
-        4.  [Reporting Data Breach or Compromise](#orgea34286)
-        5.  [Reporting Termination of Service](#orgf38b73a)
-        6.  [Reporting Completed Changes in Summary](#org7f0e87f)
-        7.  [Reporting Proposed Changes to Policy and Procedure](#orgad8b12b)
-        8.  [Reporting Architecture and Design](#orgded1cdb)
-        9.  [Reporting Technology Changes](#org484a24f)
-        10. [Reporting Outages](#org0407946)
-        11. [Reporting Applications Processed](#org6836155)
-        12. [Providing a Summary Report to the Board](#org3936489)
-        13. [Special Procedure for Board to Stand Generally In Recess](#orgc2bf008)
-3.  [INCOMPLETE AND OTHER](#org173f1e8)
+-   [SUMMARY](#orgc18e588)
+    -   [ITEMS](#org4a3611b)
+    -   [LIMITATIONS AND ALTERNATIVES](#org53021d2)
+    -   [NOTES](#orge21e92a)
+1.  [OUR POLICY](#org1b6ef52)
+    1.  [Our Expectations Evolution Policy](#org94f7791)
+        1.  [SUMMARY](#org65f4bc1)
+        2.  [ITEMS](#org151d083)
+    2.  [Our Values and Ethics Policy](#org0df3062)
+        1.  [SUMMARY](#orgc93a1dd)
+        2.  [ITEMS](#org3b5af29)
+    3.  [Our Community Policy](#org807a781)
+        1.  [SUMMARY](#org48f60f0)
+        2.  [ITEMS](#org9d012df)
+    4.  [Our Teamwork Policy](#orgbdb5394)
+        1.  [SUMMARY](#org1c1f1e9)
+        2.  [ITEMS](#org75cb204)
+    5.  [Our Sponsorship and Contribution Policy](#org1f005db)
+        1.  [SUMMARY](#org8ccc402)
+        2.  [ITEMS](#org73695a5)
+    6.  [Our Record Keeping ("Privacy") Policy](#orgdc0b955)
+        1.  [SUMMARY](#orgcf953f0)
+        2.  [ITEMS](#org42c234e)
+    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org9f26288)
+        1.  [SUMMARY](#orgf179be5)
+        2.  [ITEMS](#orgf678073)
+2.  [OUR PROCEDURES](#org5a87d31)
+    1.  [SUMMARY](#org7c01cdf)
+    2.  [ABSTRACT](#orgeff9d56)
+        1.  [Writing and Updating Procedure](#org7d908c2):PROCEDURE:
+        2.  [Preventing and Reporting Abuse](#org6cd45e4):PROCEDURE:
+        3.  [Information Handling](#org7815b2c):PROCEDURE:
+        4.  [Risk and Control](#org721bd0d):PROCEDURE:
+        5.  [Limited General Representation](#orgc66b9d0):PROCEDURE:
+        6.  [Exceptional Circumstance](#orgc4185e7):PROCEDURE:
+        7.  [Customary Authority](#orga88fb24):PROCEDURE:
+        8.  [Public Relations](#org6f30671):PROCEDURE:
+        9.  [Defining and Prioritizing Projects](#org7ab7bef):PROCEDURE:
+        10. [Scheduling Criteria](#org0e7698b):PROCEDURE:
+        11. [Technical Criteria](#org732de0b):PROCEDURE:
+        12. [Operational Logging](#orgdbe8ffc)
+    3.  [ADMINISTRATIVE](#org6202bfa)
+        1.  [Keeping the Operations Log](#org9d99486)
+        2.  [Basic Ticketing](#org8364bb5)
+        3.  [Requesting credentials](#org9edad0d)
+        4.  [Reviewing Applications](#org44cac28)
+        5.  [On-boarding](#orgcc32d3d)
+        6.  [Updating the Asset Catalog](#org4ba1a60)
+        7.  [Shipping and Receiving](#org3353ca5)
+        8.  [Special Handling for Reimbursable Receipts](#org7fbec05)
+        9.  [Accepting and Transferring Donations](#orgb2f67e0)
+        10. [Running Meetings](#orgc944c0f)
+    4.  [TECHNICAL](#org3100f45)
+        1.  [Testing Your Credentials](#org1795971)
+        2.  [AARCH64](#orga92e3c0)
+        3.  [General or x86 Specific](#org256a02f)
+    5.  [OVERSIGHT](#org3510a22)
+        1.  [Reporting Malfeasance and Abuse](#org76503aa)
+        2.  [Reporting Accounts Payable](#org77e573f)
+        3.  [Reporting Donations in Summary](#org56c605c)
+        4.  [Reporting Data Breach or Compromise](#org71f3a97)
+        5.  [Reporting Termination of Service](#org520d0dc)
+        6.  [Reporting Completed Changes in Summary](#org72ab3a1)
+        7.  [Reporting Proposed Changes to Policy and Procedure](#orgf630309)
+        8.  [Reporting Architecture and Design](#org33c563a)
+        9.  [Reporting Technology Changes](#orgb90a66a)
+        10. [Reporting Outages](#orgeb0154f)
+        11. [Reporting Applications Processed](#org126b912)
+        12. [Providing a Summary Report to the Board](#org5270bd1)
+        13. [Special Procedure for Board to Stand Generally In Recess](#org60ae0ff)
+3.  [INCOMPLETE AND OTHER](#orgf838dab)
 
 
 # OUR POLICY
@@ -154,7 +154,12 @@ practices.  It has a number of goals:
 > 
 > Fosshost C.I.C. is a Community Interest Company, registered in England and Wales. Company Reg No: 13356530. Registered Office Address: 7 Bell Yard, London, England, WC2A 2JR, Great Britain.
 > 
-> Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
+> Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.  A version (1.3) of the Documentation License [is included](https://github.com/fosshostorg/policy/blob/main/fdl-1.3.txt) with the full sources for this document, however you may substitute (remove that file) and replace with the following text with your retributed or derived work if you choose to use only the CC-BY-3 license for your other work(s).
+> 
+> This work is licensed under the Creative Commons Attribution 3.0
+> Unported License. To view a copy of this license, visit
+> <http://creativecommons.org/licenses/by/3.0/> or send a letter to
+> Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 
 ## Our Expectations Evolution Policy
