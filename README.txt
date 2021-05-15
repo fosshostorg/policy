@@ -327,36 +327,38 @@ How To Change This Document
       legal and ethical confines, such as of applicable law and
       regulation, and that
   12. Each of us shall take it upon ourselves to certify notification to
-      all of our directors any the event they in good faith believe
-      doubt the legally binding nature of this or any Fosshost policy or
-      when they in good faith believe a director or other volunteer may
-      have violated any Fosshost policy,
-  13. And the secretary shall acknowledge and record any such change,
+      all of our directors any the event they doubt the binding nature
+      of this or any Fosshost policy or when they in good faith believe
+      a volunteer may have violated Fosshost policy or when at any time
+      they believe abuse has occurred and was not then duly reported,
+      and
+  13. The secretary shall acknowledge and record any such change,
       objection, and notification made under this policy and produce
       such records as needed to conduct our business and upon duly
       verified request from any and all such entity may have the legal
       right to make such a demand upon Fosshost, for example the
       government of the United Kingdom in the course of verifying or
       investigating our records as permitted and allowed for under UK
-      law,
-  14. And any and all such which actions required and allowed by our
+      law, and
+  14. Any and all such which actions required and allowed by our
       policies as specifically called out, for example for a particular
       officer or volunteer may be otherwise assigned or delegated as
       otherwise consistent with Fosshost policies, for example the
       Secretary may delegate and share information (for example, with
       other volunteers) as may be necessary, expedient, and consistent
       with our policies, in order to make, keep, and produce records,
-  15. And where our policies, of which this forms a part, are not to
-      conflict with our articles,
-  16. And where in conflict, our articles are considered before and
-      superior to our policies including this one,
+      and
+  15. Where our policies, of which this forms a part, are not to
+      conflict with our articles, and
+  16. Where in conflict, our articles shall be considered before and
+      superior to our policies including this one, however and
   17. Except as may relate to amending our articles and related process,
       where our articles may for a period of not more than three months
       ("one quarter", usually around 90days) have superseded our
       articles given they contain such changes as can and do affect our
-      our articles and/or he process by which we have agreed to revise
-      our articles, whereas this may allow us time needed to review and
-      record such changes and to file those changes with external
+      articles and/or he process by which we have agreed to revise our
+      articles, whereas this may and does allow us time needed to review
+      and record such changes and to file those changes with external
       entities such as the UK CIC.
 
 

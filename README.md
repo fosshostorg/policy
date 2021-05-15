@@ -109,78 +109,78 @@ Troubleshooting
 
 # Table of Contents
 
--   [SUMMARY](#org7514804)
-    -   [ITEMS](#org7f29f76)
-    -   [LIMITATIONS AND ALTERNATIVES](#orgf737b96)
-    -   [NOTES](#org16ae8c8)
-        -   [How To Change This Document](#orgaaa4e57)
-1.  [OUR POLICY](#org3e98c44)
-    1.  [Our Expectations Evolution Policy](#org5c93387)
-        1.  [SUMMARY](#org464b443)
-        2.  [ITEMS](#org008ac79)
-    2.  [Our Values and Ethics Policy](#orga9f8ead)
-        1.  [SUMMARY](#org8e07a32)
-        2.  [ITEMS](#orgd65130b)
-    3.  [Our Community Policy](#orgfe87d86)
-        1.  [SUMMARY](#org8878549)
-        2.  [ITEMS](#org87e0e26)
-    4.  [Our Teamwork Policy](#orge07aff8)
-        1.  [SUMMARY](#org6545152)
-        2.  [ITEMS](#orgf84f6ab)
-    5.  [Our Sponsorship and Contribution Policy](#org16f0d06)
-        1.  [SUMMARY](#org56663e0)
-        2.  [ITEMS](#org4d85f50)
-    6.  [Our Record Keeping ("Privacy") Policy](#org0ffaebd)
-        1.  [SUMMARY](#orgbf6034f)
-        2.  [ITEMS](#orgabda9ec)
-    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#orga06bde3)
-        1.  [SUMMARY](#orgfbe15df)
-        2.  [ITEMS](#orgda6d642)
-2.  [OUR PROCEDURES](#orgfd037ce)
-    1.  [SUMMARY](#org709d86e)
-    2.  [ABSTRACT](#orgbafae88)
-        1.  [Writing and Updating Procedure](#org537a1e0):PROCEDURE:
-        2.  [Preventing and Reporting Abuse](#org3f53509):PROCEDURE:
-        3.  [Information Handling](#org0bfe747):PROCEDURE:
-        4.  [Risk and Control](#org61efdd7):PROCEDURE:
-        5.  [Limited General Representation](#orgccbe02c):PROCEDURE:
-        6.  [Exceptional Circumstance](#orgc93bc72):PROCEDURE:
-        7.  [Customary Authority](#orgf5515f3):PROCEDURE:
-        8.  [Public Relations](#orgb7a703d):PROCEDURE:
-        9.  [Defining and Prioritizing Projects](#org3b7aaef):PROCEDURE:
-        10. [Scheduling Criteria](#orgb9998bc):PROCEDURE:
-        11. [Technical Criteria](#org70daf06):PROCEDURE:
-        12. [Operational Logging](#org84340d5)
-    3.  [ADMINISTRATIVE](#orgd5684e2)
-        1.  [Keeping the Operations Log](#orgf759dcf)
-        2.  [Basic Ticketing](#orgec9c6a2)
-        3.  [Requesting credentials](#org8c33336)
-        4.  [Reviewing Applications](#orgb8c6241)
-        5.  [On-boarding](#org5c473cc)
-        6.  [Updating the Asset Catalog](#orgc3fe87b)
-        7.  [Shipping and Receiving](#orgadd3103)
-        8.  [Special Handling for Reimbursable Receipts](#orge7b4a81)
-        9.  [Accepting and Transferring Donations](#orgec6e2f3)
-        10. [Running Meetings](#org38f7294)
-    4.  [TECHNICAL](#orgb5b2dd7)
-        1.  [Testing Your Credentials](#orgb8aae99)
-        2.  [AARCH64](#orge00ccbc)
-        3.  [General or x86 Specific](#orgfaa8341)
-    5.  [OVERSIGHT](#org9d44f8e)
-        1.  [Reporting Malfeasance and Abuse](#orgfd3b257)
-        2.  [Reporting Accounts Payable](#orgf3eb2fa)
-        3.  [Reporting Donations in Summary](#org3a914c2)
-        4.  [Reporting Data Breach or Compromise](#orgf4305f4)
-        5.  [Reporting Termination of Service](#orga9d0740)
-        6.  [Reporting Completed Changes in Summary](#orgc864c3f)
-        7.  [Reporting Proposed Changes to Policy and Procedure](#orge1f255c)
-        8.  [Reporting Architecture and Design](#orgd03549d)
-        9.  [Reporting Technology Changes](#orga1148bb)
-        10. [Reporting Outages](#org6f2b049)
-        11. [Reporting Applications Processed](#org78c3571)
-        12. [Providing a Summary Report to the Board](#org2ee89fc)
-        13. [Special Procedure for Board to Stand Generally In Recess](#orgf0e9236)
-3.  [INCOMPLETE AND OTHER](#org91489fd)
+-   [SUMMARY](#orgbf55f77)
+    -   [ITEMS](#orgfb138c8)
+    -   [LIMITATIONS AND ALTERNATIVES](#org590b448)
+    -   [NOTES](#orgb9620f5)
+        -   [How To Change This Document](#org87912b8)
+1.  [OUR POLICY](#orgab96d70)
+    1.  [Our Expectations Evolution Policy](#org6bbf8a5)
+        1.  [SUMMARY](#org8a234db)
+        2.  [ITEMS](#orgbe375b2)
+    2.  [Our Values and Ethics Policy](#org8587b65)
+        1.  [SUMMARY](#orgf7a0270)
+        2.  [ITEMS](#org291eb74)
+    3.  [Our Community Policy](#org112bb07)
+        1.  [SUMMARY](#orgec17c57)
+        2.  [ITEMS](#orge0cf2f5)
+    4.  [Our Teamwork Policy](#orgd49defc)
+        1.  [SUMMARY](#org5d47ecf)
+        2.  [ITEMS](#org6d5aead)
+    5.  [Our Sponsorship and Contribution Policy](#org9ec66d5)
+        1.  [SUMMARY](#org61158b8)
+        2.  [ITEMS](#org5a7da3d)
+    6.  [Our Record Keeping ("Privacy") Policy](#orgd53a695)
+        1.  [SUMMARY](#orgf244dfe)
+        2.  [ITEMS](#orgcaf0c62)
+    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org67e0075)
+        1.  [SUMMARY](#org7c5b8f0)
+        2.  [ITEMS](#orgc810807)
+2.  [OUR PROCEDURES](#org90c9125)
+    1.  [SUMMARY](#org227b714)
+    2.  [ABSTRACT](#orga6d5b82)
+        1.  [Writing and Updating Procedure](#org83314f1):PROCEDURE:
+        2.  [Preventing and Reporting Abuse](#orgf0a1719):PROCEDURE:
+        3.  [Information Handling](#org55a4564):PROCEDURE:
+        4.  [Risk and Control](#org9866c28):PROCEDURE:
+        5.  [Limited General Representation](#org9d3d125):PROCEDURE:
+        6.  [Exceptional Circumstance](#org07ec63b):PROCEDURE:
+        7.  [Customary Authority](#orgbd20f22):PROCEDURE:
+        8.  [Public Relations](#orgdae1374):PROCEDURE:
+        9.  [Defining and Prioritizing Projects](#org6c419d0):PROCEDURE:
+        10. [Scheduling Criteria](#org3e72494):PROCEDURE:
+        11. [Technical Criteria](#org99ae808):PROCEDURE:
+        12. [Operational Logging](#orgb76f478)
+    3.  [ADMINISTRATIVE](#org056941a)
+        1.  [Keeping the Operations Log](#org3a0aee7)
+        2.  [Basic Ticketing](#org4564d93)
+        3.  [Requesting credentials](#org723d1cc)
+        4.  [Reviewing Applications](#orga229d59)
+        5.  [On-boarding](#org48543e3)
+        6.  [Updating the Asset Catalog](#org4f77b5a)
+        7.  [Shipping and Receiving](#orgc0903e6)
+        8.  [Special Handling for Reimbursable Receipts](#orge9a3bc0)
+        9.  [Accepting and Transferring Donations](#org1a6e213)
+        10. [Running Meetings](#orgb6424b8)
+    4.  [TECHNICAL](#org586dff5)
+        1.  [Testing Your Credentials](#org322766a)
+        2.  [AARCH64](#org8d68146)
+        3.  [General or x86 Specific](#org056196b)
+    5.  [OVERSIGHT](#orgd06cda8)
+        1.  [Reporting Malfeasance and Abuse](#orgbe7fd4c)
+        2.  [Reporting Accounts Payable](#orgdd8df0a)
+        3.  [Reporting Donations in Summary](#org22469b9)
+        4.  [Reporting Data Breach or Compromise](#org7ed2c24)
+        5.  [Reporting Termination of Service](#orgc2b7ea1)
+        6.  [Reporting Completed Changes in Summary](#orgdd46883)
+        7.  [Reporting Proposed Changes to Policy and Procedure](#orgc80c588)
+        8.  [Reporting Architecture and Design](#org7298ab1)
+        9.  [Reporting Technology Changes](#orgc739dc7)
+        10. [Reporting Outages](#orgbe70e0b)
+        11. [Reporting Applications Processed](#org814f23d)
+        12. [Providing a Summary Report to the Board](#org5826bcd)
+        13. [Special Procedure for Board to Stand Generally In Recess](#org50748e8)
+3.  [INCOMPLETE AND OTHER](#orgc47d672)
 
 
 # OUR POLICY
@@ -222,12 +222,12 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 9.  Directors and all other of our volunteers shall always act to the greatest extent they are able within the confines of this and other Fosshost policy, and
 10. We shall each use our best judgment striving for prudence and consistency, for example when our policies may appear to conflict, and that
 11. At all times we each shall conduct ourselves within our understood legal and ethical confines, such as of applicable law and regulation, and that
-12. Each of us shall take it upon ourselves to certify notification to all of our directors any the event they in good faith believe doubt the legally binding nature of this or any Fosshost policy or when they in good faith believe a director or other volunteer may have violated any Fosshost policy,
-13. And the secretary shall acknowledge and record any such change, objection, and notification made under this policy and produce such records as needed to conduct our business and upon duly verified request from any and all such entity may have the legal right to make such a demand upon Fosshost, for example the government of the United Kingdom in the course of verifying or investigating our records as permitted and allowed for under UK law,
-14. And any and all such which actions required and allowed by our policies as specifically called out, for example for a particular officer or volunteer may be otherwise assigned or delegated as otherwise consistent with Fosshost policies, for example the Secretary may delegate and share information (for example, with other volunteers) as may be necessary, expedient, and consistent with our policies, in order to make, keep, and produce records,
-15. And where our policies, of which this forms a part, are not to conflict with our articles,
-16. And where in conflict, our articles are considered before and superior to our policies including this one,
-17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
+12. Each of us shall take it upon ourselves to certify notification to all of our directors any the event they doubt the binding nature of this or any Fosshost policy or when they in good faith believe a volunteer may have violated Fosshost policy or when at any time they believe abuse has occurred and was not then duly reported, and
+13. The secretary shall acknowledge and record any such change, objection, and notification made under this policy and produce such records as needed to conduct our business and upon duly verified request from any and all such entity may have the legal right to make such a demand upon Fosshost, for example the government of the United Kingdom in the course of verifying or investigating our records as permitted and allowed for under UK law, and
+14. Any and all such which actions required and allowed by our policies as specifically called out, for example for a particular officer or volunteer may be otherwise assigned or delegated as otherwise consistent with Fosshost policies, for example the Secretary may delegate and share information (for example, with other volunteers) as may be necessary, expedient, and consistent with our policies, in order to make, keep, and produce records, and
+15. Where our policies, of which this forms a part, are not to conflict with our articles, and
+16. Where in conflict, our articles shall be considered before and superior to our policies including this one, however and
+17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our articles and/or he process by which we have agreed to revise our articles, whereas this may and does allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
 ## Our Values and Ethics Policy
