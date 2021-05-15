@@ -8,7 +8,7 @@
 cost to the Free and Open Source Software projects we support.  Projects
 must apply for our services, as well as meeting eligibility criteria,
 for example bearing a FOSS license.  As of May 1st, 2021 we host more
-than 130 FOSS projects.
+than 100 FOSS projects in data-centers across five continents.
 
 Our team is entirely volunteers, who donate their labor.  We partner
 with other organizations (our Sponsors and Partners) who provide us with
@@ -32,9 +32,9 @@ except as specified herein as will generally state:
 6. we will keep records so that we regularly report on these and similar
    stated promises
 7. we will consider most of the records we keep as for internal use only
-8. we will state expressly the other specific information we along with
-   any and all ways that we are able to predict unavoidable/required
-   disclosure
+8. we will state expressly specific information we may but do not
+   usually report along with any and all ways that we are able to
+   predict unavoidable/required disclosure
 9. we will fully and faithfully report such information however specific
    as we must to satisfy due diligence
 10. We may share more widely or otherwise such vital records as we are
@@ -44,9 +44,9 @@ except as specified herein as will generally state:
 12. Most publications at our discretion is in terms of this reporting
     and other information we possess remains in confidence to the extent
     possible for us
-13. Abuse of any kind is not tolerated and will usually case some or all
-    information related and kept within our other systems to become more
-    vital
+13. Abuse of any kind is not tolerated and will usually cause some or
+    all information related and kept within our other systems to become
+    more vital
 14. We strongly prefer FOSS software and will not consider hosting other
     types of development or otherwise than development under a FOSS
     license
@@ -56,9 +56,9 @@ except as specified herein as will generally state:
 16. Our staff give up some rights when then volunteer for us, such as to
     represent our directors in conducting the business of our
     organization & mission
-17. Our directors do not otherwise delegate their than as said below and
-    do not in any way consider they have lessoned their responsibility
-    to/for FOSSHOST CIC thereby.
+17. Our volunteers do not otherwise delegate or defer than as stated
+    below as typical and do not in any way consider they have lessoned
+    their responsibility to/for FOSSHOST CIC thereby.
 
 As a UK registered CIC, Fosshost is required to operate under our
 articles, filed with the office of the UK CIC regulator.  We are also
