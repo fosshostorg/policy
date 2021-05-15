@@ -36,7 +36,7 @@ exceptions described within the ITEMS immediately below:
 9. We will retain and fully and faithfully report (usually, eventually) publicly such information (however specific and detailed) as we must to satisfy due diligence.
 10. We share (especially) our vital records more often than we are required but we do so if, when, and as we may choose.
 11. We effect procedures and internal systems specific to keeping our vital records, for example such as all those needed for/by the office of the regulator of the CIC.
-12. Most publications at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us.
+12. Most publication at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us.
 13. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital.
 14. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license.
 15. We may, at our option, elect to use non-FOSS software but we will never incorporate it into our network or expect other than our own staff to use it.

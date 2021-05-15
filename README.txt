@@ -59,7 +59,7 @@ ITEMS
   11. We effect procedures and internal systems specific to keeping our
       vital records, for example such as all those needed for/by the
       office of the regulator of the CIC.
-  12. Most publications at our discretion is in terms of this reporting
+  12. Most publication at our discretion is in terms of this reporting
       and other information we possess remains in confidence to the
       extent possible for us.
   13. Abuse of any kind is not tolerated and will usually cause some or
