@@ -10,152 +10,184 @@ must apply for our services, as well as meeting eligibility criteria,
 for example bearing a FOSS license.  As of May 1st, 2021 we host more
 than 100 FOSS projects in data-centers across five continents.
 
-Our team is entirely volunteers, who donate their labor.  We partner
-with other organizations (our Sponsors and Partners) who provide us with
-servers, rack-space, bandwidth, etc.  We use these resources to
-create/provide/distribute services to our tenants (the projects we
-host), with access to infrastructural technology services, for example
-virtual private servers (VPS) and consoles of these.  We don't provide
-remuneration/compensation to our Sponsors/Partners nor to our team,
-except as specified herein as will generally state:
+This document does not become effective until approved by our directors.
+When that occurs we'll update this.
 
-1. we don't offer monetary or other consideration to our staff including
-   directors
-2. we may, at our option, prefer to host projects from our volunteers
-   when we can
-3. we might well use your projects branding and otherwise generally
-   mention if/when we host you but you can ask us not to that
-4. you can in otherwise influence our communications (if any) about our
-   relationship if/when we partner together
-5. we can stop doing some or all of what we are doing for you at almost
-   any time for almost any reason at our option
-6. we will keep records so that we regularly report on these and similar
-   stated promises
-7. we will consider most of the records we keep as for internal use only
-8. we will state expressly specific information we may but do not
-   usually report along with any and all ways that we are able to
-   predict unavoidable/required disclosure
-9. we will fully and faithfully report such information however specific
-   as we must to satisfy due diligence
-10. We may share more widely or otherwise such vital records as we are
-    required to maintain and do so if/as/when we may choose
-11. We effect procedures and internal systems which keep vital records
-    such as for the office of the regulator of the CIC
-12. Most publications at our discretion is in terms of this reporting
-    and other information we possess remains in confidence to the extent
-    possible for us
-13. Abuse of any kind is not tolerated and will usually cause some or
-    all information related and kept within our other systems to become
-    more vital
-14. We strongly prefer FOSS software and will not consider hosting other
-    types of development or otherwise than development under a FOSS
-    license
-15. We may, at our option, elect to use non-FOSS software but we will
-    never incorporate it into our network or expect other than our own
-    staff to use it
-16. Our staff give up some rights when then volunteer for us, such as to
-    represent our directors in conducting the business of our
-    organization & mission
-17. Our volunteers do not otherwise delegate or defer than as stated
-    below as typical and do not in any way consider they have lessoned
-    their responsibility to/for FOSSHOST CIC thereby.
 
-As a UK registered CIC, Fosshost is required to operate under our
-articles, filed with the office of the UK CIC regulator.  We are also
-subject to oversight by that administration, for example to demonstrate
-our assets/expenditures directly benefit our community.
+[Fosshost] <https://fosshost.org>
 
-This document represents our process in documenting our internal
-practices.  It has a number of goals:
-* declare the interests we serve and how we benefit our community
-* ensure legal protections of our CIC status apply to our volunteers
-* describe our operating practices and allow scrutiny
-* allow us measure our results and evolve our methods so we grow
-* ensure we act consistency and within legal and ethical bounds
+
+SUMMARY
+=======
+
+  Our team is entirely volunteers, who donate their labor.  We partner
+  with other organizations (our Sponsors and Partners) who provide us
+  with servers, rack-space, bandwidth, etc.  We use these resources to
+  create/provide/distribute services to our tenants (the projects we
+  host), with access to infrastructural technology services, for example
+  virtual private servers (VPS) and consoles of these.  We don't provide
+  remuneration/compensation to our Sponsors/Partners nor to our team,
+  except as specified herein as will generally state things so that:
+
+
+ITEMS
+~~~~~
+
+  1. We don't offer monetary or other consideration to our staff
+     including directors.
+  2. We may, at our option, prefer to host projects from our volunteers
+     when we can.
+  3. We might well use your projects branding and otherwise generally
+     mention if/when we host you but you can ask us not to that.
+  4. You can in otherwise influence our communications (if any) about
+     our relationship if/when we partner together.
+  5. We can stop doing some or all of what we are doing for you at
+     almost any time for almost any reason at our option.
+  6. We will keep records so that we regularly report on these and
+     similar stated promises.
+  7. We will consider most of the records we keep as for internal use
+     only.
+  8. We will state expressly specific information we may but do not
+     usually report along with any and all ways that we are able to
+     predict unavoidable/required disclosure.
+  9. We will fully and faithfully report such information however
+     specific as we must to satisfy due diligence.
+  10. We may share more widely or otherwise such vital records as we are
+      required to maintain and do so if/as/when we may choose.
+  11. We effect procedures and internal systems which keep vital records
+      such as for the office of the regulator of the CIC.
+  12. Most publications at our discretion is in terms of this reporting
+      and other information we possess remains in confidence to the
+      extent possible for us.
+  13. Abuse of any kind is not tolerated and will usually cause some or
+      all information related and kept within our other systems to
+      become more vital.
+  14. We strongly prefer FOSS software and will not consider hosting
+      other types of development or otherwise than development under a
+      FOSS license.
+  15. We may, at our option, elect to use non-FOSS software but we will
+      never incorporate it into our network or expect other than our own
+      staff to use it.
+  16. Our staff give up some rights when then volunteer for us, such as
+      to represent our directors in conducting the business of our
+      organization & mission.
+  17. Our volunteers do not otherwise delegate or defer than as stated
+      below as being typical; we in no way consider these lessen our
+      responsibility to/for FOSSHOST CIC.
+
+
+LIMITATIONS AND ALTERNATIVES
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  Our articles form the sole contract between the directors.
 
   Notwithstanding our articles as filed with the office of the regulator
   of the UK CIC, which our policy must be consistent with and
   subject/secondary to, these and no other documents govern our
   organization including our members, agents, and/or assignees when
   acting on our behalf expect whereas our policies (this document or
-  documents) make expressly and specifically describe and allow.
+  documents) specifically describe and require or allow.
 
-This document does not become effective until approved by our directors.
-When that occurs we'll update this.
-
-Table of Contents
-_________________
-
-1 OUR POLICY
-.. 1.1 Our Expectations Evolution Policy
-..... 1.1.1 SUMMARY
-..... 1.1.2 ITEMS
-.. 1.2 Our Values and Ethics Policy
-..... 1.2.1 SUMMARY
-..... 1.2.2 ITEMS
-.. 1.3 Our Community Policy
-..... 1.3.1 SUMMARY
-..... 1.3.2 ITEMS
-.. 1.4 Our Teamwork Policy
-..... 1.4.1 SUMMARY
-..... 1.4.2 ITEMS
-.. 1.5 Our Sponsorship and Contribution Policy
-..... 1.5.1 SUMMARY
-..... 1.5.2 ITEMS
-.. 1.6 Our Record Keeping ("Privacy") Policy
-..... 1.6.1 SUMMARY
-..... 1.6.2 ITEMS
-.. 1.7 Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
-..... 1.7.1 SUMMARY
-..... 1.7.2 ITEMS
-2 OUR PROCEDURES
-.. 2.1 SUMMARY
-.. 2.2 ABSTRACT
-..... 2.2.1 Writing and Updating Procedure                   :PROCEDURE:
-..... 2.2.2 Preventing and Reporting Abuse                   :PROCEDURE:
-..... 2.2.3 Information Handling                             :PROCEDURE:
-..... 2.2.4 Risk and Control                                 :PROCEDURE:
-..... 2.2.5 Limited General Representation                   :PROCEDURE:
-..... 2.2.6 Exceptional Circumstance                         :PROCEDURE:
-..... 2.2.7 Customary Authority                              :PROCEDURE:
-..... 2.2.8 Public Relations                                 :PROCEDURE:
-..... 2.2.9 Defining and Prioritizing Projects               :PROCEDURE:
-..... 2.2.10 Scheduling Criteria                             :PROCEDURE:
-..... 2.2.11 Technical Criteria                              :PROCEDURE:
-..... 2.2.12 Operational Logging
-.. 2.3 ADMINISTRATIVE
-..... 2.3.1 Keeping the Operations Log
-..... 2.3.2 Basic Ticketing
-..... 2.3.3 Requesting credentials
-..... 2.3.4 Reviewing Applications
-..... 2.3.5 On-boarding
-..... 2.3.6 Updating the Asset Catalog
-..... 2.3.7 Shipping and Receiving
-..... 2.3.8 Special Handling for Reimbursable Receipts
-..... 2.3.9 Accepting and Transferring Donations
-..... 2.3.10 Running Meetings
-.. 2.4 TECHNICAL
-..... 2.4.1 Testing Your Credentials
-..... 2.4.2 AARCH64
-..... 2.4.3 General or x86 Specific
-.. 2.5 OVERSIGHT
-..... 2.5.1 Reporting Malfeasance and Abuse
-..... 2.5.2 Reporting Accounts Payable
-..... 2.5.3 Reporting Donations in Summary
-..... 2.5.4 Reporting Data Breach or Compromise
-..... 2.5.5 Reporting Termination of Service
-..... 2.5.6 Reporting Completed Changes in Summary
-..... 2.5.7 Reporting Proposed Changes to Policy and Procedure
-..... 2.5.8 Reporting Architecture and Design
-..... 2.5.9 Reporting Technology Changes
-..... 2.5.10 Reporting Outages
-..... 2.5.11 Reporting Applications Processed
-..... 2.5.12 Providing a Summary Report to the Board
-..... 2.5.13 Special Procedure for Board to Stand Generally In Recess
-3 other
+  We post our articles here after we sign and file duly agree to publish
+    them: <https://github.com/fosshostorg/policy/blob/main/articles.pdf>
 
 
-[Fosshost] https://fosshost.org
+NOTES
+~~~~~
+
+  As a UK registered CIC, Fosshost is required to operate under our
+  articles, filed with the office of the UK CIC regulator.  We are also
+  subject to oversight by that administration, for example to
+  demonstrate our assets/expenditures directly benefit our community.
+
+  This document represents our process in documenting our internal
+  practices.  It has a number of goals:
+  * declare the interests we serve and how we benefit our community
+  * Ensure any such permissible legal protections may exist as permits
+    and sustains a cooperative work environment (for example to extent
+    possible extending the limitations of liability such as from our CIC
+    registration and status in good standing, and to the extent possible
+    apply that to all our volunteers and otherwise also to tenants,
+    sponsors, and others we work with).
+  * describe our operating practices and allow scrutiny
+  * ensure we measure our results and evolve our methods
+  * ensure we dependable custodians acting with consistency and within
+    legal and ethical bounds
+
+  Table of Contents
+  _________________
+
+  SUMMARY
+  .. ITEMS
+  .. LIMITATIONS AND ALTERNATIVES
+  .. NOTES
+  1. OUR POLICY
+  .. 1. Our Expectations Evolution Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  .. 2. Our Values and Ethics Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  .. 3. Our Community Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  .. 4. Our Teamwork Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  .. 5. Our Sponsorship and Contribution Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  .. 6. Our Record Keeping ("Privacy") Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  .. 7. Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
+  ..... 1. SUMMARY
+  ..... 2. ITEMS
+  2. OUR PROCEDURES
+  .. 1. SUMMARY
+  .. 2. ABSTRACT
+  ..... 1. Writing and Updating Procedure                    :PROCEDURE:
+  ..... 2. Preventing and Reporting Abuse                    :PROCEDURE:
+  ..... 3. Information Handling                              :PROCEDURE:
+  ..... 4. Risk and Control                                  :PROCEDURE:
+  ..... 5. Limited General Representation                    :PROCEDURE:
+  ..... 6. Exceptional Circumstance                          :PROCEDURE:
+  ..... 7. Customary Authority                               :PROCEDURE:
+  ..... 8. Public Relations                                  :PROCEDURE:
+  ..... 9. Defining and Prioritizing Projects                :PROCEDURE:
+  ..... 10. Scheduling Criteria                              :PROCEDURE:
+  ..... 11. Technical Criteria                               :PROCEDURE:
+  ..... 12. Operational Logging
+  .. 3. ADMINISTRATIVE
+  ..... 1. Keeping the Operations Log
+  ..... 2. Basic Ticketing
+  ..... 3. Requesting credentials
+  ..... 4. Reviewing Applications
+  ..... 5. On-boarding
+  ..... 6. Updating the Asset Catalog
+  ..... 7. Shipping and Receiving
+  ..... 8. Special Handling for Reimbursable Receipts
+  ..... 9. Accepting and Transferring Donations
+  ..... 10. Running Meetings
+  .. 4. TECHNICAL
+  ..... 1. Testing Your Credentials
+  ..... 2. AARCH64
+  ..... 3. General or x86 Specific
+  .. 5. OVERSIGHT
+  ..... 1. Reporting Malfeasance and Abuse
+  ..... 2. Reporting Accounts Payable
+  ..... 3. Reporting Donations in Summary
+  ..... 4. Reporting Data Breach or Compromise
+  ..... 5. Reporting Termination of Service
+  ..... 6. Reporting Completed Changes in Summary
+  ..... 7. Reporting Proposed Changes to Policy and Procedure
+  ..... 8. Reporting Architecture and Design
+  ..... 9. Reporting Technology Changes
+  ..... 10. Reporting Outages
+  ..... 11. Reporting Applications Processed
+  ..... 12. Providing a Summary Report to the Board
+  ..... 13. Special Procedure for Board to Stand Generally In Recess
+  3. INCOMPLETE AND OTHER
 
 
 1 OUR POLICY
@@ -177,7 +209,7 @@ _________________
         texts.
 
 
-[contributors] https://docs.fosshost.org/en/home/team
+[contributors] <https://docs.fosshost.org/en/home/team>
 
 1.1 Our Expectations Evolution Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -501,9 +533,10 @@ _________________
            3. our duty to serve the public good.
 
 
-[endorsed or approved] https://www.gnu.org/licenses/license-list.en.html
+[endorsed or approved]
+<https://www.gnu.org/licenses/license-list.en.html>
 
-[Open Source Definition] https://opensource.org/osd
+[Open Source Definition] <https://opensource.org/osd>
 
 
 1.4 Our Teamwork Policy
@@ -1997,8 +2030,8 @@ _________________
 ---------------------------------------------------------------
 
 
-3 other
-=======
+3 INCOMPLETE AND OTHER
+======================
 
   scraps, extended notes, references, and clarifications
 
@@ -2180,24 +2213,25 @@ _________________
   including such private references as it may to be considered complete
   require.
 
-  NOTE: this concludes our policies, refer to the ITEMS below for any
-  completed or other procedure and/or policies and procedural language
-  work-in-process, documentation and references regarding FOSS products
-  and services we directly or by extension provide along with their
-  licenses and any unique guidance or perspective we may have regarding
-  our use, and such else as we may include or allow to be included and
-  generally to demonstrate or effect or otherwise progress toward that
-  herein and/or as duly referenced, and whereas we may (as prudent and
-  courteously, publicly) provide for a transparent reliable alternative
-  for FOSS projects, attending to their regular and necessary internet
-  services and for such hosting needs without charging them or anyone
-  specifically for any given services, and this including all of the
-  above and below including those public external or private internal
-  and secret forms referenced herein. and together these with our
-  articles as filed with the office of the UK CIC regulator form or as
-  may be ammended and duly recorded herein while our articles are being
-  reflied or updated or otherwise consistude by or for this or a similar
-  authority, and when taken together all of these for our complete and
-  sole policy and/or procedure, and otherwise no document or contract
-  controls the actions of our directors or other volunteers without it
-  is expressly and duly provided for and reported herein.
+  NOTE: this concludes our policies, refer to the information above for
+  any completed or other procedure and/or policies and procedural
+  language work-in-process, documentation and references regarding FOSS
+  products and services we directly or by extension provide along with
+  their licenses and any unique guidance or perspective we may have
+  regarding our use, and such else as we may include or allow to be
+  included and generally to demonstrate or effect or otherwise progress
+  toward that herein and/or as duly referenced, and whereas we may (as
+  prudent and courteously, publicly) provide for a transparent reliable
+  alternative for FOSS projects, attending to their regular and
+  necessary internet services and for such hosting needs without
+  charging them or anyone specifically for any given services, and this
+  including all of the above and below including those public external
+  or private internal and secret forms referenced herein. and together
+  these with our articles as filed with the office of the UK CIC
+  regulator form or as may be ammended and duly recorded herein while
+  our articles are being reflied or updated or otherwise consistude by
+  or for this or a similar authority, and when taken together all of
+  these for our complete and sole policy and/or procedure, and otherwise
+  no document or contract controls the actions of our directors or other
+  volunteers without it is expressly and duly provided for and reported
+  herein.

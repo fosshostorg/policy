@@ -3,12 +3,11 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2021-05-15 Sat 13:48 -->
+<!-- 2021-05-15 Sat 14:19 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Fosshost CIC Operational Policy Statement</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Corwin Brust" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -40,7 +39,7 @@
   }
   pre.src {
     position: relative;
-    overflow: auto;
+    overflow: visible;
     padding-top: 1.2em;
   }
   pre.src:before {
@@ -200,26 +199,50 @@
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/lib/js/jquery.stickytableheaders.min.js"></script>
 <script type="text/javascript" src="https://fniessen.github.io/org-html-themes/src/readtheorg_theme/js/readtheorg.js"></script>
 <script type="text/javascript">
-// @license magnet:?xt=urn:btih:e95b018ef3580986a04669f1b5879592219e2a7a&dn=public-domain.txt Public Domain
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2020 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
 <!--/*--><![CDATA[/*><!--*/
-     function CodeHighlightOn(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.add("code-highlighted");
-         target.classList.add("code-highlighted");
-       }
-     }
-     function CodeHighlightOff(elem, id)
-     {
-       var target = document.getElementById(id);
-       if(null != target) {
-         elem.classList.remove("code-highlighted");
-         target.classList.remove("code-highlighted");
-       }
-     }
-    /*]]>*///-->
-// @license-end
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
 </script>
 </head>
 <body>
@@ -238,9 +261,9 @@ This document does not become effective until approved by our
 directors.  When that occurs we'll update this.
 </p>
 
-<div id="outline-container-org29abc8a" class="outline-2">
-<h2 id="org29abc8a">SUMMARY</h2>
-<div class="outline-text-2" id="text-org29abc8a">
+<div id="outline-container-orgdedb055" class="outline-2">
+<h2 id="orgdedb055">SUMMARY</h2>
+<div class="outline-text-2" id="text-orgdedb055">
 <p>
 Our team is entirely volunteers, who donate their labor.  We partner
 with other organizations (our Sponsors and Partners) who provide us
@@ -253,9 +276,9 @@ except as specified herein as will generally state things so that:
 </p>
 </div>
 
-<div id="outline-container-orge11208d" class="outline-3">
-<h3 id="orge11208d">ITEMS</h3>
-<div class="outline-text-3" id="text-orge11208d">
+<div id="outline-container-org2966f10" class="outline-3">
+<h3 id="org2966f10">ITEMS</h3>
+<div class="outline-text-3" id="text-org2966f10">
 <ol class="org-ol">
 <li>We don't offer monetary or other consideration to our staff including directors.</li>
 <li>We may, at our option, prefer to host projects from our volunteers when we can.</li>
@@ -278,9 +301,9 @@ except as specified herein as will generally state things so that:
 </div>
 </div>
 
-<div id="outline-container-orgab70aa8" class="outline-3">
-<h3 id="orgab70aa8">LIMITATIONS AND ALTERNATIVES</h3>
-<div class="outline-text-3" id="text-orgab70aa8">
+<div id="outline-container-orgca48ab6" class="outline-3">
+<h3 id="orgca48ab6">LIMITATIONS AND ALTERNATIVES</h3>
+<div class="outline-text-3" id="text-orgca48ab6">
 <p>
 Our articles form the sole contract between the directors.
 </p>
@@ -291,14 +314,19 @@ regulator of the UK CIC, which our policy must be consistent with
 and subject/secondary to, these and no other documents govern our
 organization including our members, agents, and/or assignees when
 acting on our behalf expect whereas our policies (this document or
-documents) make expressly and specifically describe and allow.
+documents) specifically describe and require or allow.
+</p>
+
+<p>
+We post our articles here after we sign and file duly agree to publish them:
+  <a href="https://github.com/fosshostorg/policy/blob/main/articles.pdf">https://github.com/fosshostorg/policy/blob/main/articles.pdf</a>
 </p>
 </div>
 </div>
 
-<div id="outline-container-org16dd563" class="outline-3">
-<h3 id="org16dd563">NOTES</h3>
-<div class="outline-text-3" id="text-org16dd563">
+<div id="outline-container-org6dfd078" class="outline-3">
+<h3 id="org6dfd078">NOTES</h3>
+<div class="outline-text-3" id="text-org6dfd078">
 <p>
 As a UK registered CIC, Fosshost is required to operate under our
 articles, filed with the office of the UK CIC regulator.  We are also
@@ -322,119 +350,119 @@ practices.  It has a number of goals:
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org29abc8a">SUMMARY</a>
+<li><a href="#orgdedb055">SUMMARY</a>
 <ul>
-<li><a href="#orge11208d">ITEMS</a></li>
-<li><a href="#orgab70aa8">LIMITATIONS AND ALTERNATIVES</a></li>
-<li><a href="#org16dd563">NOTES</a></li>
+<li><a href="#org2966f10">ITEMS</a></li>
+<li><a href="#orgca48ab6">LIMITATIONS AND ALTERNATIVES</a></li>
+<li><a href="#org6dfd078">NOTES</a></li>
 </ul>
 </li>
-<li><a href="#orgf275e8e">1. OUR POLICY</a>
+<li><a href="#org4487abd">1. OUR POLICY</a>
 <ul>
-<li><a href="#orgf881d53">1.1. Our Expectations Evolution Policy</a>
+<li><a href="#org7de56d6">1.1. Our Expectations Evolution Policy</a>
 <ul>
-<li><a href="#org90a4db6">1.1.1. SUMMARY</a></li>
-<li><a href="#org961d22f">1.1.2. ITEMS</a></li>
+<li><a href="#org01f8e9d">1.1.1. SUMMARY</a></li>
+<li><a href="#org65f21c6">1.1.2. ITEMS</a></li>
 </ul>
 </li>
-<li><a href="#org9672596">1.2. Our Values and Ethics Policy</a>
+<li><a href="#orgfa44679">1.2. Our Values and Ethics Policy</a>
 <ul>
-<li><a href="#org475d62d">1.2.1. SUMMARY</a></li>
-<li><a href="#orge4a8744">1.2.2. ITEMS</a></li>
+<li><a href="#orgd8c359c">1.2.1. SUMMARY</a></li>
+<li><a href="#org885aa75">1.2.2. ITEMS</a></li>
 </ul>
 </li>
-<li><a href="#org931e335">1.3. Our Community Policy</a>
+<li><a href="#org020071d">1.3. Our Community Policy</a>
 <ul>
-<li><a href="#org6029e09">1.3.1. SUMMARY</a></li>
-<li><a href="#orgda35ad7">1.3.2. ITEMS</a></li>
+<li><a href="#orgc501f72">1.3.1. SUMMARY</a></li>
+<li><a href="#org81714eb">1.3.2. ITEMS</a></li>
 </ul>
 </li>
-<li><a href="#org5976389">1.4. Our Teamwork Policy</a>
+<li><a href="#orgffbd7af">1.4. Our Teamwork Policy</a>
 <ul>
-<li><a href="#orgf60c961">1.4.1. SUMMARY</a></li>
-<li><a href="#orgb5324f2">1.4.2. ITEMS</a></li>
+<li><a href="#orgb3c7e8c">1.4.1. SUMMARY</a></li>
+<li><a href="#org4340ea6">1.4.2. ITEMS</a></li>
 </ul>
 </li>
-<li><a href="#orgb6330a8">1.5. Our Sponsorship and Contribution Policy</a>
+<li><a href="#orgfa35232">1.5. Our Sponsorship and Contribution Policy</a>
 <ul>
-<li><a href="#orge031cbf">1.5.1. SUMMARY</a></li>
-<li><a href="#org9a642db">1.5.2. ITEMS</a></li>
+<li><a href="#org72b89eb">1.5.1. SUMMARY</a></li>
+<li><a href="#orga91751f">1.5.2. ITEMS</a></li>
 </ul>
 </li>
-<li><a href="#orgcb17c58">1.6. Our Record Keeping ("Privacy") Policy</a>
+<li><a href="#org40d94c3">1.6. Our Record Keeping ("Privacy") Policy</a>
 <ul>
-<li><a href="#orgf6bf538">1.6.1. SUMMARY</a></li>
-<li><a href="#org8774045">1.6.2. ITEMS</a></li>
+<li><a href="#org0c0ed04">1.6.1. SUMMARY</a></li>
+<li><a href="#orgbe48f20">1.6.2. ITEMS</a></li>
 </ul>
 </li>
-<li><a href="#orge2d611d">1.7. Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy</a>
+<li><a href="#org0732408">1.7. Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy</a>
 <ul>
-<li><a href="#orgd276a13">1.7.1. SUMMARY</a></li>
-<li><a href="#org4f45028">1.7.2. ITEMS</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><a href="#org33912b7">2. OUR PROCEDURES</a>
-<ul>
-<li><a href="#orge5768b5">2.1. SUMMARY</a></li>
-<li><a href="#org2549120">2.2. ABSTRACT</a>
-<ul>
-<li><a href="#orga03606f">2.2.1. Writing and Updating Procedure&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#orgfd4dadf">2.2.2. Preventing and Reporting Abuse&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#org3486089">2.2.3. Information Handling&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#org5d2fbd6">2.2.4. Risk and Control&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#orgb3d45fc">2.2.5. Limited General Representation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#org1cbb66d">2.2.6. Exceptional Circumstance&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#orgd0abe7c">2.2.7. Customary Authority&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#orgb98af3a">2.2.8. Public Relations&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#org2db0d5a">2.2.9. Defining and Prioritizing Projects&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#org752bdd7">2.2.10. Scheduling Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#orgf1d2bb9">2.2.11. Technical Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
-<li><a href="#orgd3a8611">2.2.12. Operational Logging</a></li>
-</ul>
-</li>
-<li><a href="#orga622940">2.3. ADMINISTRATIVE</a>
-<ul>
-<li><a href="#org23f551a">2.3.1. Keeping the Operations Log</a></li>
-<li><a href="#orgb2be950">2.3.2. Basic Ticketing</a></li>
-<li><a href="#orgb1b829d">2.3.3. Requesting credentials</a></li>
-<li><a href="#orgeb8bb4c">2.3.4. Reviewing Applications</a></li>
-<li><a href="#org94ef2bb">2.3.5. On-boarding</a></li>
-<li><a href="#org904f95a">2.3.6. Updating the Asset Catalog</a></li>
-<li><a href="#org9cbb77f">2.3.7. Shipping and Receiving</a></li>
-<li><a href="#orgcf2352a">2.3.8. Special Handling for Reimbursable Receipts</a></li>
-<li><a href="#org227955c">2.3.9. Accepting and Transferring Donations</a></li>
-<li><a href="#org75547e2">2.3.10. Running Meetings</a></li>
-</ul>
-</li>
-<li><a href="#orge0c1a5f">2.4. TECHNICAL</a>
-<ul>
-<li><a href="#orgdf12c4a">2.4.1. Testing Your Credentials</a></li>
-<li><a href="#org6671b77">2.4.2. AARCH64</a></li>
-<li><a href="#org8dd06e3">2.4.3. General or x86 Specific</a></li>
-</ul>
-</li>
-<li><a href="#orgad2558f">2.5. OVERSIGHT</a>
-<ul>
-<li><a href="#org923b76d">2.5.1. Reporting Malfeasance and Abuse</a></li>
-<li><a href="#orgb77331a">2.5.2. Reporting Accounts Payable</a></li>
-<li><a href="#org39584ef">2.5.3. Reporting Donations in Summary</a></li>
-<li><a href="#org6c64c3f">2.5.4. Reporting Data Breach or Compromise</a></li>
-<li><a href="#org057b21b">2.5.5. Reporting Termination of Service</a></li>
-<li><a href="#org17ccdf0">2.5.6. Reporting Completed Changes in Summary</a></li>
-<li><a href="#org90f4ef5">2.5.7. Reporting Proposed Changes to Policy and Procedure</a></li>
-<li><a href="#org206539b">2.5.8. Reporting Architecture and Design</a></li>
-<li><a href="#orgc1e89ff">2.5.9. Reporting Technology Changes</a></li>
-<li><a href="#org1e77f7a">2.5.10. Reporting Outages</a></li>
-<li><a href="#org1b6fe18">2.5.11. Reporting Applications Processed</a></li>
-<li><a href="#orgb8860e5">2.5.12. Providing a Summary Report to the Board</a></li>
-<li><a href="#orgb17625a">2.5.13. Special Procedure for Board to Stand Generally In Recess</a></li>
+<li><a href="#org0f150e4">1.7.1. SUMMARY</a></li>
+<li><a href="#org94d7852">1.7.2. ITEMS</a></li>
 </ul>
 </li>
 </ul>
 </li>
-<li><a href="#orgd894986">3. other</a></li>
+<li><a href="#orgfe0b8d3">2. OUR PROCEDURES</a>
+<ul>
+<li><a href="#org597f405">2.1. SUMMARY</a></li>
+<li><a href="#org4d0b510">2.2. ABSTRACT</a>
+<ul>
+<li><a href="#org1ed1c19">2.2.1. Writing and Updating Procedure&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org9627ea7">2.2.2. Preventing and Reporting Abuse&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#orgcc4e213">2.2.3. Information Handling&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org536d3b0">2.2.4. Risk and Control&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org0e50f71">2.2.5. Limited General Representation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org33f005c">2.2.6. Exceptional Circumstance&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#orga52bc3a">2.2.7. Customary Authority&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org23299db">2.2.8. Public Relations&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#orgf1efd62">2.2.9. Defining and Prioritizing Projects&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org717d5fe">2.2.10. Scheduling Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org2766065">2.2.11. Technical Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></a></li>
+<li><a href="#org58a286c">2.2.12. Operational Logging</a></li>
+</ul>
+</li>
+<li><a href="#org440a83c">2.3. ADMINISTRATIVE</a>
+<ul>
+<li><a href="#orge20121e">2.3.1. Keeping the Operations Log</a></li>
+<li><a href="#orgc682b21">2.3.2. Basic Ticketing</a></li>
+<li><a href="#orgce082d1">2.3.3. Requesting credentials</a></li>
+<li><a href="#org0d538a7">2.3.4. Reviewing Applications</a></li>
+<li><a href="#orgf173e4b">2.3.5. On-boarding</a></li>
+<li><a href="#orgd8d8561">2.3.6. Updating the Asset Catalog</a></li>
+<li><a href="#org73cd94d">2.3.7. Shipping and Receiving</a></li>
+<li><a href="#orgf9bf611">2.3.8. Special Handling for Reimbursable Receipts</a></li>
+<li><a href="#org2b9fc18">2.3.9. Accepting and Transferring Donations</a></li>
+<li><a href="#orgcbe5be7">2.3.10. Running Meetings</a></li>
+</ul>
+</li>
+<li><a href="#org10a647b">2.4. TECHNICAL</a>
+<ul>
+<li><a href="#org4af6ffe">2.4.1. Testing Your Credentials</a></li>
+<li><a href="#org3fb6031">2.4.2. AARCH64</a></li>
+<li><a href="#org7416182">2.4.3. General or x86 Specific</a></li>
+</ul>
+</li>
+<li><a href="#org6cca1e2">2.5. OVERSIGHT</a>
+<ul>
+<li><a href="#orgab08fa9">2.5.1. Reporting Malfeasance and Abuse</a></li>
+<li><a href="#org7f4c308">2.5.2. Reporting Accounts Payable</a></li>
+<li><a href="#org935ba32">2.5.3. Reporting Donations in Summary</a></li>
+<li><a href="#orgca3d111">2.5.4. Reporting Data Breach or Compromise</a></li>
+<li><a href="#org9b4b57b">2.5.5. Reporting Termination of Service</a></li>
+<li><a href="#org72eb4bb">2.5.6. Reporting Completed Changes in Summary</a></li>
+<li><a href="#orgddaf13d">2.5.7. Reporting Proposed Changes to Policy and Procedure</a></li>
+<li><a href="#orgb7dd3af">2.5.8. Reporting Architecture and Design</a></li>
+<li><a href="#org94b547f">2.5.9. Reporting Technology Changes</a></li>
+<li><a href="#org4d8266c">2.5.10. Reporting Outages</a></li>
+<li><a href="#org2fb82ff">2.5.11. Reporting Applications Processed</a></li>
+<li><a href="#orgf3f6734">2.5.12. Providing a Summary Report to the Board</a></li>
+<li><a href="#orga438bec">2.5.13. Special Procedure for Board to Stand Generally In Recess</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#orge7dfde7">3. INCOMPLETE AND OTHER</a></li>
 </ul>
 </div>
 </div>
@@ -442,8 +470,8 @@ practices.  It has a number of goals:
 </div>
 </div>
 
-<div id="outline-container-orgf275e8e" class="outline-2">
-<h2 id="orgf275e8e"><span class="section-number-2">1</span> OUR POLICY</h2>
+<div id="outline-container-org4487abd" class="outline-2">
+<h2 id="org4487abd"><span class="section-number-2">1</span> OUR POLICY</h2>
 <div class="outline-text-2" id="text-1">
 <blockquote>
 <p>
@@ -460,8 +488,8 @@ Permission is granted to copy, distribute and/or modify this work under the term
 </blockquote>
 </div>
 
-<div id="outline-container-orgf881d53" class="outline-3">
-<h3 id="orgf881d53"><span class="section-number-3">1.1</span> Our Expectations Evolution Policy</h3>
+<div id="outline-container-org7de56d6" class="outline-3">
+<h3 id="org7de56d6"><span class="section-number-3">1.1</span> Our Expectations Evolution Policy</h3>
 <div class="outline-text-3" id="text-1-1">
 <blockquote>
 <p>
@@ -470,8 +498,8 @@ A policy to help us develop polices.
 </blockquote>
 </div>
 
-<div id="outline-container-org90a4db6" class="outline-4">
-<h4 id="org90a4db6"><span class="section-number-4">1.1.1</span> SUMMARY</h4>
+<div id="outline-container-org01f8e9d" class="outline-4">
+<h4 id="org01f8e9d"><span class="section-number-4">1.1.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-1-1">
 <p>
 The ITEMS following create a basis for directors to create and update policy, for other volunteers to raise concerns ("object") to policy, and requires all policy to be consistent with our articles which are superior to our polices.
@@ -483,8 +511,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-org961d22f" class="outline-4">
-<h4 id="org961d22f"><span class="section-number-4">1.1.2</span> ITEMS</h4>
+<div id="outline-container-org65f21c6" class="outline-4">
+<h4 id="org65f21c6"><span class="section-number-4">1.1.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-1-2">
 <ol class="org-ol">
 <li>Directors shall write policy as needed, and</li>
@@ -509,8 +537,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-org9672596" class="outline-3">
-<h3 id="org9672596"><span class="section-number-3">1.2</span> Our Values and Ethics Policy</h3>
+<div id="outline-container-orgfa44679" class="outline-3">
+<h3 id="orgfa44679"><span class="section-number-3">1.2</span> Our Values and Ethics Policy</h3>
 <div class="outline-text-3" id="text-1-2">
 <blockquote>
 <p>
@@ -518,8 +546,8 @@ A statement of our values and accountability.
 </p>
 </blockquote>
 </div>
-<div id="outline-container-org475d62d" class="outline-4">
-<h4 id="org475d62d"><span class="section-number-4">1.2.1</span> SUMMARY</h4>
+<div id="outline-container-orgd8c359c" class="outline-4">
+<h4 id="orgd8c359c"><span class="section-number-4">1.2.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-2-1">
 <p>
 The ITEMS following create a basis for a guarantee of good faith in the public interest by stating our values and framework for accountability.  To that end, the language in this section should be simple and unembellished.
@@ -530,8 +558,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </p>
 </div>
 </div>
-<div id="outline-container-orge4a8744" class="outline-4">
-<h4 id="orge4a8744"><span class="section-number-4">1.2.2</span> ITEMS</h4>
+<div id="outline-container-org885aa75" class="outline-4">
+<h4 id="org885aa75"><span class="section-number-4">1.2.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-2-2">
 <ol class="org-ol">
 <li>We seek at all times to earn and to be worthy of trust, and</li>
@@ -542,16 +570,15 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 <li>We will at all times be honest, and</li>
 <li>we will comply with our polices,</li>
 <li>we will share and explain our work freely, and</li>
-<li>we will prefer, promote, and model the best ideals of the Free
-and Open Source software communities we host and/or endorse, and</li>
+<li>we will prefer, promote, and model the best ideals of the Free and Open Source software communities we host and/or endorse, and</li>
 <li>we will show our same values to all people and communities.</li>
 </ol>
 </div>
 </div>
 </div>
 
-<div id="outline-container-org931e335" class="outline-3">
-<h3 id="org931e335"><span class="section-number-3">1.3</span> Our Community Policy</h3>
+<div id="outline-container-org020071d" class="outline-3">
+<h3 id="org020071d"><span class="section-number-3">1.3</span> Our Community Policy</h3>
 <div class="outline-text-3" id="text-1-3">
 <blockquote>
 <p>
@@ -559,8 +586,8 @@ A somewhat intense statement of our specific mission in serving the general inte
 </p>
 </blockquote>
 </div>
-<div id="outline-container-org6029e09" class="outline-4">
-<h4 id="org6029e09"><span class="section-number-4">1.3.1</span> SUMMARY</h4>
+<div id="outline-container-orgc501f72" class="outline-4">
+<h4 id="orgc501f72"><span class="section-number-4">1.3.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-3-1">
 <p>
 The ITEMS following align our policy to our mission ("We're on a mission
@@ -582,8 +609,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </p>
 </div>
 </div>
-<div id="outline-container-orgda35ad7" class="outline-4">
-<h4 id="orgda35ad7"><span class="section-number-4">1.3.2</span> ITEMS</h4>
+<div id="outline-container-org81714eb" class="outline-4">
+<h4 id="org81714eb"><span class="section-number-4">1.3.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-3-2">
 <ol class="org-ol">
 <li>FOSS ("FLOSS", "Free Software", "Open Source Software" "Open Source", "Free and Open Source Software")
@@ -759,8 +786,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-org5976389" class="outline-3">
-<h3 id="org5976389"><span class="section-number-3">1.4</span> Our Teamwork Policy</h3>
+<div id="outline-container-orgffbd7af" class="outline-3">
+<h3 id="orgffbd7af"><span class="section-number-3">1.4</span> Our Teamwork Policy</h3>
 <div class="outline-text-3" id="text-1-4">
 <blockquote>
 <p>
@@ -769,8 +796,8 @@ Clear expectations make the dream work.
 </blockquote>
 </div>
 
-<div id="outline-container-orgf60c961" class="outline-4">
-<h4 id="orgf60c961"><span class="section-number-4">1.4.1</span> SUMMARY</h4>
+<div id="outline-container-orgb3c7e8c" class="outline-4">
+<h4 id="orgb3c7e8c"><span class="section-number-4">1.4.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-4-1">
 <p>
 The ITEMS following define teamwork as expectations regarding collaboration.
@@ -782,8 +809,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-orgb5324f2" class="outline-4">
-<h4 id="orgb5324f2"><span class="section-number-4">1.4.2</span> ITEMS</h4>
+<div id="outline-container-org4340ea6" class="outline-4">
+<h4 id="org4340ea6"><span class="section-number-4">1.4.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-4-2">
 <ol class="org-ol">
 <li>Notwithstanding we are expressly prohibited/restricted, we will generally
@@ -854,8 +881,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-orgb6330a8" class="outline-3">
-<h3 id="orgb6330a8"><span class="section-number-3">1.5</span> Our Sponsorship and Contribution Policy</h3>
+<div id="outline-container-orgfa35232" class="outline-3">
+<h3 id="orgfa35232"><span class="section-number-3">1.5</span> Our Sponsorship and Contribution Policy</h3>
 <div class="outline-text-3" id="text-1-5">
 <blockquote>
 <p>
@@ -864,8 +891,8 @@ Sometimes giving it our all means we find we didn't give it our best, or vice ve
 </blockquote>
 </div>
 
-<div id="outline-container-orge031cbf" class="outline-4">
-<h4 id="orge031cbf"><span class="section-number-4">1.5.1</span> SUMMARY</h4>
+<div id="outline-container-org72b89eb" class="outline-4">
+<h4 id="org72b89eb"><span class="section-number-4">1.5.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-5-1">
 <p>
 The ITEMS following define our goals in terms of publishing our
@@ -874,17 +901,23 @@ different circumstances we may or routinely face.
 </p>
 
 <p>
-In doing so, this section establishes the basis for other "practices", which may be documented and maintainenced outside our policy (e.g. this document).  Our goal is to allow our routine activities to addressed in a number of ways depending on the tastes and interests among our volunteers, while ensuring that, as an organization, we keep an retain consistent records and handle each appropriately.
+In doing so, this section establishes the basis for other "practices",
+which may be documented and maintainenced outside our policy
+(e.g. this document).  Our goal is to allow our routine activities to
+addressed in a number of ways depending on the tastes and interests
+among our volunteers, while ensuring that, as an organization, we keep
+an retain consistent records and handle each appropriately.
 </p>
 
 <p>
-NOTE: this is a summary, refer to the ITEMS below for binding policy language.
+NOTE: this is a summary, refer to the ITEMS below for binding policy
+language.
 </p>
 </div>
 </div>
 
-<div id="outline-container-org9a642db" class="outline-4">
-<h4 id="org9a642db"><span class="section-number-4">1.5.2</span> ITEMS</h4>
+<div id="outline-container-orga91751f" class="outline-4">
+<h4 id="orga91751f"><span class="section-number-4">1.5.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-5-2">
 <ol class="org-ol">
 <li>We will seek and regularly report on and record our progress contributing our work back to our community ("contribution report"), and</li>
@@ -972,8 +1005,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-orgcb17c58" class="outline-3">
-<h3 id="orgcb17c58"><span class="section-number-3">1.6</span> Our Record Keeping ("Privacy") Policy</h3>
+<div id="outline-container-org40d94c3" class="outline-3">
+<h3 id="org40d94c3"><span class="section-number-3">1.6</span> Our Record Keeping ("Privacy") Policy</h3>
 <div class="outline-text-3" id="text-1-6">
 <blockquote>
 <p>
@@ -982,8 +1015,8 @@ It is difficult to unintentionally disclose what you deliberately don't keep, an
 </blockquote>
 </div>
 
-<div id="outline-container-orgf6bf538" class="outline-4">
-<h4 id="orgf6bf538"><span class="section-number-4">1.6.1</span> SUMMARY</h4>
+<div id="outline-container-org0c0ed04" class="outline-4">
+<h4 id="org0c0ed04"><span class="section-number-4">1.6.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-6-1">
 <p>
 The ITEMS following define our goals in terms of information handling according to classification.
@@ -1005,8 +1038,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-org8774045" class="outline-4">
-<h4 id="org8774045"><span class="section-number-4">1.6.2</span> ITEMS</h4>
+<div id="outline-container-orgbe48f20" class="outline-4">
+<h4 id="orgbe48f20"><span class="section-number-4">1.6.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-6-2">
 <ol class="org-ol">
 <li>We handle all information according to our policy (this document or documents), and whereas
@@ -1128,12 +1161,12 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 </div>
 </div>
 
-<div id="outline-container-orge2d611d" class="outline-3">
-<h3 id="orge2d611d"><span class="section-number-3">1.7</span> Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy</h3>
+<div id="outline-container-org0732408" class="outline-3">
+<h3 id="org0732408"><span class="section-number-3">1.7</span> Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy</h3>
 <div class="outline-text-3" id="text-1-7">
 </div>
-<div id="outline-container-orgd276a13" class="outline-4">
-<h4 id="orgd276a13"><span class="section-number-4">1.7.1</span> SUMMARY</h4>
+<div id="outline-container-org0f150e4" class="outline-4">
+<h4 id="org0f150e4"><span class="section-number-4">1.7.1</span> SUMMARY</h4>
 <div class="outline-text-4" id="text-1-7-1">
 <blockquote>
 <p>
@@ -1153,8 +1186,8 @@ In fact, the section may specify some of the above only in outline, for example 
 </p>
 </div>
 </div>
-<div id="outline-container-org4f45028" class="outline-4">
-<h4 id="org4f45028"><span class="section-number-4">1.7.2</span> ITEMS</h4>
+<div id="outline-container-org94d7852" class="outline-4">
+<h4 id="org94d7852"><span class="section-number-4">1.7.2</span> ITEMS</h4>
 <div class="outline-text-4" id="text-1-7-2">
 <ol class="org-ol">
 <li>At our sole pleasure and convenience we do and may grant or provide any and all products and/or service ("our services"), and as such each
@@ -1224,8 +1257,8 @@ In fact, the section may specify some of the above only in outline, for example 
 </div>
 </div>
 </div>
-<div id="outline-container-org33912b7" class="outline-2">
-<h2 id="org33912b7"><span class="section-number-2">2</span> OUR PROCEDURES</h2>
+<div id="outline-container-orgfe0b8d3" class="outline-2">
+<h2 id="orgfe0b8d3"><span class="section-number-2">2</span> OUR PROCEDURES</h2>
 <div class="outline-text-2" id="text-2">
 <blockquote>
 <p>
@@ -1234,8 +1267,8 @@ I told you that, so I could tell you this.
 </blockquote>
 </div>
 
-<div id="outline-container-orge5768b5" class="outline-3">
-<h3 id="orge5768b5"><span class="section-number-3">2.1</span> SUMMARY</h3>
+<div id="outline-container-org597f405" class="outline-3">
+<h3 id="org597f405"><span class="section-number-3">2.1</span> SUMMARY</h3>
 <div class="outline-text-3" id="text-2-1">
 <p>
 The PROCEDURES following define our customary and typical operating procedures, or help to further define those procedures we wish to put into place.
@@ -1255,12 +1288,12 @@ NOTE: In fact, the Fosshost board might be considered as the four individuals in
 </div>
 </div>
 
-<div id="outline-container-org2549120" class="outline-3">
-<h3 id="org2549120"><span class="section-number-3">2.2</span> ABSTRACT</h3>
+<div id="outline-container-org4d0b510" class="outline-3">
+<h3 id="org4d0b510"><span class="section-number-3">2.2</span> ABSTRACT</h3>
 <div class="outline-text-3" id="text-2-2">
 </div>
-<div id="outline-container-orga03606f" class="outline-4">
-<h4 id="orga03606f"><span class="section-number-4">2.2.1</span> Writing and Updating Procedure&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org1ed1c19" class="outline-4">
+<h4 id="org1ed1c19"><span class="section-number-4">2.2.1</span> Writing and Updating Procedure&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-1">
 <p>
 For each procedure ("ITEM"), write a sub-section, describing a sequence of steps to arrive a specific goal, such as making a decision.
@@ -1311,12 +1344,12 @@ It may help considering how much to include from of/from:
 </div>
 </div>
 
-<div id="outline-container-orgfd4dadf" class="outline-4">
-<h4 id="orgfd4dadf"><span class="section-number-4">2.2.2</span> Preventing and Reporting Abuse&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org9627ea7" class="outline-4">
+<h4 id="org9627ea7"><span class="section-number-4">2.2.2</span> Preventing and Reporting Abuse&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-2">
 </div>
 <ol class="org-ol">
-<li><a id="org3d633ca"></a>SUMMARY<br />
+<li><a id="org6595208"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-2-1">
 <p>
 We neither tolerate nor countenance any abuse nor excuse ourselves from consider and duly documenting each concern or potential concern in this regard.  This procedures outlines a process for that however it should not be to constrain or discourage you from other and further acts not described here and outside of the scope of preview of Fosshost.  It would and does otherwise belong to you and/as with to each of us, to report duly and as we see fit should be become aware of any serious abuse.
@@ -1324,7 +1357,7 @@ We neither tolerate nor countenance any abuse nor excuse ourselves from consider
 </div>
 </li>
 
-<li><a id="org4834f22"></a>ITEM<br />
+<li><a id="org7424377"></a>ITEM<br />
 <div class="outline-text-5" id="text-2-2-2-2">
 <ol class="org-ol">
 <li>Abuse is, generally, unwanted personal contact and/or conduct and/or misuse of our resources, verify that we are discussing one of these items before proceeding.
@@ -1362,12 +1395,12 @@ We neither tolerate nor countenance any abuse nor excuse ourselves from consider
 </ol>
 </div>
 
-<div id="outline-container-org3486089" class="outline-4">
-<h4 id="org3486089"><span class="section-number-4">2.2.3</span> Information Handling&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-orgcc4e213" class="outline-4">
+<h4 id="orgcc4e213"><span class="section-number-4">2.2.3</span> Information Handling&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-3">
 </div>
 <ol class="org-ol">
-<li><a id="org2e51d33"></a>SUMMARY<br />
+<li><a id="org88004dc"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-3-1">
 <p>
 Most if not all of our volunteers routinely handle sensitive as well as non-sensitive information.
@@ -1379,7 +1412,7 @@ This procedure gives the sequence of steps and controls invoked when we handle i
 </div>
 </li>
 
-<li><a id="org534cd08"></a>ITEMS<br />
+<li><a id="org96d091b"></a>ITEMS<br />
 <div class="outline-text-5" id="text-2-2-3-2">
 <ol class="org-ol">
 <li>Information we by necessary retain or intend to retain irrespective of the length of time involved is, when not otherwise classified, considered internal-use, and
@@ -1455,12 +1488,12 @@ This procedure gives the sequence of steps and controls invoked when we handle i
 </ol>
 </div>
 
-<div id="outline-container-org5d2fbd6" class="outline-4">
-<h4 id="org5d2fbd6"><span class="section-number-4">2.2.4</span> Risk and Control&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org536d3b0" class="outline-4">
+<h4 id="org536d3b0"><span class="section-number-4">2.2.4</span> Risk and Control&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-4">
 </div>
 <ol class="org-ol">
-<li><a id="orgbe7254b"></a>SUMMARY<br />
+<li><a id="org8aef5e8"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-4-1">
 <p>
 This procedure explains how to report risks to us and describes how we manage risk internally.
@@ -1468,18 +1501,18 @@ This procedure explains how to report risks to us and describes how we manage ri
 </div>
 </li>
 
-<li><a id="orge7eab7d"></a>ITEMS<br /></li>
+<li><a id="org1c5f7be"></a>ITEMS<br /></li>
 </ol>
 </div>
 
-<div id="outline-container-orgb3d45fc" class="outline-4">
-<h4 id="orgb3d45fc"><span class="section-number-4">2.2.5</span> Limited General Representation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org0e50f71" class="outline-4">
+<h4 id="org0e50f71"><span class="section-number-4">2.2.5</span> Limited General Representation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-5">
 </div>
 <ol class="org-ol">
-<li><a id="orgc7f39a2"></a>Limited Due Diligence&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
+<li><a id="org5740f5b"></a>Limited Due Diligence&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
 <ol class="org-ol">
-<li><a id="org29ea54a"></a>SUMMARY<br />
+<li><a id="orgd062a30"></a>SUMMARY<br />
 <div class="outline-text-6" id="text-2-2-5-1-1">
 <p>
 Where as some diligence may be requisite in following these procedures and making the records called for therein; however, (and notwithstanding our own training, certification, documentation, and related materials including our policies and procedures), our volunteers may have little or no specific expertise or training or otherwise certification even as may regard some or all of their specific and routine duties or other work for Fosshost.  Thus all service and support are "AS-IS" being best effort of individuals acting in good faith and no more can we offer or provide.
@@ -1487,12 +1520,12 @@ Where as some diligence may be requisite in following these procedures and makin
 </div>
 </li>
 
-<li><a id="orgb0effa3"></a>ITEMS<br /></li>
+<li><a id="org6e92203"></a>ITEMS<br /></li>
 </ol>
 </li>
-<li><a id="orgc0a5a86"></a>Limited Liability&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
+<li><a id="org72e5387"></a>Limited Liability&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
 <ol class="org-ol">
-<li><a id="orgb7e753a"></a>SUMMARY<br />
+<li><a id="orgb1d15ce"></a>SUMMARY<br />
 <div class="outline-text-6" id="text-2-2-5-2-1">
 <p>
 Whereas the volunteers comprising Fosshost are all individuals acting in good faith, the liability protections afforded to the organization by virtue of its CIC registration shall apply to each of them.
@@ -1500,12 +1533,12 @@ Whereas the volunteers comprising Fosshost are all individuals acting in good fa
 </div>
 </li>
 
-<li><a id="org5852a65"></a>ITEMS<br /></li>
+<li><a id="org080291d"></a>ITEMS<br /></li>
 </ol>
 </li>
-<li><a id="orge5e6295"></a>Limited Delegation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
+<li><a id="org4b80b89"></a>Limited Delegation&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
 <ol class="org-ol">
-<li><a id="orga2e2b8c"></a>SUMMARY<br />
+<li><a id="org7e04ea7"></a>SUMMARY<br />
 <div class="outline-text-6" id="text-2-2-5-3-1">
 <p>
 Whereas the volunteers comprising Fosshost are all well known to and trusted by each other, general authority shall often be vested in and between them, and while our best efforts to retain true and complete records will certify in some cases our director or other person of note, it may at times be some or several parties within or organization acting under the authority of our named and reporting representative, and in case where summary report shall be sufficient for our purposes (such as to detect and prevent misuse of our resources), no further record according given acts more directly may eventually be kept.
@@ -1513,17 +1546,17 @@ Whereas the volunteers comprising Fosshost are all well known to and trusted by 
 </div>
 </li>
 
-<li><a id="org4255d97"></a>ITEMS<br /></li>
+<li><a id="org729ecb1"></a>ITEMS<br /></li>
 </ol>
 </li>
 </ol>
 </div>
-<div id="outline-container-org1cbb66d" class="outline-4">
-<h4 id="org1cbb66d"><span class="section-number-4">2.2.6</span> Exceptional Circumstance&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org33f005c" class="outline-4">
+<h4 id="org33f005c"><span class="section-number-4">2.2.6</span> Exceptional Circumstance&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-6">
 </div>
 <ol class="org-ol">
-<li><a id="org79f648c"></a>SUMMARY<br />
+<li><a id="org4002b9a"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-6-1">
 <p>
 In exceptional circumstances, the volunteer or volunteers directly involved in a crisis have additional authority and responsibility.
@@ -1531,25 +1564,25 @@ In exceptional circumstances, the volunteer or volunteers directly involved in a
 </div>
 </li>
 
-<li><a id="orge5a87a0"></a>ITEMS<br /></li>
+<li><a id="org13ad179"></a>ITEMS<br /></li>
 </ol>
 </div>
 
-<div id="outline-container-orgd0abe7c" class="outline-4">
-<h4 id="orgd0abe7c"><span class="section-number-4">2.2.7</span> Customary Authority&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-orga52bc3a" class="outline-4">
+<h4 id="orga52bc3a"><span class="section-number-4">2.2.7</span> Customary Authority&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-7">
 </div>
 <ol class="org-ol">
-<li><a id="org97017bd"></a>Routine Changes&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
+<li><a id="org096351b"></a>Routine Changes&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
 <ol class="org-ol">
-<li><a id="org647b2a8"></a>SUMMARY<br />
+<li><a id="org3a96fef"></a>SUMMARY<br />
 <div class="outline-text-6" id="text-2-2-7-1-1">
 <p>
 In most routine circumstances, the operations director (or delegate) will review and summarily schedule and approve changes, logging such actions for the secretary to report to the board.  For some case where it may be necessary, we also provide for a an hierarchical decision making structure.  This generally serves to give our Chief Executive Officer or other directors the ability to intercept and redirect contentious decisions, and bring them before our board for consideration.  Absent contention, or specific intervention from our CEO, it places most complicated decision making authority with our Chief Technology Officer.   It also provides that the director will usually have specific criteria (stated in other procedures) for when rejecting/declining to schedule a given change.
 </p>
 </div>
 </li>
-<li><a id="org5abac5b"></a>ITEMS<br />
+<li><a id="org66f6a88"></a>ITEMS<br />
 <div class="outline-text-6" id="text-2-2-7-1-2">
 <ol class="org-ol">
 <li>The duty director of operations has the initial right of approval for all non-emergency changes
@@ -1587,7 +1620,7 @@ In most routine circumstances, the operations director (or delegate) will review
 </ol>
 </li>
 
-<li><a id="org1152c0a"></a>Emergency Maintenance&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
+<li><a id="org37f4e29"></a>Emergency Maintenance&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span><br />
 <div class="outline-text-5" id="text-2-2-7-2">
 <ol class="org-ol">
 <li>The duty director of operations shall be notified of any emergency maintenance
@@ -1601,8 +1634,8 @@ In most routine circumstances, the operations director (or delegate) will review
 </li>
 </ol>
 </div>
-<div id="outline-container-orgb98af3a" class="outline-4">
-<h4 id="orgb98af3a"><span class="section-number-4">2.2.8</span> Public Relations&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org23299db" class="outline-4">
+<h4 id="org23299db"><span class="section-number-4">2.2.8</span> Public Relations&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-8">
 <ol class="org-ol">
 <li>The volunteers who support our public relations effort may be and are often subject to information before others within our organization.</li>
@@ -1611,19 +1644,19 @@ In most routine circumstances, the operations director (or delegate) will review
 </ol>
 </div>
 </div>
-<div id="outline-container-org2db0d5a" class="outline-4">
-<h4 id="org2db0d5a"><span class="section-number-4">2.2.9</span> Defining and Prioritizing Projects&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-orgf1efd62" class="outline-4">
+<h4 id="orgf1efd62"><span class="section-number-4">2.2.9</span> Defining and Prioritizing Projects&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-9">
 </div>
 <ol class="org-ol">
-<li><a id="org5516f45"></a>SUMMARY<br />
+<li><a id="orgc716e85"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-9-1">
 <p>
 The alignment of the head of projects (Nik Anderson, HOP) or a specifically named delegate or a director of Fosshost shall be recorded, and some criteria are suggested.
 </p>
 </div>
 </li>
-<li><a id="org061527c"></a>ITEMS<br />
+<li><a id="orgf49fbdf"></a>ITEMS<br />
 <div class="outline-text-5" id="text-2-2-9-2">
 <ol class="org-ol">
 <li>The HOP shall generally forward for scheduling of implementation ("approve"), each project which
@@ -1644,19 +1677,19 @@ The alignment of the head of projects (Nik Anderson, HOP) or a specifically name
 </ol>
 </div>
 
-<div id="outline-container-org752bdd7" class="outline-4">
-<h4 id="org752bdd7"><span class="section-number-4">2.2.10</span> Scheduling Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org717d5fe" class="outline-4">
+<h4 id="org717d5fe"><span class="section-number-4">2.2.10</span> Scheduling Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-10">
 </div>
 <ol class="org-ol">
-<li><a id="org84438e6"></a>SUMMARY<br />
+<li><a id="orgbfc6c1b"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-10-1">
 <p>
 Alignment from the duty director of operations (DDO, generally Deputy Director of Operations, Hope Christensen, or as delegated) is generally a formality based on circumstances, however planed changes to network (excluding work to and within test and development infrastructure of our own), come in two phases: Scheduling a change, when we consider it's readiness, and implementing the change, when we ensure no other complications appear to exist before we begin.  Scheduling can involve careful consideration, even learning how new technologies will interact with our network and our work supporting it.  Final change alignment is generally evident from circumstance.
 </p>
 </div>
 </li>
-<li><a id="org59e3c23"></a>ITEMS<br />
+<li><a id="org71238f9"></a>ITEMS<br />
 <div class="outline-text-5" id="text-2-2-10-2">
 <ol class="org-ol">
 <li>The DDO shall generally forward projects and schedule them for release when
@@ -1688,19 +1721,19 @@ Alignment from the duty director of operations (DDO, generally Deputy Director o
 </ol>
 </div>
 
-<div id="outline-container-orgf1d2bb9" class="outline-4">
-<h4 id="orgf1d2bb9"><span class="section-number-4">2.2.11</span> Technical Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
+<div id="outline-container-org2766065" class="outline-4">
+<h4 id="org2766065"><span class="section-number-4">2.2.11</span> Technical Criteria&#xa0;&#xa0;&#xa0;<span class="tag"><span class="PROCEDURE">PROCEDURE</span></span></h4>
 <div class="outline-text-4" id="text-2-2-11">
 </div>
 <ol class="org-ol">
-<li><a id="orgf06dc97"></a>SUMMARY<br />
+<li><a id="org872d9e2"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-11-1">
 <p>
 This procedures provides a generic process for cross-checking a given software change installation/configuration/reconfiguration is ready for scheduling.  In some cases individual ITEMS (and associated reporting, if any) may not apply.
 </p>
 </div>
 </li>
-<li><a id="org5f727a6"></a>ITEMS<br />
+<li><a id="org5e385ff"></a>ITEMS<br />
 <div class="outline-text-5" id="text-2-2-11-2">
 <ol class="org-ol">
 <li>Testing  -
@@ -1762,19 +1795,19 @@ This procedures provides a generic process for cross-checking a given software c
 </li>
 </ol>
 </div>
-<div id="outline-container-orgd3a8611" class="outline-4">
-<h4 id="orgd3a8611"><span class="section-number-4">2.2.12</span> Operational Logging</h4>
+<div id="outline-container-org58a286c" class="outline-4">
+<h4 id="org58a286c"><span class="section-number-4">2.2.12</span> Operational Logging</h4>
 <div class="outline-text-4" id="text-2-2-12">
 </div>
 <ol class="org-ol">
-<li><a id="org74b00ec"></a>SUMMARY<br />
+<li><a id="org2d624e9"></a>SUMMARY<br />
 <div class="outline-text-5" id="text-2-2-12-1">
 <p>
 Fosshost keeps many logs and other similar records of and related to it's activities.  This procedure provides for two general types, one of which is used to provide the public account shared (initially) with directors on an on-going basis, and the other for internal non-reporting systems, which are generally accessible to more of our volunteers or used for other specific purposes.
 </p>
 </div>
 </li>
-<li><a id="org60aed83"></a>ITEMS<br />
+<li><a id="orgaf857d0"></a>ITEMS<br />
 <div class="outline-text-5" id="text-2-2-12-2">
 <ol class="org-ol">
 <li>We shall maintain logs and other records until they are by policy or by order of the board removed, and</li>
@@ -1844,8 +1877,8 @@ Fosshost keeps many logs and other similar records of and related to it's activi
 </div>
 </div>
 
-<div id="outline-container-orga622940" class="outline-3">
-<h3 id="orga622940"><span class="section-number-3">2.3</span> ADMINISTRATIVE</h3>
+<div id="outline-container-org440a83c" class="outline-3">
+<h3 id="org440a83c"><span class="section-number-3">2.3</span> ADMINISTRATIVE</h3>
 <div class="outline-text-3" id="text-2-3">
 <p>
 We intend to document or otherwise describe nearly all of our internal procedures, while some details may be redacted and/or stored in more private repositories, we try to provide clear parameters around what we cannot publish, and to publish as much detail would be prudent and courteous and not more.
@@ -1856,157 +1889,157 @@ The items in this section describe tasks which are generally administrative but 
 </p>
 </div>
 
-<div id="outline-container-org23f551a" class="outline-4">
-<h4 id="org23f551a"><span class="section-number-4">2.3.1</span> Keeping the Operations Log</h4>
+<div id="outline-container-orge20121e" class="outline-4">
+<h4 id="orge20121e"><span class="section-number-4">2.3.1</span> Keeping the Operations Log</h4>
 </div>
-<div id="outline-container-orgb2be950" class="outline-4">
-<h4 id="orgb2be950"><span class="section-number-4">2.3.2</span> Basic Ticketing</h4>
+<div id="outline-container-orgc682b21" class="outline-4">
+<h4 id="orgc682b21"><span class="section-number-4">2.3.2</span> Basic Ticketing</h4>
 </div>
-<div id="outline-container-orgb1b829d" class="outline-4">
-<h4 id="orgb1b829d"><span class="section-number-4">2.3.3</span> Requesting credentials</h4>
+<div id="outline-container-orgce082d1" class="outline-4">
+<h4 id="orgce082d1"><span class="section-number-4">2.3.3</span> Requesting credentials</h4>
 </div>
-<div id="outline-container-orgeb8bb4c" class="outline-4">
-<h4 id="orgeb8bb4c"><span class="section-number-4">2.3.4</span> Reviewing Applications</h4>
+<div id="outline-container-org0d538a7" class="outline-4">
+<h4 id="org0d538a7"><span class="section-number-4">2.3.4</span> Reviewing Applications</h4>
 </div>
-<div id="outline-container-org94ef2bb" class="outline-4">
-<h4 id="org94ef2bb"><span class="section-number-4">2.3.5</span> On-boarding</h4>
+<div id="outline-container-orgf173e4b" class="outline-4">
+<h4 id="orgf173e4b"><span class="section-number-4">2.3.5</span> On-boarding</h4>
 <div class="outline-text-4" id="text-2-3-5">
 </div>
 <ol class="org-ol">
-<li><a id="org4ea6990"></a>Facilities<br /></li>
-<li><a id="org04b99d6"></a>Other (Sponsors and Vendors)<br /></li>
+<li><a id="orgfe6e7ae"></a>Facilities<br /></li>
+<li><a id="orga062624"></a>Other (Sponsors and Vendors)<br /></li>
 </ol>
 </div>
-<div id="outline-container-org904f95a" class="outline-4">
-<h4 id="org904f95a"><span class="section-number-4">2.3.6</span> Updating the Asset Catalog</h4>
+<div id="outline-container-orgd8d8561" class="outline-4">
+<h4 id="orgd8d8561"><span class="section-number-4">2.3.6</span> Updating the Asset Catalog</h4>
 </div>
-<div id="outline-container-org9cbb77f" class="outline-4">
-<h4 id="org9cbb77f"><span class="section-number-4">2.3.7</span> Shipping and Receiving</h4>
+<div id="outline-container-org73cd94d" class="outline-4">
+<h4 id="org73cd94d"><span class="section-number-4">2.3.7</span> Shipping and Receiving</h4>
 </div>
-<div id="outline-container-orgcf2352a" class="outline-4">
-<h4 id="orgcf2352a"><span class="section-number-4">2.3.8</span> Special Handling for Reimbursable Receipts</h4>
+<div id="outline-container-orgf9bf611" class="outline-4">
+<h4 id="orgf9bf611"><span class="section-number-4">2.3.8</span> Special Handling for Reimbursable Receipts</h4>
 </div>
-<div id="outline-container-org227955c" class="outline-4">
-<h4 id="org227955c"><span class="section-number-4">2.3.9</span> Accepting and Transferring Donations</h4>
+<div id="outline-container-org2b9fc18" class="outline-4">
+<h4 id="org2b9fc18"><span class="section-number-4">2.3.9</span> Accepting and Transferring Donations</h4>
 </div>
-<div id="outline-container-org75547e2" class="outline-4">
-<h4 id="org75547e2"><span class="section-number-4">2.3.10</span> Running Meetings</h4>
+<div id="outline-container-orgcbe5be7" class="outline-4">
+<h4 id="orgcbe5be7"><span class="section-number-4">2.3.10</span> Running Meetings</h4>
 </div>
 </div>
-<div id="outline-container-orge0c1a5f" class="outline-3">
-<h3 id="orge0c1a5f"><span class="section-number-3">2.4</span> TECHNICAL</h3>
+<div id="outline-container-org10a647b" class="outline-3">
+<h3 id="org10a647b"><span class="section-number-3">2.4</span> TECHNICAL</h3>
 <div class="outline-text-3" id="text-2-4">
 </div>
-<div id="outline-container-orgdf12c4a" class="outline-4">
-<h4 id="orgdf12c4a"><span class="section-number-4">2.4.1</span> Testing Your Credentials</h4>
+<div id="outline-container-org4af6ffe" class="outline-4">
+<h4 id="org4af6ffe"><span class="section-number-4">2.4.1</span> Testing Your Credentials</h4>
 </div>
-<div id="outline-container-org6671b77" class="outline-4">
-<h4 id="org6671b77"><span class="section-number-4">2.4.2</span> AARCH64</h4>
+<div id="outline-container-org3fb6031" class="outline-4">
+<h4 id="org3fb6031"><span class="section-number-4">2.4.2</span> AARCH64</h4>
 <div class="outline-text-4" id="text-2-4-2">
 </div>
 <ol class="org-ol">
-<li><a id="org8693c7f"></a>AARCH64 Tenant Provisioning<br /></li>
-<li><a id="orgbc28e3e"></a>AARCH64 Creating Clusters<br /></li>
-<li><a id="org0c54d4d"></a>AARCH64 Adding and Removing Nodes<br /></li>
-<li><a id="org92fdd4f"></a>AARCH64 Troubleshooting<br /></li>
+<li><a id="org700fd60"></a>AARCH64 Tenant Provisioning<br /></li>
+<li><a id="orga11f170"></a>AARCH64 Creating Clusters<br /></li>
+<li><a id="orge3d5225"></a>AARCH64 Adding and Removing Nodes<br /></li>
+<li><a id="orgacc85a0"></a>AARCH64 Troubleshooting<br /></li>
 </ol>
 </div>
-<div id="outline-container-org8dd06e3" class="outline-4">
-<h4 id="org8dd06e3"><span class="section-number-4">2.4.3</span> General or x86 Specific</h4>
+<div id="outline-container-org7416182" class="outline-4">
+<h4 id="org7416182"><span class="section-number-4">2.4.3</span> General or x86 Specific</h4>
 <div class="outline-text-4" id="text-2-4-3">
 </div>
 <ol class="org-ol">
-<li><a id="org6c28875"></a>Tenant Provisioning<br /></li>
-<li><a id="org07517f8"></a>Credentials<br />
+<li><a id="org6eeb406"></a>Tenant Provisioning<br /></li>
+<li><a id="orgd051282"></a>Credentials<br />
 <ol class="org-ol">
-<li><a id="orgc24a41a"></a>Provision Tenant Credential<br /></li>
-<li><a id="org14fc4bf"></a>Provision Volunteer Credential<br /></li>
-<li><a id="org42a2c04"></a>Removing Credentials<br /></li>
+<li><a id="org0365081"></a>Provision Tenant Credential<br /></li>
+<li><a id="org4d99896"></a>Provision Volunteer Credential<br /></li>
+<li><a id="org24564ba"></a>Removing Credentials<br /></li>
 </ol>
 </li>
-<li><a id="org861440c"></a>New or Changed or Replaced Nodes<br />
+<li><a id="org523355c"></a>New or Changed or Replaced Nodes<br />
 <ol class="org-ol">
-<li><a id="org5da151d"></a>Racking Hardware<br /></li>
-<li><a id="org6c0f3c5"></a>Provisioning Hypervisors<br /></li>
-<li><a id="orgcffd006"></a>Restoring or Replicating a Node<br /></li>
-<li><a id="orga3fcba6"></a>Pooled Disc Replacement<br /></li>
-<li><a id="org56a2215"></a>Adding SSD<br /></li>
-<li><a id="orgb5741ea"></a>Troubleshooting Hardware Node Installation and Change<br /></li>
+<li><a id="org151ba95"></a>Racking Hardware<br /></li>
+<li><a id="org3b9fe90"></a>Provisioning Hypervisors<br /></li>
+<li><a id="orgbd667fa"></a>Restoring or Replicating a Node<br /></li>
+<li><a id="org6da68d1"></a>Pooled Disc Replacement<br /></li>
+<li><a id="org075f174"></a>Adding SSD<br /></li>
+<li><a id="orgd25b277"></a>Troubleshooting Hardware Node Installation and Change<br /></li>
 </ol>
 </li>
-<li><a id="org507a7ee"></a>Mirrors<br />
+<li><a id="org2f79101"></a>Mirrors<br />
 <ol class="org-ol">
-<li><a id="org74bb46d"></a>Add a mirror<br /></li>
-<li><a id="org078b5c0"></a>Remove a mirror<br /></li>
-<li><a id="org82af8b0"></a>Mirrors Troubleshooting<br /></li>
+<li><a id="orgaa7f0ae"></a>Add a mirror<br /></li>
+<li><a id="org7fd466e"></a>Remove a mirror<br /></li>
+<li><a id="org8944a97"></a>Mirrors Troubleshooting<br /></li>
 </ol>
 </li>
-<li><a id="org2232656"></a>Email and Web Hosting<br />
+<li><a id="org66f68ce"></a>Email and Web Hosting<br />
 <ol class="org-ol">
-<li><a id="orgd43d9c6"></a>Provision a domain/project<br /></li>
-<li><a id="orgf76c033"></a>Remove a domain/project<br /></li>
-<li><a id="org8504489"></a>Email and Web Troubleshooting<br /></li>
+<li><a id="org94b43c3"></a>Provision a domain/project<br /></li>
+<li><a id="org737f564"></a>Remove a domain/project<br /></li>
+<li><a id="orgbe04e0f"></a>Email and Web Troubleshooting<br /></li>
 </ol>
 </li>
-<li><a id="org4171dd6"></a>DNS<br />
+<li><a id="orga504b10"></a>DNS<br />
 <ol class="org-ol">
-<li><a id="org91a365c"></a>Domain Registration<br /></li>
-<li><a id="orgbcb6bac"></a>Domain Renewal<br /></li>
-<li><a id="org76cb421"></a>Reverse DNS<br /></li>
-<li><a id="org9360fb1"></a>DNS Troubleshooting<br /></li>
+<li><a id="orgc051941"></a>Domain Registration<br /></li>
+<li><a id="orgc886926"></a>Domain Renewal<br /></li>
+<li><a id="orgdf427ba"></a>Reverse DNS<br /></li>
+<li><a id="org3826695"></a>DNS Troubleshooting<br /></li>
 </ol>
 </li>
 </ol>
 </div>
 </div>
-<div id="outline-container-orgad2558f" class="outline-3">
-<h3 id="orgad2558f"><span class="section-number-3">2.5</span> OVERSIGHT</h3>
+<div id="outline-container-org6cca1e2" class="outline-3">
+<h3 id="org6cca1e2"><span class="section-number-3">2.5</span> OVERSIGHT</h3>
 <div class="outline-text-3" id="text-2-5">
 </div>
-<div id="outline-container-org923b76d" class="outline-4">
-<h4 id="org923b76d"><span class="section-number-4">2.5.1</span> Reporting Malfeasance and Abuse</h4>
+<div id="outline-container-orgab08fa9" class="outline-4">
+<h4 id="orgab08fa9"><span class="section-number-4">2.5.1</span> Reporting Malfeasance and Abuse</h4>
 </div>
-<div id="outline-container-orgb77331a" class="outline-4">
-<h4 id="orgb77331a"><span class="section-number-4">2.5.2</span> Reporting Accounts Payable</h4>
+<div id="outline-container-org7f4c308" class="outline-4">
+<h4 id="org7f4c308"><span class="section-number-4">2.5.2</span> Reporting Accounts Payable</h4>
 </div>
-<div id="outline-container-org39584ef" class="outline-4">
-<h4 id="org39584ef"><span class="section-number-4">2.5.3</span> Reporting Donations in Summary</h4>
+<div id="outline-container-org935ba32" class="outline-4">
+<h4 id="org935ba32"><span class="section-number-4">2.5.3</span> Reporting Donations in Summary</h4>
 </div>
-<div id="outline-container-org6c64c3f" class="outline-4">
-<h4 id="org6c64c3f"><span class="section-number-4">2.5.4</span> Reporting Data Breach or Compromise</h4>
+<div id="outline-container-orgca3d111" class="outline-4">
+<h4 id="orgca3d111"><span class="section-number-4">2.5.4</span> Reporting Data Breach or Compromise</h4>
 </div>
-<div id="outline-container-org057b21b" class="outline-4">
-<h4 id="org057b21b"><span class="section-number-4">2.5.5</span> Reporting Termination of Service</h4>
+<div id="outline-container-org9b4b57b" class="outline-4">
+<h4 id="org9b4b57b"><span class="section-number-4">2.5.5</span> Reporting Termination of Service</h4>
 </div>
-<div id="outline-container-org17ccdf0" class="outline-4">
-<h4 id="org17ccdf0"><span class="section-number-4">2.5.6</span> Reporting Completed Changes in Summary</h4>
+<div id="outline-container-org72eb4bb" class="outline-4">
+<h4 id="org72eb4bb"><span class="section-number-4">2.5.6</span> Reporting Completed Changes in Summary</h4>
 </div>
-<div id="outline-container-org90f4ef5" class="outline-4">
-<h4 id="org90f4ef5"><span class="section-number-4">2.5.7</span> Reporting Proposed Changes to Policy and Procedure</h4>
+<div id="outline-container-orgddaf13d" class="outline-4">
+<h4 id="orgddaf13d"><span class="section-number-4">2.5.7</span> Reporting Proposed Changes to Policy and Procedure</h4>
 </div>
-<div id="outline-container-org206539b" class="outline-4">
-<h4 id="org206539b"><span class="section-number-4">2.5.8</span> Reporting Architecture and Design</h4>
+<div id="outline-container-orgb7dd3af" class="outline-4">
+<h4 id="orgb7dd3af"><span class="section-number-4">2.5.8</span> Reporting Architecture and Design</h4>
 </div>
-<div id="outline-container-orgc1e89ff" class="outline-4">
-<h4 id="orgc1e89ff"><span class="section-number-4">2.5.9</span> Reporting Technology Changes</h4>
+<div id="outline-container-org94b547f" class="outline-4">
+<h4 id="org94b547f"><span class="section-number-4">2.5.9</span> Reporting Technology Changes</h4>
 </div>
-<div id="outline-container-org1e77f7a" class="outline-4">
-<h4 id="org1e77f7a"><span class="section-number-4">2.5.10</span> Reporting Outages</h4>
+<div id="outline-container-org4d8266c" class="outline-4">
+<h4 id="org4d8266c"><span class="section-number-4">2.5.10</span> Reporting Outages</h4>
 </div>
-<div id="outline-container-org1b6fe18" class="outline-4">
-<h4 id="org1b6fe18"><span class="section-number-4">2.5.11</span> Reporting Applications Processed</h4>
+<div id="outline-container-org2fb82ff" class="outline-4">
+<h4 id="org2fb82ff"><span class="section-number-4">2.5.11</span> Reporting Applications Processed</h4>
 </div>
-<div id="outline-container-orgb8860e5" class="outline-4">
-<h4 id="orgb8860e5"><span class="section-number-4">2.5.12</span> Providing a Summary Report to the Board</h4>
+<div id="outline-container-orgf3f6734" class="outline-4">
+<h4 id="orgf3f6734"><span class="section-number-4">2.5.12</span> Providing a Summary Report to the Board</h4>
 </div>
-<div id="outline-container-orgb17625a" class="outline-4">
-<h4 id="orgb17625a"><span class="section-number-4">2.5.13</span> Special Procedure for Board to Stand Generally In Recess</h4>
+<div id="outline-container-orga438bec" class="outline-4">
+<h4 id="orga438bec"><span class="section-number-4">2.5.13</span> Special Procedure for Board to Stand Generally In Recess</h4>
 </div>
 </div>
 </div>
 
-<div id="outline-container-orgd894986" class="outline-2">
-<h2 id="orgd894986"><span class="section-number-2">3</span> other</h2>
+<div id="outline-container-orge7dfde7" class="outline-2">
+<h2 id="orge7dfde7"><span class="section-number-2">3</span> INCOMPLETE AND OTHER</h2>
 <div class="outline-text-2" id="text-3">
 <p>
 scraps, extended notes, references, and clarifications
@@ -2095,39 +2128,61 @@ And whereas these are for our internal and external practices. specifically:
 </ul>
 
 <p>
-Some too portion of the complete set represented by all policies and procedures may secret, in that to some degree or in some parts they may be internal-use only.  For example for example, certain source code, branches, ticketing notes or other documentation may contain such information or by reference or inference touch upon privacy controls or specifically controlled information as we may retain and/or use for internal or other purposes as elsewhere in our policies and procedures specifically specified, wherefore items included herein and by reference, even as may be as specifically made internal-use or otherwise classified not for distributor/publication, e.g. to the public, are not to be distributed otherwise and expect and documented specifically herein and above, and within confine and by these extensions this is our full and complete reference in our policy and procedure, including for example such details in terms any or all a known exceptions, or and reported on as so described herein as such, with the provision that no further act lower in this policy or procedural guidance above the prior items is to be construed as relinquishing the authorities or responsibility defined under our articles or above as items of our policy, though they may delegated as a matter of course where well demonstrably established as routine and regular and duly reported as may regard within this single document including such private references as it may to be considered complete require.
+Some too portion of the complete set represented by all policies and
+procedures may secret, in that to some degree or in some parts they
+may be internal-use only.  For example for example, certain source
+code, branches, ticketing notes or other documentation may contain
+such information or by reference or inference touch upon privacy
+controls or specifically controlled information as we may retain
+and/or use for internal or other purposes as elsewhere in our
+policies and procedures specifically specified, wherefore items
+included herein and by reference, even as may be as specifically
+made internal-use or otherwise classified not for
+distributor/publication, e.g. to the public, are not to be
+distributed otherwise and expect and documented specifically herein
+and above, and within confine and by these extensions this is our
+full and complete reference in our policy and procedure, including
+for example such details in terms any or all a known exceptions, or
+and reported on as so described herein as such, with the provision
+that no further act lower in this policy or procedural guidance
+above the prior items is to be construed as relinquishing the
+authorities or responsibility defined under our articles or above as
+items of our policy, though they may delegated as a matter of course
+where well demonstrably established as routine and regular and duly
+reported as may regard within this single document including such
+private references as it may to be considered complete require.
 </p>
 
 <p>
-NOTE: this concludes our policies, refer to the ITEMS below for any
-completed or other procedure and/or policies and procedural language
-work-in-process, documentation and references regarding FOSS products
-and services we directly or by extension provide along with their
-licenses and any unique guidance or perspective we may have regarding
-our use, and such else as we may include or allow to be included and
-generally to demonstrate or effect or otherwise progress toward that
-herein and/or as duly referenced, and whereas we may (as prudent and
-courteously, publicly) provide for a transparent reliable alternative
-for FOSS projects, attending to their regular and necessary internet
-services and for such hosting needs without charging them or anyone
-specifically for any given services, and this including all of the
-above and below including those public external or private internal
-and secret forms referenced herein. and together these with our
-articles as filed with the office of the UK CIC regulator form or as
-may be ammended and duly recorded herein while our articles are being
-reflied or updated or otherwise consistude by or for this or a
-similar authority, and when taken together all of these for our
-complete and sole policy and/or procedure, and otherwise no document
-or contract controls the actions of our directors or other volunteers
-without it is expressly and duly provided for and reported herein.
+NOTE: this concludes our policies, refer to the information above for
+any completed or other procedure and/or policies and procedural
+language work-in-process, documentation and references regarding FOSS
+products and services we directly or by extension provide along with
+their licenses and any unique guidance or perspective we may have
+regarding our use, and such else as we may include or allow to be
+included and generally to demonstrate or effect or otherwise progress
+toward that herein and/or as duly referenced, and whereas we may (as
+prudent and courteously, publicly) provide for a transparent reliable
+alternative for FOSS projects, attending to their regular and
+necessary internet services and for such hosting needs without
+charging them or anyone specifically for any given services, and this
+including all of the above and below including those public external
+or private internal and secret forms referenced herein. and together
+these with our articles as filed with the office of the UK CIC
+regulator form or as may be ammended and duly recorded herein while
+our articles are being reflied or updated or otherwise consistude by
+or for this or a similar authority, and when taken together all of
+these for our complete and sole policy and/or procedure, and
+otherwise no document or contract controls the actions of our
+directors or other volunteers without it is expressly and duly
+provided for and reported herein.
 </p>
 </div>
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Corwin Brust</p>
-<p class="date">Created: 2021-05-15 Sat 13:48</p>
-<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+<p class="date">Created: 2021-05-15 Sat 14:19</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
 </html>

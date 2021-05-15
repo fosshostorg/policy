@@ -130,8 +130,7 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
     6. We will at all times be honest, and
     7. we will comply with our polices,
     8. we will share and explain our work freely, and
-    9. we will prefer, promote, and model the best ideals of the Free
-       and Open Source software communities we host and/or endorse, and
+    9. we will prefer, promote, and model the best ideals of the Free and Open Source software communities we host and/or endorse, and
     10. we will show our same values to all people and communities.
 
 ** Our Community Policy
@@ -322,9 +321,15 @@ The ITEMS following define our goals in terms of publishing our
 results and general work product as widely as possible given
 different circumstances we may or routinely face.
 
-In doing so, this section establishes the basis for other "practices", which may be documented and maintainenced outside our policy (e.g. this document).  Our goal is to allow our routine activities to addressed in a number of ways depending on the tastes and interests among our volunteers, while ensuring that, as an organization, we keep an retain consistent records and handle each appropriately.
+In doing so, this section establishes the basis for other "practices",
+which may be documented and maintainenced outside our policy
+(e.g. this document).  Our goal is to allow our routine activities to
+addressed in a number of ways depending on the tastes and interests
+among our volunteers, while ensuring that, as an organization, we keep
+an retain consistent records and handle each appropriately.
 
-NOTE: this is a summary, refer to the ITEMS below for binding policy language.
+NOTE: this is a summary, refer to the ITEMS below for binding policy
+language.
 
 *** ITEMS
 
@@ -900,7 +905,7 @@ The items in this section describe tasks which are generally administrative but 
 *** Providing a Summary Report to the Board
 *** Special Procedure for Board to Stand Generally In Recess
 
-* other
+* INCOMPLETE AND OTHER
 
 scraps, extended notes, references, and clarifications
 
@@ -952,26 +957,49 @@ For each sub-section, a write a new procedure trying to including as much as pos
   * describing the purpose and intent of procedures specifically established by our policy for handling information
   * describing how we create and maintenance procedures considering the information sensitivity and other factors
 
-  Some too portion of the complete set represented by all policies and procedures may secret, in that to some degree or in some parts they may be internal-use only.  For example for example, certain source code, branches, ticketing notes or other documentation may contain such information or by reference or inference touch upon privacy controls or specifically controlled information as we may retain and/or use for internal or other purposes as elsewhere in our policies and procedures specifically specified, wherefore items included herein and by reference, even as may be as specifically made internal-use or otherwise classified not for distributor/publication, e.g. to the public, are not to be distributed otherwise and expect and documented specifically herein and above, and within confine and by these extensions this is our full and complete reference in our policy and procedure, including for example such details in terms any or all a known exceptions, or and reported on as so described herein as such, with the provision that no further act lower in this policy or procedural guidance above the prior items is to be construed as relinquishing the authorities or responsibility defined under our articles or above as items of our policy, though they may delegated as a matter of course where well demonstrably established as routine and regular and duly reported as may regard within this single document including such private references as it may to be considered complete require.
+  Some too portion of the complete set represented by all policies and
+  procedures may secret, in that to some degree or in some parts they
+  may be internal-use only.  For example for example, certain source
+  code, branches, ticketing notes or other documentation may contain
+  such information or by reference or inference touch upon privacy
+  controls or specifically controlled information as we may retain
+  and/or use for internal or other purposes as elsewhere in our
+  policies and procedures specifically specified, wherefore items
+  included herein and by reference, even as may be as specifically
+  made internal-use or otherwise classified not for
+  distributor/publication, e.g. to the public, are not to be
+  distributed otherwise and expect and documented specifically herein
+  and above, and within confine and by these extensions this is our
+  full and complete reference in our policy and procedure, including
+  for example such details in terms any or all a known exceptions, or
+  and reported on as so described herein as such, with the provision
+  that no further act lower in this policy or procedural guidance
+  above the prior items is to be construed as relinquishing the
+  authorities or responsibility defined under our articles or above as
+  items of our policy, though they may delegated as a matter of course
+  where well demonstrably established as routine and regular and duly
+  reported as may regard within this single document including such
+  private references as it may to be considered complete require.
 
- NOTE: this concludes our policies, refer to the ITEMS below for any
- completed or other procedure and/or policies and procedural language
- work-in-process, documentation and references regarding FOSS products
- and services we directly or by extension provide along with their
- licenses and any unique guidance or perspective we may have regarding
- our use, and such else as we may include or allow to be included and
- generally to demonstrate or effect or otherwise progress toward that
- herein and/or as duly referenced, and whereas we may (as prudent and
- courteously, publicly) provide for a transparent reliable alternative
- for FOSS projects, attending to their regular and necessary internet
- services and for such hosting needs without charging them or anyone
- specifically for any given services, and this including all of the
- above and below including those public external or private internal
- and secret forms referenced herein. and together these with our
- articles as filed with the office of the UK CIC regulator form or as
- may be ammended and duly recorded herein while our articles are being
- reflied or updated or otherwise consistude by or for this or a
- similar authority, and when taken together all of these for our
- complete and sole policy and/or procedure, and otherwise no document
- or contract controls the actions of our directors or other volunteers
- without it is expressly and duly provided for and reported herein.
+ NOTE: this concludes our policies, refer to the information above for
+ any completed or other procedure and/or policies and procedural
+ language work-in-process, documentation and references regarding FOSS
+ products and services we directly or by extension provide along with
+ their licenses and any unique guidance or perspective we may have
+ regarding our use, and such else as we may include or allow to be
+ included and generally to demonstrate or effect or otherwise progress
+ toward that herein and/or as duly referenced, and whereas we may (as
+ prudent and courteously, publicly) provide for a transparent reliable
+ alternative for FOSS projects, attending to their regular and
+ necessary internet services and for such hosting needs without
+ charging them or anyone specifically for any given services, and this
+ including all of the above and below including those public external
+ or private internal and secret forms referenced herein. and together
+ these with our articles as filed with the office of the UK CIC
+ regulator form or as may be ammended and duly recorded herein while
+ our articles are being reflied or updated or otherwise consistude by
+ or for this or a similar authority, and when taken together all of
+ these for our complete and sole policy and/or procedure, and
+ otherwise no document or contract controls the actions of our
+ directors or other volunteers without it is expressly and duly
+ provided for and reported herein.

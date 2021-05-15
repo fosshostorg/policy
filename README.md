@@ -4,6 +4,12 @@ Projects must apply for our services, as well as meeting eligibility
 criteria, for example bearing a FOSS license.  As of May 1st, 2021 we
 host more than 100 FOSS projects in data-centers across five continents.
 
+This document does not become effective until approved by our
+directors.  When that occurs we'll update this.
+
+
+# SUMMARY
+
 Our team is entirely volunteers, who donate their labor.  We partner
 with other organizations (our Sponsors and Partners) who provide us
 with servers, rack-space, bandwidth, etc.  We use these resources to
@@ -11,25 +17,46 @@ create/provide/distribute services to our tenants (the projects we
 host), with access to infrastructural technology services, for example
 virtual private servers (VPS) and consoles of these.  We don't provide
 remuneration/compensation to our Sponsors/Partners nor to our team,
-except as specified herein as will generally state:
+except as specified herein as will generally state things so that:
 
-1.  we don't offer monetary or other consideration to our staff including directors
-2.  we may, at our option, prefer to host projects from our volunteers when we can
-3.  we might well use your projects branding and otherwise generally mention if/when we host you but you can ask us not to that
-4.  you can in otherwise influence our communications (if any) about our relationship if/when we partner together
-5.  we can stop doing some or all of what we are doing for you at almost any time for almost any reason at our option
-6.  we will keep records so that we regularly report on these and similar stated promises
-7.  we will consider most of the records we keep as for internal use only
-8.  we will state expressly specific information we may but do not usually report along with any and all ways that we are able to predict unavoidable/required disclosure
-9.  we will fully and faithfully report such information however specific as we must to satisfy due diligence
-10. We may share more widely or otherwise such vital records as we are required to maintain and do so if/as/when we may choose
-11. We effect procedures and internal systems which keep vital records such as for the office of the regulator of the CIC
-12. Most publications at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us
-13. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital
-14. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license
-15. We may, at our option, elect to use non-FOSS software but we will never incorporate it into our network or expect other than our own staff to use it
-16. Our staff give up some rights when then volunteer for us, such as to represent our directors in conducting the business of our organization & mission
-17. Our volunteers do not otherwise delegate or defer than as stated below as typical and do not in any way consider they have lessoned their responsibility to/for FOSSHOST CIC thereby.
+
+## ITEMS
+
+1.  We don't offer monetary or other consideration to our staff including directors.
+2.  We may, at our option, prefer to host projects from our volunteers when we can.
+3.  We might well use your projects branding and otherwise generally mention if/when we host you but you can ask us not to that.
+4.  You can in otherwise influence our communications (if any) about our relationship if/when we partner together.
+5.  We can stop doing some or all of what we are doing for you at almost any time for almost any reason at our option.
+6.  We will keep records so that we regularly report on these and similar stated promises.
+7.  We will consider most of the records we keep as for internal use only.
+8.  We will state expressly specific information we may but do not usually report along with any and all ways that we are able to predict unavoidable/required disclosure.
+9.  We will fully and faithfully report such information however specific as we must to satisfy due diligence.
+10. We may share more widely or otherwise such vital records as we are required to maintain and do so if/as/when we may choose.
+11. We effect procedures and internal systems which keep vital records such as for the office of the regulator of the CIC.
+12. Most publications at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us.
+13. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital.
+14. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license.
+15. We may, at our option, elect to use non-FOSS software but we will never incorporate it into our network or expect other than our own staff to use it.
+16. Our staff give up some rights when then volunteer for us, such as to represent our directors in conducting the business of our organization & mission.
+17. Our volunteers do not otherwise delegate or defer than as stated below as being typical; we in no way consider these lessen our responsibility to/for FOSSHOST CIC.
+
+
+## LIMITATIONS AND ALTERNATIVES
+
+Our articles form the sole contract between the directors.
+
+Notwithstanding our articles as filed with the office of the
+regulator of the UK CIC, which our policy must be consistent with
+and subject/secondary to, these and no other documents govern our
+organization including our members, agents, and/or assignees when
+acting on our behalf expect whereas our policies (this document or
+documents) specifically describe and require or allow.
+
+We post our articles here after we sign and file duly agree to publish them:
+  <https://github.com/fosshostorg/policy/blob/main/articles.pdf>
+
+
+## NOTES
 
 As a UK registered CIC, Fosshost is required to operate under our
 articles, filed with the office of the UK CIC regulator.  We are also
@@ -40,94 +67,86 @@ This document represents our process in documenting our internal
 practices.  It has a number of goals:
 
 -   declare the interests we serve and how we benefit our community
--   ensure legal protections of our CIC status apply to our volunteers
+-   Ensure any such permissible legal protections may exist as permits and sustains a cooperative work environment (for example to extent possible extending the limitations of liability such as from our CIC registration and status in good standing, and to the extent possible apply that to all our volunteers and otherwise also to tenants, sponsors, and others we work with).
 -   describe our operating practices and allow scrutiny
--   allow us measure our results and evolve our methods so we grow
--   ensure we act consistency and within legal and ethical bounds
-    
-    Notwithstanding our articles as filed with the office of the
-    regulator of the UK CIC, which our policy must be consistent with
-    and subject/secondary to, these and no other documents govern our
-    organization including our members, agents, and/or assignees when
-    acting on our behalf expect whereas our policies (this document or
-    documents) make expressly and specifically describe and allow.
-
-This document does not become effective until approved by our
-directors.  When that occurs we'll update this.
+-   ensure we measure our results and evolve our methods
+-   ensure we dependable custodians acting with consistency and within legal and ethical bounds
 
 
 # Table of Contents
 
-1.  [OUR POLICY](#orgb552417)
-    1.  [Our Expectations Evolution Policy](#org1828de9)
-        1.  [SUMMARY](#org89e7b80)
-        2.  [ITEMS](#org24e9286)
-    2.  [Our Values and Ethics Policy](#org72e4fa9)
-        1.  [SUMMARY](#orge1670ac)
-        2.  [ITEMS](#orgffccebb)
-    3.  [Our Community Policy](#org4bc5aab)
-        1.  [SUMMARY](#org5a93987)
-        2.  [ITEMS](#org1e23b63)
-    4.  [Our Teamwork Policy](#org886adc4)
-        1.  [SUMMARY](#orgc63a269)
-        2.  [ITEMS](#orgd17e376)
-    5.  [Our Sponsorship and Contribution Policy](#org3a4816d)
-        1.  [SUMMARY](#org1781fcb)
-        2.  [ITEMS](#orgf9e547d)
-    6.  [Our Record Keeping ("Privacy") Policy](#orge0985d8)
-        1.  [SUMMARY](#org8f67b7f)
-        2.  [ITEMS](#orge50159b)
-    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org026ec11)
-        1.  [SUMMARY](#org97863a2)
-        2.  [ITEMS](#org08a1d1e)
-2.  [OUR PROCEDURES](#org970aa7f)
-    1.  [SUMMARY](#org7a63778)
-    2.  [ABSTRACT](#orgf22cdc8)
-        1.  [Writing and Updating Procedure](#orge40334e):PROCEDURE:
-        2.  [Preventing and Reporting Abuse](#org8c97b8e):PROCEDURE:
-        3.  [Information Handling](#org3a30af2):PROCEDURE:
-        4.  [Risk and Control](#org950650e):PROCEDURE:
-        5.  [Limited General Representation](#org93501f6):PROCEDURE:
-        6.  [Exceptional Circumstance](#orgc3f648b):PROCEDURE:
-        7.  [Customary Authority](#org74f4167):PROCEDURE:
-        8.  [Public Relations](#org7112c84):PROCEDURE:
-        9.  [Defining and Prioritizing Projects](#org32e201a):PROCEDURE:
-        10. [Scheduling Criteria](#orge0ce3ba):PROCEDURE:
-        11. [Technical Criteria](#org9254d36):PROCEDURE:
-        12. [Operational Logging](#org5bb2f05)
-    3.  [ADMINISTRATIVE](#org53bb844)
-        1.  [Keeping the Operations Log](#org5d6d07e)
-        2.  [Basic Ticketing](#org508ea18)
-        3.  [Requesting credentials](#org54cc477)
-        4.  [Reviewing Applications](#org2d55626)
-        5.  [On-boarding](#orgb09a15a)
-        6.  [Updating the Asset Catalog](#org1298f12)
-        7.  [Shipping and Receiving](#orgd37c869)
-        8.  [Special Handling for Reimbursable Receipts](#org3e7f3c3)
-        9.  [Accepting and Transferring Donations](#org23bccf1)
-        10. [Running Meetings](#orge69811d)
-    4.  [TECHNICAL](#org8eb60d9)
-        1.  [Testing Your Credentials](#orgb794f42)
-        2.  [AARCH64](#orgc4dfd9c)
-        3.  [General or x86 Specific](#orgb63cb2e)
-    5.  [OVERSIGHT](#org0888e98)
-        1.  [Reporting Malfeasance and Abuse](#org18bb444)
-        2.  [Reporting Accounts Payable](#org9be5550)
-        3.  [Reporting Donations in Summary](#org48b7696)
-        4.  [Reporting Data Breach or Compromise](#orgbafb22d)
-        5.  [Reporting Termination of Service](#orged37cf0)
-        6.  [Reporting Completed Changes in Summary](#orgff44a9f)
-        7.  [Reporting Proposed Changes to Policy and Procedure](#org78fa124)
-        8.  [Reporting Architecture and Design](#org3755c60)
-        9.  [Reporting Technology Changes](#org7e3a192)
-        10. [Reporting Outages](#org9116bb8)
-        11. [Reporting Applications Processed](#org575d5a0)
-        12. [Providing a Summary Report to the Board](#org3e47fcf)
-        13. [Special Procedure for Board to Stand Generally In Recess](#org3b59a6a)
-3.  [other](#orga57bdfd)
+-   [SUMMARY](#org210366f)
+    -   [ITEMS](#org07aea6a)
+    -   [LIMITATIONS AND ALTERNATIVES](#org0c44126)
+    -   [NOTES](#org323f9e5)
+1.  [OUR POLICY](#org12d26d6)
+    1.  [Our Expectations Evolution Policy](#org92a8252)
+        1.  [SUMMARY](#orgd90fd36)
+        2.  [ITEMS](#orge3e30ad)
+    2.  [Our Values and Ethics Policy](#org6c1478c)
+        1.  [SUMMARY](#orgdf43fb0)
+        2.  [ITEMS](#orge6e6d50)
+    3.  [Our Community Policy](#org960ed0a)
+        1.  [SUMMARY](#org36559ef)
+        2.  [ITEMS](#org5d842e7)
+    4.  [Our Teamwork Policy](#orgafeec25)
+        1.  [SUMMARY](#org8c94b4f)
+        2.  [ITEMS](#org7b89f7d)
+    5.  [Our Sponsorship and Contribution Policy](#org33cc489)
+        1.  [SUMMARY](#org8d22b50)
+        2.  [ITEMS](#org7dcd988)
+    6.  [Our Record Keeping ("Privacy") Policy](#orgfaa1a4d)
+        1.  [SUMMARY](#orgdf8e359)
+        2.  [ITEMS](#org0489655)
+    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#orgd4cbb66)
+        1.  [SUMMARY](#orgf389d98)
+        2.  [ITEMS](#orgc253963)
+2.  [OUR PROCEDURES](#orgff3e91a)
+    1.  [SUMMARY](#org79fb4ec)
+    2.  [ABSTRACT](#org4b36013)
+        1.  [Writing and Updating Procedure](#org189a7e6):PROCEDURE:
+        2.  [Preventing and Reporting Abuse](#orge13b400):PROCEDURE:
+        3.  [Information Handling](#orgd45068d):PROCEDURE:
+        4.  [Risk and Control](#org500b287):PROCEDURE:
+        5.  [Limited General Representation](#org66da96e):PROCEDURE:
+        6.  [Exceptional Circumstance](#org423c5ee):PROCEDURE:
+        7.  [Customary Authority](#org62b6c6d):PROCEDURE:
+        8.  [Public Relations](#orgff4df69):PROCEDURE:
+        9.  [Defining and Prioritizing Projects](#orgb5b8f50):PROCEDURE:
+        10. [Scheduling Criteria](#orgac9045b):PROCEDURE:
+        11. [Technical Criteria](#orga6f96e7):PROCEDURE:
+        12. [Operational Logging](#org58398b9)
+    3.  [ADMINISTRATIVE](#org5064c32)
+        1.  [Keeping the Operations Log](#org4a6b257)
+        2.  [Basic Ticketing](#orgc0c010b)
+        3.  [Requesting credentials](#org9929ef9)
+        4.  [Reviewing Applications](#org01a9c1d)
+        5.  [On-boarding](#org0fc134c)
+        6.  [Updating the Asset Catalog](#org35a2d63)
+        7.  [Shipping and Receiving](#org56ddb5e)
+        8.  [Special Handling for Reimbursable Receipts](#orgd1331e6)
+        9.  [Accepting and Transferring Donations](#orgc08518e)
+        10. [Running Meetings](#org7738074)
+    4.  [TECHNICAL](#org7069d4b)
+        1.  [Testing Your Credentials](#orgf1259ce)
+        2.  [AARCH64](#orge70f716)
+        3.  [General or x86 Specific](#org5ecaa22)
+    5.  [OVERSIGHT](#orgf7c8d8b)
+        1.  [Reporting Malfeasance and Abuse](#orga019a79)
+        2.  [Reporting Accounts Payable](#org1335f1e)
+        3.  [Reporting Donations in Summary](#org7b5d3f6)
+        4.  [Reporting Data Breach or Compromise](#orgea34286)
+        5.  [Reporting Termination of Service](#orgf38b73a)
+        6.  [Reporting Completed Changes in Summary](#org7f0e87f)
+        7.  [Reporting Proposed Changes to Policy and Procedure](#orgad8b12b)
+        8.  [Reporting Architecture and Design](#orgded1cdb)
+        9.  [Reporting Technology Changes](#org484a24f)
+        10. [Reporting Outages](#org0407946)
+        11. [Reporting Applications Processed](#org6836155)
+        12. [Providing a Summary Report to the Board](#org3936489)
+        13. [Special Procedure for Board to Stand Generally In Recess](#orgc2bf008)
+3.  [INCOMPLETE AND OTHER](#org173f1e8)
 
-
-<a id="orgb552417"></a>
 
 # OUR POLICY
 
@@ -138,14 +157,10 @@ directors.  When that occurs we'll update this.
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-<a id="org1828de9"></a>
-
 ## Our Expectations Evolution Policy
 
 > A policy to help us develop polices.
 
-
-<a id="org89e7b80"></a>
 
 ### SUMMARY
 
@@ -153,8 +168,6 @@ The ITEMS following create a basis for directors to create and update policy, fo
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="org24e9286"></a>
 
 ### ITEMS
 
@@ -177,14 +190,10 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="org72e4fa9"></a>
-
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
-
-<a id="orge1670ac"></a>
 
 ### SUMMARY
 
@@ -192,8 +201,6 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="orgffccebb"></a>
 
 ### ITEMS
 
@@ -205,19 +212,14 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 6.  We will at all times be honest, and
 7.  we will comply with our polices,
 8.  we will share and explain our work freely, and
-9.  we will prefer, promote, and model the best ideals of the Free
-    and Open Source software communities we host and/or endorse, and
+9.  we will prefer, promote, and model the best ideals of the Free and Open Source software communities we host and/or endorse, and
 10. we will show our same values to all people and communities.
 
-
-<a id="org4bc5aab"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
-
-<a id="org5a93987"></a>
 
 ### SUMMARY
 
@@ -234,8 +236,6 @@ and that help to identify and distinguish the interests we serve.
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="org1e23b63"></a>
 
 ### ITEMS
 
@@ -349,14 +349,10 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="org886adc4"></a>
-
 ## Our Teamwork Policy
 
 > Clear expectations make the dream work.
 
-
-<a id="orgc63a269"></a>
 
 ### SUMMARY
 
@@ -364,8 +360,6 @@ The ITEMS following define teamwork as expectations regarding collaboration.
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="orgd17e376"></a>
 
 ### ITEMS
 
@@ -408,14 +402,10 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
                 2.  As duly recorded by the secretary as acknowledged by consensus or quorum of our managing and executive directors.
 
 
-<a id="org3a4816d"></a>
-
 ## Our Sponsorship and Contribution Policy
 
 > Sometimes giving it our all means we find we didn't give it our best, or vice versa. We can work on that. Together.
 
-
-<a id="org1781fcb"></a>
 
 ### SUMMARY
 
@@ -423,12 +413,16 @@ The ITEMS following define our goals in terms of publishing our
 results and general work product as widely as possible given
 different circumstances we may or routinely face.
 
-In doing so, this section establishes the basis for other "practices", which may be documented and maintainenced outside our policy (e.g. this document).  Our goal is to allow our routine activities to addressed in a number of ways depending on the tastes and interests among our volunteers, while ensuring that, as an organization, we keep an retain consistent records and handle each appropriately.
+In doing so, this section establishes the basis for other "practices",
+which may be documented and maintainenced outside our policy
+(e.g. this document).  Our goal is to allow our routine activities to
+addressed in a number of ways depending on the tastes and interests
+among our volunteers, while ensuring that, as an organization, we keep
+an retain consistent records and handle each appropriately.
 
-NOTE: this is a summary, refer to the ITEMS below for binding policy language.
+NOTE: this is a summary, refer to the ITEMS below for binding policy
+language.
 
-
-<a id="orgf9e547d"></a>
 
 ### ITEMS
 
@@ -484,14 +478,10 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
         4.  When and if we possess a reasonable certainty that loss or disclosure is unlikely and avoidable.
 
 
-<a id="orge0985d8"></a>
-
 ## Our Record Keeping ("Privacy") Policy
 
 > It is difficult to unintentionally disclose what you deliberately don't keep, and you don't have to put it anywhere.
 
-
-<a id="org8f67b7f"></a>
 
 ### SUMMARY
 
@@ -506,8 +496,6 @@ In doing so, this section establishes a framework for our internal and external 
 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
-
-<a id="orge50159b"></a>
 
 ### ITEMS
 
@@ -587,12 +575,8 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Generally seeking to publish information as widely as appears to us useful and practicable given we are not otherwise prohibited or constrained.
 
 
-<a id="org026ec11"></a>
-
 ## Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
 
-
-<a id="org97863a2"></a>
 
 ### SUMMARY
 
@@ -604,8 +588,6 @@ Any service we may provide is offered AS-IS, without warranty (such as of workma
 
 In fact, the section may specify some of the above only in outline, for example to more or less strictly influence/establish parameters for our procedures, as may follow our policies,  which we hope we more easily and flexibly change as suit our work-style and preferences, and to make these sorts of internal changes without need to generally engage the board other than a via certain minimum reporting/disclosure specified in and by ITEMS below or by our other policies and procedures.
 
-
-<a id="org08a1d1e"></a>
 
 ### ITEMS
 
@@ -655,14 +637,10 @@ In fact, the section may specify some of the above only in outline, for example 
     7.  Each change to procedure is reported to our secretary just as for other types of change such as to our policies, described above.
 
 
-<a id="org970aa7f"></a>
-
 # OUR PROCEDURES
 
 > I told you that, so I could tell you this.
 
-
-<a id="org7a63778"></a>
 
 ## SUMMARY
 
@@ -675,12 +653,8 @@ Otherwise, the ITEMS below describe delegations of and not conference of authori
 NOTE: In fact, the Fosshost board might be considered as the four individuals in terms of those who secure the liability shield under which we operate, however it is the mutual desire of all of the directors that we have and do operate for all intents and purposes such that Fosshost CTO Nate Sales can and does act as a fifth manager and director within our organization, including fully participating as per only his own inclination and availability to act, and continue to act as an equal member of our body, being the Fosshost board.  Generally, and absent any request he may have or in the future make, we  do afford him any rights and privileges otherwise due a member of our board.  Finally, our effective leader is Thomas Markee, our CEO and Founder.  All of the directors are confident in Thomas' leadership and pleased to support his direction for our future and the future of the FOSS movement.  These articles/procedures/policies are intended to delegate but do not in any way limit or otherwise undertake to change specifically or generally his authority over the Fosshost project, organization, nor any related assets or information as we may possess or control.
 
 
-<a id="orgf22cdc8"></a>
-
 ## ABSTRACT
 
-
-<a id="orge40334e"></a>
 
 ### Writing and Updating Procedure     :PROCEDURE:
 
@@ -715,8 +689,6 @@ It may help considering how much to include from of/from:
     -   when and as the directors shall agree and the secretary so record.
 
 
-<a id="org8c97b8e"></a>
-
 ### Preventing and Reporting Abuse     :PROCEDURE:
 
 1.  SUMMARY
@@ -745,8 +717,6 @@ It may help considering how much to include from of/from:
             1.  Follow generally the procedure for personal abuse, however
             2.  Other more specific and detailed procedures which follow may direct additional and more specific assignment and reporting.
 
-
-<a id="org3a30af2"></a>
 
 ### Information Handling     :PROCEDURE:
 
@@ -803,8 +773,6 @@ It may help considering how much to include from of/from:
     3.  
 
 
-<a id="org950650e"></a>
-
 ### Risk and Control     :PROCEDURE:
 
 1.  SUMMARY
@@ -813,8 +781,6 @@ It may help considering how much to include from of/from:
 
 2.  ITEMS
 
-
-<a id="org93501f6"></a>
 
 ### Limited General Representation     :PROCEDURE:
 
@@ -843,8 +809,6 @@ It may help considering how much to include from of/from:
     2.  ITEMS
 
 
-<a id="orgc3f648b"></a>
-
 ### Exceptional Circumstance     :PROCEDURE:
 
 1.  SUMMARY
@@ -853,8 +817,6 @@ It may help considering how much to include from of/from:
 
 2.  ITEMS
 
-
-<a id="org74f4167"></a>
 
 ### Customary Authority     :PROCEDURE:
 
@@ -896,16 +858,12 @@ It may help considering how much to include from of/from:
     2.  For the purpose of restoration of service emergency changes are summarily approved by the duty director upon completion of any otherwise required process.
 
 
-<a id="org7112c84"></a>
-
 ### Public Relations     :PROCEDURE:
 
 1.  The volunteers who support our public relations effort may be and are often subject to information before others within our organization.
 2.  In this work we routinely use other formats and/or systems and may store internal use information on those systems, which are not generally reported from.
 3.  Neither fosshost nor any given volunteer can be responsible for loss or exposure of information due, for example, to a breach of such a system, except in case where otherwise fosshost or such volunteer would be a party such a breach, or other similar malfeasance.
 
-
-<a id="org32e201a"></a>
 
 ### Defining and Prioritizing Projects     :PROCEDURE:
 
@@ -924,8 +882,6 @@ It may help considering how much to include from of/from:
         2.  Conflicts with a specific and direct written order from a director or from the board of our directors, or which
         3.  Is generally or appears seriously disliked or not well understood by the team, e.g. our volunteers.
 
-
-<a id="orge0ce3ba"></a>
 
 ### Scheduling Criteria     :PROCEDURE:
 
@@ -953,8 +909,6 @@ It may help considering how much to include from of/from:
         2.  When otherwise concerned, for example related to the stability or testing, or similar or other concerns, then
         3.  The DDO shall revert the planned change once again for scheduling, and so report to the secretary and directors.
 
-
-<a id="org9254d36"></a>
 
 ### Technical Criteria     :PROCEDURE:
 
@@ -997,8 +951,6 @@ It may help considering how much to include from of/from:
             2.  Planned duration?
             3.  Does this include time for backup/testing/backout? (How much?)
 
-
-<a id="org5bb2f05"></a>
 
 ### Operational Logging
 
@@ -1050,8 +1002,6 @@ It may help considering how much to include from of/from:
         3.  And we do report and consider as vital records all such inventories and audits and their findings.
 
 
-<a id="org53bb844"></a>
-
 ## ADMINISTRATIVE
 
 We intend to document or otherwise describe nearly all of our internal procedures, while some details may be redacted and/or stored in more private repositories, we try to provide clear parameters around what we cannot publish, and to publish as much detail would be prudent and courteous and not more.
@@ -1059,27 +1009,17 @@ We intend to document or otherwise describe nearly all of our internal procedure
 The items in this section describe tasks which are generally administrative but may include or reference other (e.g. more technical or more general) procedures elsewhere described in more detail.  Additionally, some details such as specific system names, symbolic links, keys, or other identifiers other than the names of people may be removed, replaced with placeholders, obscured, or otherwise concealed in those versions of our policies and procedures such as we make available publicly or otherwise than for our own (otherwise unrestrained) internal and necessary use.
 
 
-<a id="org5d6d07e"></a>
-
 ### Keeping the Operations Log
 
-
-<a id="org508ea18"></a>
 
 ### Basic Ticketing
 
 
-<a id="org54cc477"></a>
-
 ### Requesting credentials
 
 
-<a id="org2d55626"></a>
-
 ### Reviewing Applications
 
-
-<a id="orgb09a15a"></a>
 
 ### On-boarding
 
@@ -1088,42 +1028,26 @@ The items in this section describe tasks which are generally administrative but 
 2.  Other (Sponsors and Vendors)
 
 
-<a id="org1298f12"></a>
-
 ### Updating the Asset Catalog
 
-
-<a id="orgd37c869"></a>
 
 ### Shipping and Receiving
 
 
-<a id="org3e7f3c3"></a>
-
 ### Special Handling for Reimbursable Receipts
 
-
-<a id="org23bccf1"></a>
 
 ### Accepting and Transferring Donations
 
 
-<a id="orge69811d"></a>
-
 ### Running Meetings
 
-
-<a id="org8eb60d9"></a>
 
 ## TECHNICAL
 
 
-<a id="orgb794f42"></a>
-
 ### Testing Your Credentials
 
-
-<a id="orgc4dfd9c"></a>
 
 ### AARCH64
 
@@ -1135,8 +1059,6 @@ The items in this section describe tasks which are generally administrative but 
 
 4.  AARCH64 Troubleshooting
 
-
-<a id="orgb63cb2e"></a>
 
 ### General or x86 Specific
 
@@ -1191,79 +1113,49 @@ The items in this section describe tasks which are generally administrative but 
     4.  DNS Troubleshooting
 
 
-<a id="org0888e98"></a>
-
 ## OVERSIGHT
 
-
-<a id="org18bb444"></a>
 
 ### Reporting Malfeasance and Abuse
 
 
-<a id="org9be5550"></a>
-
 ### Reporting Accounts Payable
 
-
-<a id="org48b7696"></a>
 
 ### Reporting Donations in Summary
 
 
-<a id="orgbafb22d"></a>
-
 ### Reporting Data Breach or Compromise
 
-
-<a id="orged37cf0"></a>
 
 ### Reporting Termination of Service
 
 
-<a id="orgff44a9f"></a>
-
 ### Reporting Completed Changes in Summary
 
-
-<a id="org78fa124"></a>
 
 ### Reporting Proposed Changes to Policy and Procedure
 
 
-<a id="org3755c60"></a>
-
 ### Reporting Architecture and Design
 
-
-<a id="org7e3a192"></a>
 
 ### Reporting Technology Changes
 
 
-<a id="org9116bb8"></a>
-
 ### Reporting Outages
 
-
-<a id="org575d5a0"></a>
 
 ### Reporting Applications Processed
 
 
-<a id="org3e47fcf"></a>
-
 ### Providing a Summary Report to the Board
 
-
-<a id="org3b59a6a"></a>
 
 ### Special Procedure for Board to Stand Generally In Recess
 
 
-<a id="orga57bdfd"></a>
-
-# other
+# INCOMPLETE AND OTHER
 
 scraps, extended notes, references, and clarifications
 
@@ -1316,27 +1208,50 @@ And whereas these are for our internal and external practices. specifically:
 -   describing the purpose and intent of procedures specifically established by our policy for handling information
 -   describing how we create and maintenance procedures considering the information sensitivity and other factors
 
-Some too portion of the complete set represented by all policies and procedures may secret, in that to some degree or in some parts they may be internal-use only.  For example for example, certain source code, branches, ticketing notes or other documentation may contain such information or by reference or inference touch upon privacy controls or specifically controlled information as we may retain and/or use for internal or other purposes as elsewhere in our policies and procedures specifically specified, wherefore items included herein and by reference, even as may be as specifically made internal-use or otherwise classified not for distributor/publication, e.g. to the public, are not to be distributed otherwise and expect and documented specifically herein and above, and within confine and by these extensions this is our full and complete reference in our policy and procedure, including for example such details in terms any or all a known exceptions, or and reported on as so described herein as such, with the provision that no further act lower in this policy or procedural guidance above the prior items is to be construed as relinquishing the authorities or responsibility defined under our articles or above as items of our policy, though they may delegated as a matter of course where well demonstrably established as routine and regular and duly reported as may regard within this single document including such private references as it may to be considered complete require.
+Some too portion of the complete set represented by all policies and
+procedures may secret, in that to some degree or in some parts they
+may be internal-use only.  For example for example, certain source
+code, branches, ticketing notes or other documentation may contain
+such information or by reference or inference touch upon privacy
+controls or specifically controlled information as we may retain
+and/or use for internal or other purposes as elsewhere in our
+policies and procedures specifically specified, wherefore items
+included herein and by reference, even as may be as specifically
+made internal-use or otherwise classified not for
+distributor/publication, e.g. to the public, are not to be
+distributed otherwise and expect and documented specifically herein
+and above, and within confine and by these extensions this is our
+full and complete reference in our policy and procedure, including
+for example such details in terms any or all a known exceptions, or
+and reported on as so described herein as such, with the provision
+that no further act lower in this policy or procedural guidance
+above the prior items is to be construed as relinquishing the
+authorities or responsibility defined under our articles or above as
+items of our policy, though they may delegated as a matter of course
+where well demonstrably established as routine and regular and duly
+reported as may regard within this single document including such
+private references as it may to be considered complete require.
 
-NOTE: this concludes our policies, refer to the ITEMS below for any
-completed or other procedure and/or policies and procedural language
-work-in-process, documentation and references regarding FOSS products
-and services we directly or by extension provide along with their
-licenses and any unique guidance or perspective we may have regarding
-our use, and such else as we may include or allow to be included and
-generally to demonstrate or effect or otherwise progress toward that
-herein and/or as duly referenced, and whereas we may (as prudent and
-courteously, publicly) provide for a transparent reliable alternative
-for FOSS projects, attending to their regular and necessary internet
-services and for such hosting needs without charging them or anyone
-specifically for any given services, and this including all of the
-above and below including those public external or private internal
-and secret forms referenced herein. and together these with our
-articles as filed with the office of the UK CIC regulator form or as
-may be ammended and duly recorded herein while our articles are being
-reflied or updated or otherwise consistude by or for this or a
-similar authority, and when taken together all of these for our
-complete and sole policy and/or procedure, and otherwise no document
-or contract controls the actions of our directors or other volunteers
-without it is expressly and duly provided for and reported herein.
+NOTE: this concludes our policies, refer to the information above for
+any completed or other procedure and/or policies and procedural
+language work-in-process, documentation and references regarding FOSS
+products and services we directly or by extension provide along with
+their licenses and any unique guidance or perspective we may have
+regarding our use, and such else as we may include or allow to be
+included and generally to demonstrate or effect or otherwise progress
+toward that herein and/or as duly referenced, and whereas we may (as
+prudent and courteously, publicly) provide for a transparent reliable
+alternative for FOSS projects, attending to their regular and
+necessary internet services and for such hosting needs without
+charging them or anyone specifically for any given services, and this
+including all of the above and below including those public external
+or private internal and secret forms referenced herein. and together
+these with our articles as filed with the office of the UK CIC
+regulator form or as may be ammended and duly recorded herein while
+our articles are being reflied or updated or otherwise consistude by
+or for this or a similar authority, and when taken together all of
+these for our complete and sole policy and/or procedure, and
+otherwise no document or contract controls the actions of our
+directors or other volunteers without it is expressly and duly
+provided for and reported herein.
 
