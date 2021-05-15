@@ -95,24 +95,64 @@ LIMITATIONS AND ALTERNATIVES
 NOTES
 ~~~~~
 
-  As a UK registered CIC, Fosshost is required to operate under our
-  articles, filed with the office of the UK CIC regulator.  We are also
-  subject to oversight by that administration, for example to
-  demonstrate our assets/expenditures directly benefit our community.
+  As a UK registered CIC, Fosshost operates at all times under our
+  articles, which have been filed with the office of the UK CIC
+  regulator.  We are subject also to oversight, for example by that
+  administration, who we expect seek to ensure we demonstrate our
+  assets/expenditures directly benefit our community and in trust.
 
-  This document represents our process in documenting our internal
-  practices.  It has a number of goals:
+  This document represents our process and principle work-product in
+  documenting our internal practices.  It has a number of goals:
   * declare the interests we serve and how we benefit our community
-  * Ensure any such permissible legal protections may exist as permits
-    and sustains a cooperative work environment (for example to extent
-    possible extending the limitations of liability such as from our CIC
-    registration and status in good standing, and to the extent possible
-    apply that to all our volunteers and otherwise also to tenants,
-    sponsors, and others we work with).
-  * describe our operating practices and allow scrutiny
-  * ensure we measure our results and evolve our methods
-  * ensure we dependable custodians acting with consistency and within
-    legal and ethical bounds
+  * mutually protect from liability those who act in good faith
+  * describe our operating practice and recognize well qualified
+    scrutiny
+  * ensure we measure our results and evolve our methods, documenting
+    exceptions to stated preferences and practice
+  * record whether we have acted as dependable custodians and with
+    consistency and within legal and ethical bounds
+  * publish (or cause us to carefully consider publishing, perhaps
+    redacting among) our vital records
+
+
+How To Change This Document
+---------------------------
+
+  NOTE: *CONSIDER APPROVAL* before you begin this process
+
+  Approved or in-place policy and procedure may require prior approval
+  from one or more specific individuals named later/elsewhere assumed to
+  be a director (or the board of directors, in case of contention) or
+  otherwise as stated.
+
+  To complete all steps You will need:
+  * a recent emacs (e.g. with org, [ox-md.el], etc)
+
+  Manual Build Steps (fosshost-org/policy):
+  1) Use a text editor to alter README.org
+  2) Commit your change to the public repository (you can stop after
+     this if you don't have a working emacs)
+  3) ./pre-commit && emacs --batch -l build.el
+  4) ./post-commit
+
+  Troubleshooting
+  * Please don't manually update anything that's auto-generated (e.g
+    alternative formats like md, html and ascii).
+  * If things go wrong (e.g. against the public repository) please
+    immediately revert the change; we can try again.
+  * It's fine to update the `.org' file and then generate as much as you
+    can (or nothing at all)
+  * We can place the `pre-' and `post-' commit scrips in `.git/hooks',
+    for crude and fragile local automation around build.el
+  * This (usually) seems to work under windows (e.g. via "git bash"
+    command line tools & putty for auth)
+  * The post-commit script uses `git add'; you can use this manually,
+    for example if some formats don't generate or other build script
+    issues.
+  * Checking in the approved (or otherwise meaningful) changes to the
+    .org file (and getting them "just right") is our priority.
+  * In all cases the .org file is authoritative; back-out and then merge
+    changes into it ASAP in case of error.
 
   Table of Contents
   _________________
@@ -121,6 +161,7 @@ NOTES
   .. ITEMS
   .. LIMITATIONS AND ALTERNATIVES
   .. NOTES
+  ..... How To Change This Document
   1. OUR POLICY
   .. 1. Our Expectations Evolution Policy
   ..... 1. SUMMARY
@@ -188,6 +229,10 @@ NOTES
   ..... 12. Providing a Summary Report to the Board
   ..... 13. Special Procedure for Board to Stand Generally In Recess
   3. INCOMPLETE AND OTHER
+
+
+[ox-md.el]
+<https://github.com/emacsmirror/org/blob/master/lisp/ox-md.el>
 
 
 1 OUR POLICY
