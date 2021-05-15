@@ -40,7 +40,7 @@ exceptions described within the ITEMS immediately below:
 13. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital.
 14. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license.
 15. We may, at our option, elect to use non-FOSS software but we will never incorporate it into our network or expect other than our own staff to use it.
-16. Our volunteers (other than the directors) do receive certain and specified rights within and by our policy, such as to represent our directors in conducting the business of our organization to thereby to fulfill our mission.y
+16. Our volunteers (other than the directors) do receive certain and specified rights within and by our policy, such as to represent our directors in conducting the business of our organization to thereby to fulfill our mission.
 17. Our volunteers do not otherwise delegate or defer than as stated below as being typical; we in no way consider these lessen our responsibility to/for FOSSHOST CIC.
 
 ** LIMITATIONS AND ALTERNATIVES

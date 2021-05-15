@@ -74,7 +74,7 @@ ITEMS
   16. Our volunteers (other than the directors) do receive certain and
       specified rights within and by our policy, such as to represent
       our directors in conducting the business of our organization to
-      thereby to fulfill our mission.y
+      thereby to fulfill our mission.
   17. Our volunteers do not otherwise delegate or defer than as stated
       below as being typical; we in no way consider these lessen our
       responsibility to/for FOSSHOST CIC.
