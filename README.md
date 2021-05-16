@@ -97,7 +97,7 @@ documenting our internal practices.  It has a number of goals:
     Our use of org is presently limited to creating documents or
     programs which are "checked-in", then excerpted/rendered into
     other or several forms each of which may be taken as
-    "functionally authoritative" in being technical correct and
+    "functionally authoritative" in being technically correct and
     implicitly or explicitly accepted by those among us most
     interested as we become available and also as needs may be.
     
@@ -115,10 +115,10 @@ documenting our internal practices.  It has a number of goals:
     In fact, our below use of the term may be more or less as the org
     contributers may intend, when stated in self-reflective terms:
     
-    Each category identifies items (or steps, etc), in reporting, on
-    whether and the degree to which this document is complete and
-    correct and any exceptions or risks of note as may specifically
-    relate to the operation of our organization or technologies.
+    Each of our categories identifies items (steps, etc) where we may
+    report, for example, whether and the degree to which this
+    document is complete and correct and among/within measure and
+    publicly state any known and long term risks or exceptions.
     
     **In practice**, this requires us to list our reporting categories
     (which we do here, below) and also to adjust markers as we work.
@@ -126,17 +126,18 @@ documenting our internal practices.  It has a number of goals:
     **In effect**, it forms the basis to constantly move toward greater
     clarity with less effort, while measuring all of our other goals.
 
--   Our Categories
 
-    1.  VITAL, part of our committed operating records
-    2.  PUBLIC, leading toward disclosure of what might otherwise be internal use information.
-    3.  EXAMPLE, a reference demonstrating how to use or apply our policy.
-    4.  PROCEDURE, something we usually want to do deliberately.
-    5.  RECORD, an explicit record of something that happened, by policy stated or quoted or referenced here.
-    6.  SECRET, explicit reference to information not intended to become PUBLIC, etc. not shared.
-    7.  RISK, a specific thing detouring or harming or counter to our or our communities interest.
-    8.  EXCEPTION, something in the past that we didn't plan for or usually would not want to do.
-    9.  FINAL, when a section of text including any markup is and should be duly received verbatim.
+### Our Categories
+
+1.  VITAL, part of our committed operating records
+2.  PUBLIC, leading toward disclosure of what might otherwise be internal use information.
+3.  EXAMPLE, a reference demonstrating how to use or apply our policy.
+4.  PROCEDURE, something we usually want to do deliberately.
+5.  RECORD, an explicit record of something that happened, by policy stated or quoted or referenced here.
+6.  SECRET, explicit reference to information not intended to become PUBLIC, etc. not shared.
+7.  RISK, a specific thing detouring or harming or counter to our or our communities interest.
+8.  EXCEPTION, something in the past or future that we didn't plan for or usually would not want to do.
+9.  FINAL, when a section of text including any markup is and should be duly received verbatim.
 
 
 ### How To Change This Document     :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
@@ -213,6 +214,7 @@ NOTE: This is an example process; it appears complete but out of order within ou
     -   Checking in the approved (or otherwise meaningful) changes to the .org file (and getting them "just right") is our priority.
     -   In all cases the .org file is authoritative; back-out and then merge changes into it ASAP in case of error
     -   Otherwise (if README.org looks fine) it's okay to give up (but please do raise an issue/ticket).
+    -   Did you consider/check the `:CATEGORIES:`?
     -   Thank you!
     
     -   **EXAMPLES**
@@ -228,80 +230,81 @@ NOTE: This is an example process; it appears complete but out of order within ou
         
         # Table of Contents
         
-        -   [SUMMARY](#org7ef612c)
-            -   [ITEMS](#orga1c5c53)
-            -   [LIMITATIONS AND ALTERNATIVES](#org37e31db)
-            -   [NOTES](#org9f133ea)
-                -   [Markup and Conventions Used](#org6c8df43)
-                -   [How To Change This Document](#org3af78e8):VITAL:PUBLIC:EXAMPLE:PROCEDURE:
-        1.  [OUR POLICY](#org4ef714c)
-            1.  [Our Expectations Evolution Policy](#org5f5348b)
-                1.  [SUMMARY](#orga23ea9f)
-                2.  [ITEMS](#org908982b)
-            2.  [Our Values and Ethics Policy](#org4caead5)
-                1.  [SUMMARY](#org8e1c905)
-                2.  [ITEMS](#org757454b)
-            3.  [Our Community Policy](#org6663a03)
-                1.  [SUMMARY](#orgf56731e)
-                2.  [ITEMS](#org4c6aa5e)
-            4.  [Our Teamwork Policy](#org0e972d8)
-                1.  [SUMMARY](#orga1306c7)
-                2.  [ITEMS](#org90f0b7d)
-            5.  [Our Sponsorship and Contribution Policy](#org0729c3e)
-                1.  [SUMMARY](#org0270646)
-                2.  [ITEMS](#org41173e3)
-            6.  [Our Record Keeping ("Privacy") Policy](#org0c0a145)
-                1.  [SUMMARY](#orgb261741)
-                2.  [ITEMS](#org2e28cda)
-            7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#orgbd4211a)
-                1.  [SUMMARY](#org6dc852c)
-                2.  [ITEMS](#orgbf773cd)
-        2.  [OUR PROCEDURES](#org9d09bf9)
-            1.  [SUMMARY](#orgbb0f84c)
-            2.  [ABSTRACT](#org6fa684f)
-                1.  [Writing and Updating Procedure](#org367831b):PROCEDURE:
-                2.  [Preventing and Reporting Abuse](#org9e44176):PROCEDURE:
-                3.  [Information Handling](#org49f97b0):PROCEDURE:
-                4.  [Risk and Control](#org664a0f9):PROCEDURE:
-                5.  [Limited General Representation](#org1248147):PROCEDURE:
-                6.  [Exceptional Circumstance](#orgf68af6e):PROCEDURE:
-                7.  [Customary Authority](#org5c0feeb):PROCEDURE:
-                8.  [Public Relations](#orgcaf8e47):PROCEDURE:
-                9.  [Defining and Prioritizing Projects](#org6aaee2f):PROCEDURE:
-                10. [Scheduling Criteria](#orgc2c1310):PROCEDURE:
-                11. [Technical Criteria](#orgc933f0f):PROCEDURE:
-                12. [Operational Logging](#org3a3029c)
-            3.  [ADMINISTRATIVE](#orgc3bd3af)
-                1.  [Keeping the Operations Log](#org38fb57b)
-                2.  [Basic Ticketing](#orgb6f1d61)
-                3.  [Requesting credentials](#org99aa927)
-                4.  [Reviewing Applications](#org34c4b80)
-                5.  [On-boarding](#orgca75718)
-                6.  [Updating the Asset Catalog](#orga86a299)
-                7.  [Shipping and Receiving](#orga942208)
-                8.  [Special Handling for Reimbursable Receipts](#org46ffc54)
-                9.  [Accepting and Transferring Donations](#orga8927fd)
-                10. [Running Meetings](#orgda4c250)
-            4.  [TECHNICAL](#orgff55e03)
-                1.  [Testing Your Credentials](#orgfc12835)
-                2.  [AARCH64](#org65a0bb0)
-                3.  [General or x86 Specific](#org5cae664)
-            5.  [OVERSIGHT](#org260e2cf)
-                1.  [Reporting Malfeasance and Abuse](#orgb34f581)
-                2.  [Reporting Accounts Payable](#orgce42b63)
-                3.  [Reporting Donations in Summary](#org55ee5e1)
-                4.  [Reporting Data Breach or Compromise](#orgf41ce1b)
-                5.  [Reporting Termination of Service](#org2e6e81d)
-                6.  [Reporting Completed Changes in Summary](#orge8974f2)
-                7.  [Reporting Proposed Changes to Policy and Procedure](#org690025a)
-                8.  [Reporting Architecture and Design](#org94a512a)
-                9.  [Reporting Technology Changes](#orge756a86)
-                10. [Reporting Outages](#org4aaee07)
-                11. [Reporting Applications Processed](#orgf239f49)
-                12. [Providing a Summary Report to the Board](#orgc031f23)
-                13. [Special Procedure for Board to Stand Generally In Recess](#org445480d)
-        3.  [INCOMPLETE AND OTHER](#org1b6e1e4)
-        4.  [CONCLUSION](#orgf8011b0)
+        -   [SUMMARY](#orgc51b722)
+            -   [ITEMS](#org75fcafd)
+            -   [LIMITATIONS AND ALTERNATIVES](#orgf7bcb8b)
+            -   [NOTES](#orgd58cb13)
+                -   [Markup and Conventions Used](#org393c98d)
+                -   [Our Categories](#orgba0896b)
+                -   [How To Change This Document](#org0bc14ea):VITAL:PUBLIC:EXAMPLE:PROCEDURE:
+        1.  [OUR POLICY](#orgc20c096)
+            1.  [Our Expectations Evolution Policy](#org06da3e4)
+                1.  [SUMMARY](#orgbea6c14)
+                2.  [ITEMS](#org3970dac)
+            2.  [Our Values and Ethics Policy](#orgc23be50)
+                1.  [SUMMARY](#org0d77460)
+                2.  [ITEMS](#orge091fb9)
+            3.  [Our Community Policy](#orgbd881c4)
+                1.  [SUMMARY](#orgc2c9471)
+                2.  [ITEMS](#orgdbe79fb)
+            4.  [Our Teamwork Policy](#orga1339af)
+                1.  [SUMMARY](#org0443352)
+                2.  [ITEMS](#org9fa7fa6)
+            5.  [Our Sponsorship and Contribution Policy](#orgbeb3d57)
+                1.  [SUMMARY](#orga639ab3)
+                2.  [ITEMS](#org560a45f)
+            6.  [Our Record Keeping ("Privacy") Policy](#orga7fcb75)
+                1.  [SUMMARY](#org30d65ed)
+                2.  [ITEMS](#org4eb42fa)
+            7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#orgf5b4939)
+                1.  [SUMMARY](#orgb3a6125)
+                2.  [ITEMS](#orgaa1b041)
+        2.  [OUR PROCEDURES](#org21c72f0)
+            1.  [SUMMARY](#orgeca7cf4)
+            2.  [ABSTRACT](#orgbcdeb91)
+                1.  [Writing and Updating Procedure](#org932b226):PROCEDURE:
+                2.  [Preventing and Reporting Abuse](#org586a3d7):PROCEDURE:
+                3.  [Information Handling](#org9cc176a):PROCEDURE:
+                4.  [Risk and Control](#org9967105):PROCEDURE:
+                5.  [Limited General Representation](#org09c1587):PROCEDURE:
+                6.  [Exceptional Circumstance](#org55fd1fb):PROCEDURE:
+                7.  [Customary Authority](#orge2427a4):PROCEDURE:
+                8.  [Public Relations](#org5c5f8a1):PROCEDURE:
+                9.  [Defining and Prioritizing Projects](#orge37563d):PROCEDURE:
+                10. [Scheduling Criteria](#orgaa7c4f6):PROCEDURE:
+                11. [Technical Criteria](#orgd1a9bac):PROCEDURE:
+                12. [Operational Logging](#orgf9c93ee)
+            3.  [ADMINISTRATIVE](#orgfb8cef7)
+                1.  [Keeping the Operations Log](#orga32777d)
+                2.  [Basic Ticketing](#org0bd09a9)
+                3.  [Requesting credentials](#org2456614)
+                4.  [Reviewing Applications](#orgf082767)
+                5.  [On-boarding](#org73bd354)
+                6.  [Updating the Asset Catalog](#org24baea4)
+                7.  [Shipping and Receiving](#orgbee655a)
+                8.  [Special Handling for Reimbursable Receipts](#org30383db)
+                9.  [Accepting and Transferring Donations](#orgb1bb84b)
+                10. [Running Meetings](#org34acc49)
+            4.  [TECHNICAL](#org265b867)
+                1.  [Testing Your Credentials](#orgff8a381)
+                2.  [AARCH64](#orga786ca0)
+                3.  [General or x86 Specific](#org30597d2)
+            5.  [OVERSIGHT](#org226bb68)
+                1.  [Reporting Malfeasance and Abuse](#org6de62b8)
+                2.  [Reporting Accounts Payable](#orgc7af930)
+                3.  [Reporting Donations in Summary](#org8977fa8)
+                4.  [Reporting Data Breach or Compromise](#orgfdfa790)
+                5.  [Reporting Termination of Service](#orgbb98ea3)
+                6.  [Reporting Completed Changes in Summary](#org732e0e3)
+                7.  [Reporting Proposed Changes to Policy and Procedure](#org61bc913)
+                8.  [Reporting Architecture and Design](#org409c47e)
+                9.  [Reporting Technology Changes](#org99a2da6)
+                10. [Reporting Outages](#orgac1b442)
+                11. [Reporting Applications Processed](#org8351add)
+                12. [Providing a Summary Report to the Board](#orga5743cd)
+                13. [Special Procedure for Board to Stand Generally In Recess](#orgc8372fb)
+        3.  [INCOMPLETE AND OTHER](#org07dfbd5)
+        4.  [CONCLUSION](#orgd1fb369)
 
 
 # OUR POLICY

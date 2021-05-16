@@ -131,7 +131,7 @@ documenting our internal practices.  It has a number of goals:
 5. RECORD, an explicit record of something that happened, by policy stated or quoted or referenced here.
 6. SECRET, explicit reference to information not intended to become PUBLIC, etc. not shared.
 7. RISK, a specific thing detouring or harming or counter to our or our communities interest.
-8. EXCEPTION, something in the past that we didn't plan for or usually would not want to do.
+8. EXCEPTION, something in the past or future that we didn't plan for or usually would not want to do.
 9. FINAL, when a section of text including any markup is and should be duly received verbatim.
 
 *** How To Change This Document           :VITAL:PUBLIC:EXAMPLE:PROCEDURE:

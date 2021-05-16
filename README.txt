@@ -143,9 +143,9 @@ Markup and Conventions Used
   Our use of org is presently limited to creating documents or programs
   which are "checked-in", then excerpted/rendered into other or several
   forms each of which may be taken as "functionally authoritative" in
-  being technical correct and implicitly or explicitly accepted by those
-  among us most interested as we become available and also as needs may
-  be.
+  being technically correct and implicitly or explicitly accepted by
+  those among us most interested as we become available and also as
+  needs may be.
 
   To the extent we develop significant (other) original work also
   related to org/Emacs we will similarly mention it here.
@@ -162,10 +162,10 @@ Markup and Conventions Used
   In fact, our below use of the term may be more or less as the org
   contributers may intend, when stated in self-reflective terms:
 
-  Each category identifies items (or steps, etc), in reporting, on
-  whether and the degree to which this document is complete and correct
-  and any exceptions or risks of note as may specifically relate to the
-  operation of our organization or technologies.
+  Each of our categories identifies items (steps, etc) where we may
+  report, for example, whether and the degree to which this document is
+  complete and correct and among/within measure and publicly state any
+  known and long term risks or exceptions.
 
   *In practice*, this requires us to list our reporting categories
   (which we do here, below) and also to adjust markers as we work.
@@ -174,7 +174,8 @@ Markup and Conventions Used
   clarity with less effort, while measuring all of our other goals.
 
 
-* Our Categories
+Our Categories
+--------------
 
   1. VITAL, part of our committed operating records
   2. PUBLIC, leading toward disclosure of what might otherwise be
@@ -187,8 +188,8 @@ Markup and Conventions Used
      PUBLIC, etc. not shared.
   7. RISK, a specific thing detouring or harming or counter to our or
      our communities interest.
-  8. EXCEPTION, something in the past that we didn't plan for or usually
-     would not want to do.
+  8. EXCEPTION, something in the past or future that we didn't plan for
+     or usually would not want to do.
   9. FINAL, when a section of text including any markup is and should be
      duly received verbatim.
 
@@ -293,6 +294,7 @@ How To Change This Document             :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
     changes into it ASAP in case of error
   * Otherwise (if README.org looks fine) it's okay to give up (but
     please do raise an issue/ticket).
+  * Did you consider/check the `:CATEGORIES:'?
   * Thank you!
 
 
@@ -315,6 +317,7 @@ How To Change This Document             :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
     .. LIMITATIONS AND ALTERNATIVES
     .. NOTES
     ..... Markup and Conventions Used
+    ..... Our Categories
     ..... How To Change This Document   :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
     1. OUR POLICY
     .. 1. Our Expectations Evolution Policy
