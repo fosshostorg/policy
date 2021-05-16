@@ -22,8 +22,8 @@ SUMMARY
 
   Our team is entirely volunteers who donate their labor.  We partner
   with other organizations who provide us with servers, rack-space,
-  bandwidth, etc.  We use these resources to create for to tenants (the
-  projects we host) access to infrastructural technology services, for
+  bandwidth, etc.  We use these resources for tenants (the projects we
+  host) who gain access to infrastructural technology services, for
   example virtual private servers (VPS) and consoles of such. We usually
   share publicly any information we share at all.  We don't provide
   remuneration "in-kind" or compensation to anyone, with a couple of
@@ -39,9 +39,9 @@ ITEMS
      when we can.
   3. We might well use your branding and otherwise mention those we
      host; you can ask us not to and we'll usually comply.
-  4. We usually invite you to use our branding to advertise your
-     relationship with us but may have specific related conditions for
-     you.
+  4. We usually invite you to use our branding and else and otherwise
+     advertise our relationship but may have specific related conditions
+     for you now and again.
   5. We can stop doing some or all of what we are doing for you at
      almost any time for almost any reason at our option.
   6. We will keep records so that we regularly report on these and
@@ -53,9 +53,11 @@ ITEMS
      related to unavoidable/required disclosure.
   9. We will retain and fully and faithfully report (usually,
      eventually) publicly such information (however specific and
-     detailed) as we must to satisfy due diligence.
-  10. We share (especially) our vital records more often than we are
-      required but we do so if, when, and as we may choose.
+     detailed) as we must to satisfy such diligence as we find due and
+     proper.
+  10. We share when we can from (especially) our vital records more
+      often than we are required but we do so (but if, when, and as we
+      may choose).
   11. We effect procedures and internal systems specific to keeping our
       vital records, for example such as all those needed for/by the
       office of the regulator of the CIC.
@@ -68,15 +70,14 @@ ITEMS
   14. We strongly prefer FOSS software and will not consider hosting
       other types of development or otherwise than development under a
       FOSS license.
-  15. We may, at our option, elect to use non-FOSS software but we will
-      never incorporate it into our network or expect other than our own
-      staff to use it.
+  15. We may, at our sole option, elect to use non-FOSS software but we
+      will never incorporate it into our network nor unless by specific
+      exception require its use.
   16. Our volunteers (other than the directors) do receive certain and
-      specified rights within and by our policy, such as to represent
-      our directors in conducting the business of our organization to
-      thereby to fulfill our mission.
+      specified rights within so they may and do represent our directors
+      in conducting our operations.
   17. Our volunteers do not otherwise delegate or defer than as stated
-      below as being typical; we in no way consider these lessen our
+      below and typical; we in no way consider they lessen our
       responsibility to/for FOSSHOST CIC.
 
 
@@ -120,124 +121,263 @@ NOTES
     redacting among) our vital records
 
 
-How To Change This Document
+Markup and Conventions Used
 ---------------------------
 
-  NOTE: *CONSIDER APPROVAL* before you begin this process
+* PRIOR ART
+
+  Generally the conventions here are/will-have-been lifted from org-mode
+  ("Org").
+
+  Org is developed as a FOSS project and is discussing but has not yet
+  committed to expressing and putting forth a formal mime-type.  Corwin,
+  among the directors, has substantial experience with Emacs and is a
+  maintainer of note and record within org.
+
+  Our use of org is presently limited to creating documents or programs
+  which are "checked-in", then excerpted/rendered into other or several
+  forms each of which may be taken as "functionally authoritative" in
+  being technical correct and implicitly or explicitly accepted by those
+  among us most interested as we become available and also as needs may
+  be.
+
+  To the extent we develop significant (other) original work also
+  related to org/Emacs we will similarly mention it here.
+
+
+* Using "Categories"
+
+  Of the boilerplate from org, perhaps the categories will stick out the
+  most to you when viewing as plain and unadorned ("undramatic") text.
+  These are the markers to the right (and often right aligned, for some
+  viewers) surrounded and often shown separated ("fully punctuated")
+  by/with semi-colons (":").
+
+  In fact, our below use of the term may be more or less as the org
+  contributers may intend, when stated in self-reflective terms:
+
+  Each category identifies items (or steps, etc), in reporting, on
+  whether and the degree to which this document is complete and correct
+  and any exceptions or risks of note as may specifically relate to the
+  operation of our organization or technologies.
+
+  *In practice*, this requires us to list our reporting categories
+  (which we do here, below) and also to adjust markers as we work.
+
+  *In effect*, it forms the basis to constantly move toward greater
+  clarity with less effort, while measuring all of our other goals.
+
+
+* Our Categories
+
+  1. VITAL, part of our committed operating records
+  2. PUBLIC, leading toward disclosure of what might otherwise be
+     internal use information.
+  3. EXAMPLE, a reference demonstrating how to use or apply our policy.
+  4. PROCEDURE, something we usually want to do deliberately.
+  5. RECORD, an explicit record of something that happened, by policy
+     stated or quoted or referenced here.
+  6. SECRET, explicit reference to information not intended to become
+     PUBLIC, etc. not shared.
+  7. RISK, a specific thing detouring or harming or counter to our or
+     our communities interest.
+  8. EXCEPTION, something in the past that we didn't plan for or usually
+     would not want to do.
+  9. FINAL, when a complete part or section of text verbatim should be
+     duly received as.
+
+
+How To Change This Document             :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
+---------------------------
+
+  NOTE: This process can or may alter (and may be retained with and as)
+  our vital records.  NOTE: This process may alter noted public records
+  as they are reported/retained by the directors of Fosshost CIC,
+  personally.  NOTE: You are to *CONSIDER APPROVAL* before you begin
+  this process.
 
   Approved or in-place policy and procedure may require prior approval
-  from one or more specific individuals named later/elsewhere assumed to
-  be a director (or the board of directors, in case of contention) or
-  otherwise as stated.
+  recorded from/by one or more specific individuals named
+  later/elsewhere assumed to be a director (or the board of directors,
+  in case of contention), or otherwise as stated.
+
+  You can change this document to add or correct any procedure that has
+  been duly recorded herein as incomplete or incorrect, and otherwise to
+  correct any trivial detail/omission/typo/etc or else to add new
+  procedures; and, otherwise, and given the document overall and the
+  given procedure(s) (etc., policies, or proposed changes to our
+  articles included with this and given) have been presented as in
+  effect and force, whereas as such changes may and shall regard our
+  directors interpretation of our articles and the diligence as
+  represented in such as form our organizing practices (for example in
+  case where our policy would meaningfully and dramatically change the
+  work expected from volunteers) anytime the policies (or the articles)
+  or more than two of the procedures are altered (even when done over a
+  series of commits or by several authors over time) we each will commit
+  such after validating written (for example, via email) instruction
+  from one of our directors, or from a person (or persons) so above or
+  below named with and thereby procedure of custom thus duly recorded.
+
+  Naturally, such requests and prohibitions apply only when you commit
+  directly to the authorized and authoritative repository containing the
+  public version of this document, used to organize reports related our
+  organization and help us work together and on mission.  Any and all
+  PRs (issues/emails/patches) welcome.
+
+  NOTE: This is an example process; it appears complete but out of order
+  within our policy where this disclosure appears.
+
+
+* Update README.org
 
   To complete all steps You will need:
   * a recent emacs (e.g. with org, [ox-md.el], etc)
+  * for automation copy the pre/post commit scripts to your local
+    `.git/hooks' folder
+  * commit access or the ability to create a PR, e.g. to/for:
 
-  Manual Build Steps (fosshost-org/policy):
-  1) Use a text editor to alter README.org
-  2) Commit your change to the public repository (you can stop after
-     this if you don't have a working emacs)
-  3) ./pre-commit && emacs --batch -l build.el
-  4) ./post-commit
+    THIS DOCUMENT
+    <https://raw.githubusercontent.com/fosshostorg/policy/main/README.org>
 
-  Troubleshooting
+    Please follow these general steps when making change to this:
+    1) Clone the [public repo] or navigate to `README.org' on the [web].
+    2) Use a text editor to update README.org (and/or other files, but
+       see troubleshooting)
+    3) Commit your change to the public repository
+    4) Confirm the change by looking README.md and reviewing the commit
+       log, fix any issues, otherwise:
+    5) If you started but didn't finish this process please raise (or
+       update your existing), e.g. [issue] or etc.
+
+    You can always raise/forward any issue to/or with us by sending an
+    email to support@fosshost.org detailing what you've run into.
+
+    STOP, you are done!
+
+
+  [ox-md.el]
+  <https://github.com/emacsmirror/org/blob/master/lisp/ox-md.el>
+
+  [public repo] <https://github.com/fosshostorg/policy.git>
+
+  [web] <https://github.com/fosshostorg/policy/blob/main/README.org>
+
+  [issue] <https://github.com/fosshostorg/policy/issues>
+
+
+* Troubleshooting
+
+  This section is simply a list of useful tips, perhaps with a
+  sub-selection of examples or other references.
+
+  NOTE: Please review and perhaps update any TROUBLESHOOTING sections as
+  you work and encounter issues
+
   * Please don't manually update anything that's auto-generated (e.g
     alternative formats like md, html and ascii).
   * If things go wrong (e.g. against the public repository) please
     immediately revert the change; we can try again.
-  * It's fine to update the `.org' file and then generate as much as you
-    can (or nothing at all)
-  * We can place the `pre-' and `post-' commit scrips in `.git/hooks',
-    for crude and fragile local automation around build.el
+  * We can place the `pre-' and `post-' commit scrips in `.git/hooks'
+    for crude and fragile automation locally around build.el
   * This (usually) seems to work under windows (e.g. via "git bash"
     command line tools & putty for auth)
-  * The post-commit script uses `git add'; you can use this manually,
-    for example if some formats don't generate or other build script
-    issues.
   * Checking in the approved (or otherwise meaningful) changes to the
     .org file (and getting them "just right") is our priority.
   * In all cases the .org file is authoritative; back-out and then merge
-    changes into it ASAP in case of error.
-
-  Table of Contents
-  _________________
-
-  SUMMARY
-  .. ITEMS
-  .. LIMITATIONS AND ALTERNATIVES
-  .. NOTES
-  ..... How To Change This Document
-  1. OUR POLICY
-  .. 1. Our Expectations Evolution Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  .. 2. Our Values and Ethics Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  .. 3. Our Community Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  .. 4. Our Teamwork Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  .. 5. Our Sponsorship and Contribution Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  .. 6. Our Record Keeping ("Privacy") Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  .. 7. Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
-  ..... 1. SUMMARY
-  ..... 2. ITEMS
-  2. OUR PROCEDURES
-  .. 1. SUMMARY
-  .. 2. ABSTRACT
-  ..... 1. Writing and Updating Procedure                    :PROCEDURE:
-  ..... 2. Preventing and Reporting Abuse                    :PROCEDURE:
-  ..... 3. Information Handling                              :PROCEDURE:
-  ..... 4. Risk and Control                                  :PROCEDURE:
-  ..... 5. Limited General Representation                    :PROCEDURE:
-  ..... 6. Exceptional Circumstance                          :PROCEDURE:
-  ..... 7. Customary Authority                               :PROCEDURE:
-  ..... 8. Public Relations                                  :PROCEDURE:
-  ..... 9. Defining and Prioritizing Projects                :PROCEDURE:
-  ..... 10. Scheduling Criteria                              :PROCEDURE:
-  ..... 11. Technical Criteria                               :PROCEDURE:
-  ..... 12. Operational Logging
-  .. 3. ADMINISTRATIVE
-  ..... 1. Keeping the Operations Log
-  ..... 2. Basic Ticketing
-  ..... 3. Requesting credentials
-  ..... 4. Reviewing Applications
-  ..... 5. On-boarding
-  ..... 6. Updating the Asset Catalog
-  ..... 7. Shipping and Receiving
-  ..... 8. Special Handling for Reimbursable Receipts
-  ..... 9. Accepting and Transferring Donations
-  ..... 10. Running Meetings
-  .. 4. TECHNICAL
-  ..... 1. Testing Your Credentials
-  ..... 2. AARCH64
-  ..... 3. General or x86 Specific
-  .. 5. OVERSIGHT
-  ..... 1. Reporting Malfeasance and Abuse
-  ..... 2. Reporting Accounts Payable
-  ..... 3. Reporting Donations in Summary
-  ..... 4. Reporting Data Breach or Compromise
-  ..... 5. Reporting Termination of Service
-  ..... 6. Reporting Completed Changes in Summary
-  ..... 7. Reporting Proposed Changes to Policy and Procedure
-  ..... 8. Reporting Architecture and Design
-  ..... 9. Reporting Technology Changes
-  ..... 10. Reporting Outages
-  ..... 11. Reporting Applications Processed
-  ..... 12. Providing a Summary Report to the Board
-  ..... 13. Special Procedure for Board to Stand Generally In Recess
-  3. INCOMPLETE AND OTHER
+    changes into it ASAP in case of error
+  * Otherwise (if README.org looks fine) it's okay to give up (but
+    please do raise an issue/ticket).
+  * Thank you!
 
 
-[ox-md.el]
-<https://github.com/emacsmirror/org/blob/master/lisp/ox-md.el>
+  + *EXAMPLES*
+
+    Use instead of installing/running `pre-commit' and `post-commit'
+    hooks.  Assumes we've just pushed, e.g. to update README.org:
+    ,----
+    | /c/emacs/bin/emacs --batch -l build.el &&\
+    |   git add README.md README.html README.txt &&\
+    |   git commit --amend -C HEAD --no-verify &&\
+    |   git push
+    `----
+
+    Table of Contents
+    _________________
+
+    SUMMARY
+    .. ITEMS
+    .. LIMITATIONS AND ALTERNATIVES
+    .. NOTES
+    ..... Markup and Conventions Used
+    ..... How To Change This Document   :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
+    1. OUR POLICY
+    .. 1. Our Expectations Evolution Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    .. 2. Our Values and Ethics Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    .. 3. Our Community Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    .. 4. Our Teamwork Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    .. 5. Our Sponsorship and Contribution Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    .. 6. Our Record Keeping ("Privacy") Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    .. 7. Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
+    ..... 1. SUMMARY
+    ..... 2. ITEMS
+    2. OUR PROCEDURES
+    .. 1. SUMMARY
+    .. 2. ABSTRACT
+    ..... 1. Writing and Updating Procedure                  :PROCEDURE:
+    ..... 2. Preventing and Reporting Abuse                  :PROCEDURE:
+    ..... 3. Information Handling                            :PROCEDURE:
+    ..... 4. Risk and Control                                :PROCEDURE:
+    ..... 5. Limited General Representation                  :PROCEDURE:
+    ..... 6. Exceptional Circumstance                        :PROCEDURE:
+    ..... 7. Customary Authority                             :PROCEDURE:
+    ..... 8. Public Relations                                :PROCEDURE:
+    ..... 9. Defining and Prioritizing Projects              :PROCEDURE:
+    ..... 10. Scheduling Criteria                            :PROCEDURE:
+    ..... 11. Technical Criteria                             :PROCEDURE:
+    ..... 12. Operational Logging
+    .. 3. ADMINISTRATIVE
+    ..... 1. Keeping the Operations Log
+    ..... 2. Basic Ticketing
+    ..... 3. Requesting credentials
+    ..... 4. Reviewing Applications
+    ..... 5. On-boarding
+    ..... 6. Updating the Asset Catalog
+    ..... 7. Shipping and Receiving
+    ..... 8. Special Handling for Reimbursable Receipts
+    ..... 9. Accepting and Transferring Donations
+    ..... 10. Running Meetings
+    .. 4. TECHNICAL
+    ..... 1. Testing Your Credentials
+    ..... 2. AARCH64
+    ..... 3. General or x86 Specific
+    .. 5. OVERSIGHT
+    ..... 1. Reporting Malfeasance and Abuse
+    ..... 2. Reporting Accounts Payable
+    ..... 3. Reporting Donations in Summary
+    ..... 4. Reporting Data Breach or Compromise
+    ..... 5. Reporting Termination of Service
+    ..... 6. Reporting Completed Changes in Summary
+    ..... 7. Reporting Proposed Changes to Policy and Procedure
+    ..... 8. Reporting Architecture and Design
+    ..... 9. Reporting Technology Changes
+    ..... 10. Reporting Outages
+    ..... 11. Reporting Applications Processed
+    ..... 12. Providing a Summary Report to the Board
+    ..... 13. Special Procedure for Board to Stand Generally In Recess
+    3. INCOMPLETE AND OTHER
+    4. CONCLUSION
 
 
 1 OUR POLICY
@@ -2279,6 +2419,10 @@ How To Change This Document
   regular and duly reported as may regard within this single document
   including such private references as it may to be considered complete
   require.
+
+
+4 CONCLUSION
+============
 
   NOTE: this concludes our policies, refer to the information above for
   any completed or other procedure and/or policies and procedural
