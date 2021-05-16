@@ -112,7 +112,7 @@ documenting our internal practices.  It has a number of goals:
      contributers may intend, when stated in self-reflective terms:
 
      Each of our categories identifies items (steps, etc), we can
-     report in terms of whether and the degree to which this document
+     report, for example whether and the degree to which this document
      is complete and correct and, for example, clearly and publicly
      state any known and long term risks or exceptions among them.
 
@@ -122,7 +122,7 @@ documenting our internal practices.  It has a number of goals:
      *In effect*, it forms the basis to constantly move toward greater
      clarity with less effort, while measuring all of our other goals.
 
-**** Our Categories
+*** Our Categories
 
 1. VITAL, part of our committed operating records
 2. PUBLIC, leading toward disclosure of what might otherwise be internal use information.
@@ -205,6 +205,7 @@ documenting our internal practices.  It has a number of goals:
      * Checking in the approved (or otherwise meaningful) changes to the .org file (and getting them "just right") is our priority.
      * In all cases the .org file is authoritative; back-out and then merge changes into it ASAP in case of error
      * Otherwise (if README.org looks fine) it's okay to give up (but please do raise an issue/ticket).
+     * Did you consider/check the ~:CATEGORIES:~?
      * Thank you!
 
 ***** *EXAMPLES*
