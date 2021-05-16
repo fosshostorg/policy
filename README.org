@@ -93,7 +93,7 @@ documenting our internal practices.  It has a number of goals:
      Our use of org is presently limited to creating documents or
      programs which are "checked-in", then excerpted/rendered into
      other or several forms each of which may be taken as
-     "functionally authoritative" in being technical correct and
+     "functionally authoritative" in being technically correct and
      implicitly or explicitly accepted by those among us most
      interested as we become available and also as needs may be.
 
