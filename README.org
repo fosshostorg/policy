@@ -111,10 +111,10 @@ documenting our internal practices.  It has a number of goals:
      In fact, our below use of the term may be more or less as the org
      contributers may intend, when stated in self-reflective terms:
 
-     Each category identifies items (or steps, etc), in reporting, on
-     whether and the degree to which this document is complete and
-     correct and any exceptions or risks of note as may specifically
-     relate to the operation of our organization or technologies.
+     Each of our categories identifies items (steps, etc), we can
+     report in terms of whether and the degree to which this document
+     is complete and correct and, for example, clearly and publicly
+     state any known and long term risks or exceptions among them.
 
      *In practice*, this requires us to list our reporting categories
      (which we do here, below) and also to adjust markers as we work.
