@@ -127,7 +127,13 @@ Markup and Conventions Used
 * PRIOR ART
 
   Generally the conventions here are/will-have-been lifted from org-mode
-  ("Org").
+  ("Org").  Org mode is an organizational format and features for Emacs.
+  Org is associated with (and here for), among other things, organizing
+  complex writing and/or program generation, deployment, etc. for
+  example (and often) in terms of things to do, etc.  Org appears widely
+  (if not typically) used across a number of industries/practices such
+  as within hybrid science (for example, labs mixing practical sciences
+  such as chemistry with technology systems development) and law.
 
   Org is developed as a FOSS project and is discussing but has not yet
   committed to expressing and putting forth a formal mime-type.  Corwin,
@@ -145,7 +151,7 @@ Markup and Conventions Used
   related to org/Emacs we will similarly mention it here.
 
 
-* Using "Categories"
+* What are Categories?
 
   Of the boilerplate from org, perhaps the categories will stick out the
   most to you when viewing as plain and unadorned ("undramatic") text.
@@ -183,8 +189,8 @@ Markup and Conventions Used
      our communities interest.
   8. EXCEPTION, something in the past that we didn't plan for or usually
      would not want to do.
-  9. FINAL, when a complete part or section of text verbatim should be
-     duly received as.
+  9. FINAL, when a section of text including any markup is and should be
+     duly received verbatim.
 
 
 How To Change This Document             :VITAL:PUBLIC:EXAMPLE:PROCEDURE:
