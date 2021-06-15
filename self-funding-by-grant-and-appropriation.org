@@ -1,0 +1,124 @@
+#+TITLE: FOSSHOST INCREMENTAL SELF-FUNDING SUSTAINABILITY PLAN
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+
+** TL;DR
+
+   * Assets are divided into long and short term bundles.
+   * Funds in the *short-term bundle* are kept in our bank account.
+   * We can spend from the bank account per approved budgets, grants, invoices, or receipts.
+   * We distribute the long term bundle across stable investments, listed in [[Strategic Allocations]].
+   * A process called "appropriations" covers money-movement between long- and short-term bundles.
+   * We require specific accounting/reporting/auditing practices related to handling funds.
+   * We list key persons having financial responsibilities at/for Fosshost.
+
+* INTRODUCTION
+
+This document is a work-in-progress draft hinting toward possible
+format a financial plan for Fosshost may take. The details likely
+aren't right. Hopefully, as you read, you have ideas as to what is
+missing, not sufficiently in-focus, or doesn't seem quite right.
+
+Please don't assume what's obvious to you is also obvious to others:
+share your ideas to leverage a large gift in the 100-250k USD range
+into long term sustainability for our mission: providing free hosting
+to help out Free and Open Source software development.
+
+** STATUS: This is an Early/Initial Draft for Internal Comment
+
+Don't view this document as closing any discussions whatever.  Our
+goal is to stat thinking together about making formal and public
+commitments around money.  This will help every feel on the same page
+as we put specific rules in place about how we will handle money as an
+organization, including how we will plan to save and to spend it.
+
+** Is it "Secret"?
+
+Not really.  If the process of agreeing on how we'll approach
+budgeting (hopefully an open process potentially involving all hands,
+like this) drags on it's likely that you will receive questions.
+Inevitably, you may wish to speak from these, and other ideas.  Please
+make sure those you discuss with understand our ground rules:
+
+1. The Fosshost board will reach a decision no sooner than 1 July 2021
+   regarding a near (and any initial longer term) financial plan.
+2. All conversations between now and then are speculative.
+3. We welcome all input toward delivering the maximum value to the
+   community with our project. Thank you for thoughts & suggestions.
+
+* ABSTRACT
+
+  FOSSHOST CIC is a not-for-profit provider of internet hosting
+  services for Free and Open Source Softare (FOSS) development.
+
+
+  This document outlines our approach to ensure the long term
+  viability our mission and provides specific actions for our
+  organization to complete related to the management of our budgets,
+  with the aim of ensuring our services availability for the
+  foreseeable future, and providing direction for our regular and
+  publicly report on our expenditures as being in terms specifically
+  of these proscribed actions and stated terms of mission viability.
+
+** DOCUMENT SCOPE (ALL VOLUNTEERS)
+
+   /This document is a draft.  No provisions are binding currently./
+   /This disclosure will be removed if/when this document is approved./
+
+   All provisions herein are binding to all volunteers (including our
+   diectors), other agents or asignees, etc.  Any exceptions must be
+   approved in advance by our secretary in accordance with our
+   articles and general practices of management: generally that the
+   board are all aware of significant decisions in advance and that
+   we will generally not approve (for example) exceptions to our prior
+   written direction without attempting to reach an unanimous
+   consensus of all our directors, if not of all of all volunteers.
+
+** How This Document Is Organized
+
+   This remainder of this document describes our financial plan.  It
+   is divided in three major sections (following this one):
+
+   1. Administration: accounting, money-movement, and disclosure practices
+   2. Strategic: investment, grants, and routine auditing practices
+   3. Incremental: tactical and routine appropriations (buying stuff, paying bills)
+
+   *Plan Administration*
+   The initial sections detail with administrative natter, such as
+   stating clear parameters for using the top natter of the document
+   to describe the nature and state of the this plan, as it changes,
+   describing our general accounting practices, and setting out
+   expectations for each of us when/if we spend/handle/transfer funds
+   for Fosshost (e.g. "money movement").
+
+   *Strategic Allocations*
+   Following the administrative practices we set out our plans for
+   longer term viability of our organization, our "Strategic" plan.
+   In addition to describing our plans generally, this section also
+   provides long term forecasts and outlines long term investment
+   practices, practices for releasing/recovering funds from investment
+   when needed for operation/expense ("grants"), and provides lists of
+   significant assets currently invested along with financial models
+   and forecasts based on the practices described, along with details
+   for updating these as invested monies are released/spent and
+   otherwise the calculus changes.
+
+   *Incremental Expenditures*
+   The most current and specific information will always be toward the
+   end of the document, for example the current month's operating
+   expenses form the final section, immediately preceded by
+   forecasts/planning for the following three (3) months.
+
+** PARTIES OF RESPONSIBILITY
+
+| Person   | Title              | Financial Role? (Focus)    |
+| Thomas   | CEO                | Yes (all)                  |
+| Nikola   | CIC Secretary      | Yes (public reporting)     |
+| Jonathon | Executive Director | Yes (audits)               |
+| Corwin   | COO                | Yes (forecasts/prospectus) |
+| Hope     | DDO                | Yes (budgeting)            |
+
+* Plan Administration
+
+* Strategic Allocations
+
+* Incremental Expenditures
