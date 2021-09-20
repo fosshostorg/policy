@@ -23,21 +23,19 @@ exceptions described within the ITEMS immediately below:
 ## ITEMS
 
 1.  We don't pay staff, volunteers or directors.
-2.  We will use your branding and otherwise mention those we host.
-3.  We require you to use our branding and else and otherwise advertise our relationship but may have specific related conditions for you now and again.
-4.  We can stop doing some or all of what we are doing for you at almost any time for almost any reason at our option.
-5.  We will keep records so that we regularly report on these and similar stated promises.
-6.  We will consider most of the records we keep as for internal use only and will usually keep them secret and not share them.
-7.  We will state expressly the specific information we routinely retain but do not usually report along with risks and procedure related to unavoidable/required disclosure.
+2.  We require you to use our branding, and we will use your branding, to highlight our mutual relationship, and may have specific related conditions for you now and again.
+3.  We can stop doing some or all of what we are doing for you at almost any time for almost any reason at our option.
+4.  We will keep records so that we regularly report on these and similar stated promises.
+5.  We will consider most of the records we keep as for internal use only and will usually keep them secret and not share them.
+6.  We will state expressly the specific information we routinely retain but do not usually report along with risks and procedure related to unavoidable/required disclosure.
 7.  We will retain and fully and faithfully report (usually, eventually) publicly such information (however specific and detailed) as we must to satisfy such diligence as we find due and proper.
-9. We share when we can from (especially) our vital records more often than we are required but we do so (but if, when, and as we may choose).
-10. We effect procedures and internal systems specific to keeping our vital records, for example such as all those needed for/by the office of the regulator of the CIC.
-11. Most publication at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us.
-12. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital.
-13. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license.
-14. We may, at our sole option, elect to use non-FOSS software but we will never incorporate it into our network nor unless by specific exception require its use.
-15. Our volunteers (other than the directors) do receive certain and specified rights within so they may and do represent our directors in conducting our operations.
-16. Our volunteers do not otherwise delegate or defer than as stated below and typical; we in no way consider they lessen our responsibility to/for FOSSHOST CIC.
+8. We effect procedures and internal systems specific to keeping our vital records, for example such as all those needed for/by the office of the regulator of the CIC.
+9. Most publication at our discretion is in terms of this reporting and other information we possess remains in confidence to the extent possible for us.
+10. Abuse of any kind is not tolerated and will usually cause some or all information related and kept within our other systems to become more vital.
+11. We strongly prefer FOSS software and will not consider hosting other types of development or otherwise than development under a FOSS license.
+12. We may, at our sole option, elect to use non-FOSS software but we will never incorporate it into our network nor unless by specific exception require its use.
+13. Our volunteers (other than the directors) do receive certain and specified rights within so they may and do represent our directors in conducting our operations.
+14. Our volunteers do not otherwise delegate or defer than as stated below and typical; we in no way consider they lessen our responsibility to/for FOSSHOST CIC.
 
 
 ## LIMITATIONS AND ALTERNATIVES
