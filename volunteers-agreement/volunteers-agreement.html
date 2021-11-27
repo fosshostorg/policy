@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2021-11-26 Fri 17:56 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Volunteers Agreement</title>
+<meta name="author" content="Thomas Markey &lt;admin@fosshost.org&gt;" />
+<meta name="generator" content="Org Mode" />
+<style>
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">Volunteers Agreement</h1>
+<div id="table-of-contents" role="doc-toc">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents" role="doc-toc">
+<ul>
+<li><a href="#org51c8f0a">1. Induction and Training</a></li>
+<li><a href="#org8cff38b">2. Probationary Period</a></li>
+<li><a href="#org179da4a">3. Supervision, support and flexibility</a></li>
+<li><a href="#orga3d96c3">4. Expenses</a></li>
+<li><a href="#org9208bce">5. Health and safety</a></li>
+<li><a href="#org08127e7">6. Insurance</a></li>
+<li><a href="#orgd1e5c8e">7. Equal opportunities</a></li>
+<li><a href="#org936e831">8. Problems and Insubordination</a></li>
+<li><a href="#orgc33386c">9. Age Requirements</a></li>
+<li><a href="#orgd5a1b96">10. Values</a></li>
+<li><a href="#orgbe1435e">11. Remuneration</a></li>
+<li><a href="#org8d1cb5d">12. Notice Period</a></li>
+<li><a href="#org1bba494">13. Gross Misconduct / Suspension</a></li>
+<li><a href="#org60dd336">14. Benefits</a></li>
+<li><a href="#orgeae33ed">15. Policies, Procedures and Processes</a></li>
+<li><a href="#orgfe8cb07">16. Confidentiality</a></li>
+<li><a href="#orgfac536e">17. Full and Complete Agreement, Maintenance, and Severability</a></li>
+</ul>
+</div>
+</div>
+<p>
+VERSION: 1.2
+STATUS: Published
+LAST MODIFIED BY: Thomas Markey &lt;EMAIL REDACTED&gt;
+LAST REVIEWED BY: Corwin, for the Board &lt;EMAIL REDACTED&gt; Thomas Markey, Corwin Brust, Nate Sales, Jonathan Fernyhough, Nikola Stojkovic (chair)
+LAST REVIEW DATE: 31 October 2021
+NEXT REVIEW DUE DATE: 31 October 2022
+CLASSIFICATION: CONFIDENTIAL (with signature affixed) or (otherwise) PUBLIC
+</p>
+
+<p>
+This document is the agreement between Fosshost and you, a volunteer agreeing to help us.
+</p>
+
+<ul class="org-ul">
+<li>It outlines what is expected when you become (or stop being) a Fosshost volunteer</li>
+<li>It broadly defines the voluntary position you are accepting when you sign it</li>
+<li>It requires you to seek understanding of our values, policies and organization</li>
+<li>It requires you adhere to an ethical and professional code of conduct</li>
+</ul>
+
+<div id="outline-container-org5afffdf" class="outline-2">
+<h2 id="org5afffdf">SUMMARY</h2>
+<div class="outline-text-2" id="text-org5afffdf">
+<p>
+This document (“Volunteer Agreement”) was updated 31th October 2021 and is an agreement between Fosshost C.I.C, a community interest company registered in England and Wales, Great Britain. Registered Office Address 7 Bell Yard London WC2A 2JR; and “you”, as undersigned.
+</p>
+
+
+<p>
+This Volunteer Agreement describes the arrangement between us, Fosshost, and you (the volunteer) concerning your voluntary work. This agreement intends to assure you that we appreciate your volunteering with us and indicates our commitment to to make your volunteer experience a positive and rewarding one as best we can.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org51c8f0a" class="outline-2">
+<h2 id="org51c8f0a"><span class="section-number-2">1.</span> Induction and Training</h2>
+<div class="outline-text-2" id="text-1">
+<p>
+We will provide training and induction to all new volunteers. During this time, you are required to ask questions, write down notes, refer to training material, and spend your time learning our systems and processes.  All volunteers are expected to help new volunteers learn and grow.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org8cff38b" class="outline-2">
+<h2 id="org8cff38b"><span class="section-number-2">2.</span> Probationary Period</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+A three-month probationary period begins when you sign this agreement.  This ensures things are working out for both you and us. During this time, you and we are free to end the relationship for any reason. If you continue to volunteer after the probationary period and do not have a probationary review meeting, you can safely assume that you have passed your probation. If your probation is unsuccessful, we will notify you about this within three months.  If we terminate your volunteer relationship after this period we will notify and provide the reason unless we are prohibited from doing so, for example by law or our own publicly shared policies. 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org179da4a" class="outline-2">
+<h2 id="org179da4a"><span class="section-number-2">3.</span> Supervision, support and flexibility</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+Fosshost is led by our CEO (Thomas Markey).  Day to day operations are led by our COO (Corwin Brust).  The Fosshost board provides executive direction to the project.  We have named a number of Company Officers who assist this group in ensuring we meet the legal and ethical obligations of our project.  Finally, we have named a number of Capability Domain Owners, who are the primary experts regarding given parts of the technology and services we provide. You will take direction from one or several of these leaders depending on your duties.
+</p>
+
+
+<p>
+You are responsible to seek to understand our organization structure, to do your best to receive and follow direction from the most appropriate leader, and to promptly raise concerns such as suspected or demonstrable malfeasance, harassment, or violations of law or of our policies.
+</p>
+
+
+<p>
+Where a capability has no named lead, responsibility rests with our COO, CEO, and Board.  We expect all volunteers to freely share information with each other, especially to trust respective leads with whatever information or access is requested.  Specific concerns in this regard must be raised to the Fosshost board or otherwise may be considered insubordination.
+</p>
+
+
+<p>
+As a volunteer, you are expected to support each of your peers by sharing your views and by following the directions you receive. We appreciate that we will not always agree and encourage discussion/debate and thus evolution of all elements of Fosshost; however, at times our leads will require you to follow directions whether or not you agree. 
+</p>
+
+
+<p>
+Fosshost adopts a flexible working environment and way of working. All volunteers can work from home and use their own devices (BYOD).  We do not mandate any set number of hours per day or week. However, we ask that all volunteers contribute actively. If you are absent for an extended period, we will review and may terminate your volunteer role.
+</p>
+
+
+<p>
+We ask that each volunteer make and keep commitments regarding availability to the project. There is no minimum but the general guideline is that each volunteer will be available to the project at least two (2) hours each month. We expect that volunteers will let us know in advance of long periods of absence and inform us of changes to their more general availability. Further availability expectations apply to leaders; these are established on a case by case basis.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orga3d96c3" class="outline-2">
+<h2 id="orga3d96c3"><span class="section-number-2">4.</span> Expenses</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+We prefer that Fosshost make direct payments to vendors and suppliers; however, you may be able to claim expenses, such as mileage or meals/refreshments when conducting a data centre visit or attending a conference for Fosshost, and for other reasonable and necessary purposes.
+</p>
+
+
+<p>
+You are required to request approval prior to incurring costs for which you expect reimbursement. Our Chief Financial Officer (Lillaia Christensen, CFO) or our board (including our COO and CEO) are the only persons entitled to approve and reimburse expenses.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org9208bce" class="outline-2">
+<h2 id="org9208bce"><span class="section-number-2">5.</span> Health and safety</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+To ensure a safe working environment and in the best interests of your health, Fosshost has an Occupational Health advisor. The advisor is independent of Fosshost and can work with you remotely to understand any related concerns and can make suggestions to us on your behalf. 
+</p>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-org08127e7" class="outline-2">
+<h2 id="org08127e7"><span class="section-number-2">6.</span> Insurance</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+You are entitled to have insurance in place to protect you whilst you complete duties at Fosshost as a volunteer, excepting whilst you are in transit, for example going to visit a data centre on-site or to/from a conference. Please speak to the COO, CEO or another board member if relevant. 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgd1e5c8e" class="outline-2">
+<h2 id="orgd1e5c8e"><span class="section-number-2">7.</span> Equal opportunities</h2>
+<div class="outline-text-2" id="text-7">
+<p>
+Fosshost prides itself on operating a diverse working environment for you to enjoy and participate in. Everybody is made to feel welcome, regardless of their background or culture. Fosshost is a very diverse org.  We do not tolerate harassment of any person for any reason. 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org936e831" class="outline-2">
+<h2 id="org936e831"><span class="section-number-2">8.</span> Problems and Insubordination</h2>
+<div class="outline-text-2" id="text-8">
+<p>
+Everybody within Fosshost is approachable, including all leaders and our Board of Directors.  We wish to have an inclusive environment where anybody can freely raise their concerns.
+</p>
+
+
+<p>
+Fosshost may treat failure to comply with this policy as ignoring direction, thus insubordination.  
+</p>
+
+
+<p>
+Insubordination is a cause for discipline and inasmuch may include, at our sole option, our creating of records documenting the problem, reassignment/change in duties, revocation of authority, loss of access, and/or termination of your relationship with Fosshost as a volunteer.  
+</p>
+
+
+<p>
+The Chief People Officer (Alyx Wolcott, CPO), as well as the Fosshost board (including our CEO and COO), have authority to immediately terminate your relationship with Fosshost.
+</p>
+
+
+<p>
+We prefer to raise concerns, even those regarding how we work together, in our normal communications forums, so discussions may be open to our full team.  Feedback should always be expressed in a friendly and kindly supportive manner.  However, we recognize that in some serious instances (for example, such as harassment: something we have absolutely no tolerance for), volunteers may not be comfortable sharing their concerns broadly. All volunteers are expected to bring such concerns directly to the attention of our CPO or, at each volunteer's preference, may express such concerns to our COO, our CEO, or our full Board of Directors.
+</p>
+</div>
+</div>
+
+
+
+
+<div id="outline-container-orgc33386c" class="outline-2">
+<h2 id="orgc33386c"><span class="section-number-2">9.</span> Age Requirements</h2>
+<div class="outline-text-2" id="text-9">
+<p>
+We require all volunteers to be over the age of 16 years of age. However, we may consider exceptions to this on a case-by-case basis with parental / guardian consent. This is to protect Fosshost against any claims for child labour.  If you are a volunteer under the age of 16, you agree that we can obtain permission from your parent or guardian, and understand that you are doing this for your own good and because you want to help Free and Open Source projects.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgd5a1b96" class="outline-2">
+<h2 id="orgd5a1b96"><span class="section-number-2">10.</span> Values</h2>
+<div class="outline-text-2" id="text-10">
+<p>
+Fosshost has some crucial values which we expect volunteers to adopt. These are honesty, transparency, accountability, professionalism and unity.  By being a volunteer, you agree to these values and commit observing and portraying them in and by all your contributions. Further, we expect all volunteers to conduct themselves with a high degree of professionalism. 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgbe1435e" class="outline-2">
+<h2 id="orgbe1435e"><span class="section-number-2">11.</span> Remuneration</h2>
+<div class="outline-text-2" id="text-11">
+<p>
+Typically we do not pay any volunteers (including any director) at Fosshost. However, we do have an expenses system in place, and may from time to time, on a case by case basis, expend project funds/resources to support volunteers, for example with equipment to ensure that they can complete their duties. Occasionally, we host social nights as our way of saying “thank you”. 
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org8d1cb5d" class="outline-2">
+<h2 id="org8d1cb5d"><span class="section-number-2">12.</span> Notice Period</h2>
+<div class="outline-text-2" id="text-12">
+<p>
+Once a volunteer has passed probation, we kindly request that a volunteer provide one month's notice in writing if you would like to end your volunteering. This helps us ensure a smooth handover of knowledge and responsibilities. We also require you to destroy, when this notice period ends or when discovered, any confidential information, documents, passwords, records, notes, security keys, pins and/or any other non-public Fosshost related information you possess.  This does not include any information specific to your projects hosted with Fosshost.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org1bba494" class="outline-2">
+<h2 id="org1bba494"><span class="section-number-2">13.</span> Gross Misconduct / Suspension</h2>
+<div class="outline-text-2" id="text-13">
+<p>
+Fosshost takes staff conduct and professionalism exceptionally seriously. Any volunteer who commits gross misconduct may have their volunteer role terminated immediately or suspended pending further investigation. Gross misconduct is behaviour by a volunteer which is so severe that it goes to the root of the volunteer agreement and destroys the relationship between you and us. Examples of gross misconduct include theft, physical violence, gross negligence or insubordination and harassment. Directors are not exempt; documents filed with the UK CIC registrar (“Articles”) allow us to immediately dismiss any board member on these same grounds.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org60dd336" class="outline-2">
+<h2 id="org60dd336"><span class="section-number-2">14.</span> Benefits</h2>
+<div class="outline-text-2" id="text-14">
+<p>
+We provide a number of benefits to volunteers. We offer (but do not require you accept):
+</p>
+
+
+<ul class="org-ul">
+<li>Access to our services for personal projects, and experimentation and development</li>
+<li>Access to an independent occupational health advisor</li>
+<li>Mentoring from the Board of Directors and your other peers on the team</li>
+<li>Promotion, the prospect of your volunteer role as a progression</li>
+<li>Social and team building activities</li>
+<li>Expense system</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-orgeae33ed" class="outline-2">
+<h2 id="orgeae33ed"><span class="section-number-2">15.</span> Policies, Procedures and Processes</h2>
+<div class="outline-text-2" id="text-15">
+<p>
+Fosshost operates according to an established set of written policies and procedures, which document our approach and processes, of which this document forms a part.
+</p>
+
+
+<p>
+This ensures that we conduct our work according to the legal, ethical and mutual commitments we have made, and help us choose/approve, safe and controlled methods. Please be mindful of our information systems and take care to ensure that your knowledge is up to date by referring to new information which will allow the organisation to become more efficient.  Importantly, this helps us reduce mistakes and provide high quality and reliable service to our community. 
+</p>
+
+
+<p>
+Our policies (in draft) may be found on our GitHub Policy Repository:
+</p>
+
+<p>
+<a href="https://github.com/fosshostorg/policy">https://github.com/fosshostorg/policy</a>
+</p>
+
+
+<p>
+To this extent there may be differences between this document and information found on that policy, this document should be considered as superior, meaning better and more accurate.  Once the policies found at the link are completed and approved (and are so noted in the repository linked above) they will then be superior to this document (in case of any differences).
+</p>
+
+
+<p>
+In all cases we are governed by our articles, which form our legal charter.  Our Articles are filed with Companies House in England and Wales. Our Articles are superior to this document in case of any discrepancy.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgfe8cb07" class="outline-2">
+<h2 id="orgfe8cb07"><span class="section-number-2">16.</span> Confidentiality</h2>
+<div class="outline-text-2" id="text-16">
+<p>
+Confidential discussions are those which relate to Fosshost and which you understand (or have been asked) not to disclose apart from the with/to the intended audience. While we share as much information about our project as we can, that does not mean that anything/everything about our work is appropriate to share.  This is vital to maintaining the trust of our sponsors, as well as the many large and established projects who use our services.  These organizations may be depended upon by governments and other institutions of trust, and thus that trust may depend on our discretion.  When in any doubt as to confidentiality confirm with a member of the Fosshost board, or to an officer of Fosshost named in this agreement, before sharing the information in question.   We expect you will act with grace and professionalism in choosing what and with whom to share as well as in responding to requests for information.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-orgfac536e" class="outline-2">
+<h2 id="orgfac536e"><span class="section-number-2">17.</span> Full and Complete Agreement, Maintenance, and Severability</h2>
+<div class="outline-text-2" id="text-17">
+<p>
+This document is the full and complete volunteer agreement.  We will share with you a draft of any update we make thirty (30) days prior to it being final; you are bound upon receipt of each final version. By signing below you are agreeing to all terms herein. You further agree, if any part of this agreement is found to be unenforceable, you are yet bound by all that remains.
+</p>
+
+
+<blockquote>
+<p>
+I understand and I agree to do my best to abide by this agreement in carrying out my duties.
+</p>
+
+<p>
+Full Name
+</p>
+
+
+
+
+
+
+<p>
+Signature
+</p>
+
+
+
+
+
+
+<p>
+Date
+</p>
+</blockquote>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Thomas Markey</p>
+<p class="date">Created: 2021-11-26 Fri 17:56</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
