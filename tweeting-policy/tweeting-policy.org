@@ -77,6 +77,7 @@ Access to the Twitter account should be as restrictive as possible so that possi
     :PROPERTIES:
     :CUSTOM_ID: issues-with-the-service
     :END:
+
 Assume we have a node down due to a hardware failure, and the company where the node is hosted gives an ETA of one hour. The tweet can be like the following example:
 
 #+begin_quote
