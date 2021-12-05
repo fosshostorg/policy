@@ -1,0 +1,11 @@
+#+TITLE: General Procedures for Chat Moderation
+
+These are general guidelines to help volunteers moderate our chat forums.  Please read and carefully consider our public guidelines for chat behavior.   Keep in mind that our chat contains great diversity of opinion and personality and that everyone can learn and benefit from great examples of friendly open-minded communication.
+
+1. always try to resolve disputes by demonstrating and describing the preferred ways to behave in chat
+
+2.private warn people if they are risking moderator action ; be as specific as possible.  you may create a ticket in OS ticket to document this and should assign to the comms team, if you do
+
+3.publicly warn the individual they may be banned.  be specific about the behavior that is concerning so others who have witnessed the problematic behavior do not believe we are tolerating it.
+
+4.ban the individual, create/update ticket in OS ticket.  if possible include the person as a collaborator.  clearly state the terms under which the ban may be lifted, if any (e.g. when ban is temporary or may be lifted conditioned on some action(s), etc.)
