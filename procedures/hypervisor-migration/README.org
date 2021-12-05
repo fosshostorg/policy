@@ -1,0 +1,33 @@
+#+TITLE: Migration of  Multi-Tenant Hypervisor
+#+AUTHOR: Corwin Brust <corwin@fosshost.org>
+
+Update to Tenants Impacted Dec 3
+
+#+BEGIN_QUOTE
+Thanks for your reply; this message confirms we've received your response
+
+We're continuing to provision infrastructural goodness and will respond using this new (project-specific) ticket with detailed information as your new hosting platform(s) come online.
+
+If you are comfortable, what information about typical workloads/processing patterns/job schedules as you may be able to share could be greatly helpful toward minimizing (or perhaps in some cases, avoiding) interruptions of service.
+
+You can also reply to this new ticket with any questions.
+
+If we have significant updates (or when we close the "master ticket") you might receive one or two more replies in the original thread.
+
+In all events, we'll reply to this thread soonest to share (where possible, to coordinate) timing and other detail of your transition(s).
+
+Warm regards,
+Team Fosshost
+#+END_QUOTE
+
+* INPROGRESS Create project-specific tickets
+
+ 1. Mass ping impacted tenants, Reply-To: support@fosshost.org
+ 2. Disable each collaborator who replies
+ 3. Copy Name from the note from the new collaborator,
+ 4. Press "Create Ticket" (try pressing <END> key to jump back to top of page)
+    [[file:create-ticket.png]]
+ 5. Paste collaborator name into combo-box (top field)
+    [[file:create-ticket-lookup-user-combobox.png]]
+ 6. Set assign and set *priority*, and compose initial message.
+ 7. Press "OPEN"
